@@ -1,0 +1,203 @@
+{
+ "version": "1.0.0",
+ "packages": [
+  {
+   "id": "b1-part1",
+   "title": "B1 · часть 1",
+   "level": "B1",
+   "count": 150,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b1-part1.zip",
+    "size": 7870188,
+    "sha256": "842eb7f07fe6400bae64d1179214eeb9ce92fa03c96a61197440aa1e2d6e8129",
+    "files": 600
+   }
+  },
+  {
+   "id": "b1-part2",
+   "title": "B1 · часть 2",
+   "level": "B1",
+   "count": 206,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b1-part2.zip",
+    "size": 11070033,
+    "sha256": "a8763db96f25c74680929d5a76355e5016a832a7568e494f684aa6c2ede3f670",
+    "files": 824
+   }
+  },
+  {
+   "id": "b1-part3",
+   "title": "B1 · часть 3",
+   "level": "B1",
+   "count": 206,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b1-part3.zip",
+    "size": 11082119,
+    "sha256": "7465853375ea2d4995da1154b2da3eabd651b4458a56429cadb4252023f3e9ff",
+    "files": 824
+   }
+  },
+  {
+   "id": "b1-part4",
+   "title": "B1 · часть 4",
+   "level": "B1",
+   "count": 206,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b1-part4.zip",
+    "size": 10868444,
+    "sha256": "76ac1479aa1c71c4984031b07469b51d912f653562eae1a1d0fcd133daa958d0",
+    "files": 824
+   }
+  },
+  {
+   "id": "b2-part4",
+   "title": "B2 · часть 4",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part4.zip",
+    "size": 14103320,
+    "sha256": "dc0da9525dd8061d20ba569aaafd092029c126aa4c7e6d2e4c85206eefc088a5",
+    "files": 1000
+   }
+  },
+  {
+   "id": "b1-part5",
+   "title": "B1 · часть 5",
+   "level": "B1",
+   "count": 207,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b1-part5.zip",
+    "size": 11132892,
+    "sha256": "1036ef1cc64286497bd9476e2a7f1bd59792adafc4c5c2811a802d3a467a7bd9",
+    "files": 828
+   }
+  },
+  {
+   "id": "b2-part1",
+   "title": "B2 · часть 1",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part1.zip",
+    "size": 14357500,
+    "sha256": "bb84f3e7fb1c8b08eee45623dd3128caa8f3e22795fd7c9db9922f19febe1122",
+    "files": 1000
+   }
+  },
+  {
+   "id": "b2-part2",
+   "title": "B2 · часть 2",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part2.zip",
+    "size": 13821100,
+    "sha256": "e3e332cb84817b11fe3570d5530f5297881891895aed472901be6a1c4734bf9a",
+    "files": 1000
+   }
+  },
+  {
+   "id": "b2-part3",
+   "title": "B2 · часть 3",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part3.zip",
+    "size": 13797471,
+    "sha256": "c177308fa981b637b9215cced66354ce6367a4dce300b4490f89431f6bec4b80",
+    "files": 1000
+   }
+  },
+  {
+   "id": "b2-part5",
+   "title": "B2 · часть 5",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part5.zip",
+    "size": 13788404,
+    "sha256": "dce4252718d61494c2409b06029a5ab1824c11a3ba2923a487f8120a6903bdd5",
+    "files": 1000
+   }
+  },
+  {
+   "id": "b2-part6",
+   "title": "B2 · часть 6",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part6.zip",
+    "size": 14002171,
+    "sha256": "5d2bea9443107802495fcf2011efa23aaeebd425ef052bcf6e1995ea95fdb3f6",
+    "files": 1000
+   }
+  },
+  {
+   "id": "b2-part7",
+   "title": "B2 · часть 7",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part7.zip",
+    "size": 12922061,
+    "sha256": "c7e5194846ebc100174950c6ae818a1e9782c69f4c5bfc5af1bc4cb22ea1a6ef",
+    "files": 1000
+   }
+  },
+  {
+   "id": "b2-part8",
+   "title": "B2 · часть 8",
+   "level": "B2",
+   "count": 250,
+   "version": "1.0.0",
+   "audio": {
+    "zip": "b2-part8.zip",
+    "size": 12648896,
+    "sha256": "6325f6639810421f342feb7192970226fcbd7ff553d1b1e5bb6e7e726302f2c2",
+    "files": 1000
+   }
+  },
+  {
+   "id": "audio-a2b1",
+   "title": "Озвучка базы (A2+B1)",
+   "level": "Загрузки",
+   "count": 1456,
+   "version": "1.0.0",
+   "type": "audio-core",
+   "audio": {
+    "zip": "audio-a2b1.zip",
+    "size": 35682429,
+    "sha256": "4560301c6bd4d884a20ee3210cfc35528bdf5b17434aa2fee46e1a2bb1ace562",
+    "files": 5824
+   }
+  },
+  {
+   "id": "asr-models",
+   "title": "Тренажёр произношения (ASR)",
+   "level": "Загрузки",
+   "count": 0,
+   "version": "1.0.0",
+   "type": "asr",
+   "audio": {
+    "zip": "asr-models.zip",
+    "size": 95559679,
+    "sha256": "42988f1fd2ccaaca06e560e0e3f23418225b0758567df6bc3639f17fb2498e36",
+    "files": 15
+   }
+  }
+ ],
+ "packsRepoVer": "2.21.0"
+}
