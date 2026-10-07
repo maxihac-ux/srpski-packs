@@ -1,5 +1,5 @@
 {
- "version": "1.0.0",
+ "version": "1.0.1",
  "packages": [
   {
    "id": "b1-part1",
@@ -179,9 +179,9 @@
    "type": "audio-core",
    "audio": {
     "zip": "audio-a2b1.zip",
-    "size": 35682429,
-    "sha256": "4560301c6bd4d884a20ee3210cfc35528bdf5b17434aa2fee46e1a2bb1ace562",
-    "files": 5824
+    "size": 36130084,
+    "sha256": "d2dcb3ab2b9e8e56fb901422d9c2f4ad60f1aedb017dbced38c64db771831c44",
+    "files": 5826
    }
   },
   {
