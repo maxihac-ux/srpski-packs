@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "packages": [
     {
       "id": "b1-part1",
       "title": "B1 · часть 1",
       "level": "B1",
       "count": 150,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "audio": {
         "zip": "b1-part1.zip",
-        "size": 7870188,
-        "sha256": "842eb7f07fe6400bae64d1179214eeb9ce92fa03c96a61197440aa1e2d6e8129",
+        "size": 7834946,
+        "sha256": "1a547527c148c00a77bf4e8819dcd11a1f7742e27d66578d21436593e08e095b",
         "files": 600
       }
     },
@@ -175,12 +175,12 @@
       "title": "Озвучка базы (A2+B1)",
       "level": "Загрузки",
       "count": 1456,
-      "version": "1.0.2",
+      "version": "1.1.0",
       "type": "audio-core",
       "audio": {
         "zip": "audio-a2b1.zip",
-        "size": 36196837,
-        "sha256": "47d62a3ce55f66bb5291defb211ec48c9d201f61e36e0a18e1ae37cffbb0493a",
+        "size": 36292081,
+        "sha256": "6ffd3e30c076d7e1e62f1b8df5e5855006c3a7ff24d694b1b787e6bb49df6187",
         "files": 5826
       }
     },
