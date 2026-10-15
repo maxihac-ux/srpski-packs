@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "version": "2.42.0",
-  "code": 420,
-  "sha256": "8c75bd507f7cf993d71d2c29498101ccf1665c6a5a7167dabd565297edea4369",
-  "size": 8187591,
+  "version": "2.43.0",
+  "code": 430,
+  "sha256": "7e533972735f42346be9dad9b6283104202efd8543e16e9a8f915616bd0abee0",
+  "size": 8193415,
   "files": 58,
-  "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.42.0/web-bundle.zip",
-  "minApkCode": 420,
-  "nativeHash": "abb6e9640e737fb29877493ebbe04488cb6119c274b2f766073203d28ee144dd"
+  "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.43.0/web-bundle.zip",
+  "minApkCode": 430,
+  "nativeHash": "22e3815bc4ada7f8a184cd652474b2e69954da5c852abc3c6e54e8eb6fcc45fe"
 }
