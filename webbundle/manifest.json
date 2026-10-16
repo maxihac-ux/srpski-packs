@@ -6,6 +6,13 @@
   "size": 8218192,
   "files": 58,
   "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.46.0/web-bundle.zip",
-  "minApkCode": 453,
-  "nativeHash": "6e7dcbe96a8dca8d6cc79471280aa6203e4b5aa14dcf47db8690c4e90fc4a621"
+  "minApkCode": 441,
+  "nativeHash": "6e7dcbe96a8dca8d6cc79471280aa6203e4b5aa14dcf47db8690c4e90fc4a621",
+  "hashes": {
+    "441": "6e7dcbe96a8dca8d33e6da23e4e561d0f4d9aa4d69c4f32f3267ee0e4329dbf2",
+    "450": "6e7dcbe96a8dca8d33e6da23e4e561d0f4d9aa4d69c4f32f3267ee0e4329dbf2",
+    "451": "6e7dcbe96a8dca8d33e6da23e4e561d0f4d9aa4d69c4f32f3267ee0e4329dbf2",
+    "452": "1eb92a6ba55b41f0",
+    "453": "6e7dcbe96a8dca8d6cc79471280aa6203e4b5aa14dcf47db8690c4e90fc4a621"
+  }
 }
