@@ -1,18 +1,18 @@
 {
-  "version": "2.46.3",
-  "code": 456,
+  "version": "2.47.0",
+  "code": 457,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
   "notes": "Приватность отчётов: убран запасной путь через публичный прокси — отчёты уходят только напрямую в Telegram или через реле зеркала; при полном неуспехе остаются в копилке (отправка пачкой или письмом). Инфраструктура качества: тест-харнессы ядра (стресс-цикл, банки слов/грамматики/пар) гоняются в CI на каждый коммит. Версия собирается из одной точки (build.gradle).",
   "updatedAt": "2026-10-19T12:00:00+13:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.46.3",
-    "code": 456,
-    "sha256": "fa99e8cf164ee902f092cd32abd8da947658f913b6ad9fe57388cdf1ccb590f2",
-    "size": 8217781,
+    "version": "2.47.0",
+    "code": 457,
+    "sha256": "8ea314dc4c510a1118053936582f7b0b9cc32fa4ebd7e8577ba26194bf6edd3a",
+    "size": 8217693,
     "files": 58,
-    "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.46.3/web-bundle.zip",
-    "minApkCode": 456
+    "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.47.0/web-bundle.zip",
+    "minApkCode": 457
   }
 }
