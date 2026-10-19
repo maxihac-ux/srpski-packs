@@ -1,18 +1,18 @@
 {
-  "version": "2.47.0",
-  "code": 457,
+  "version": "2.48.0",
+  "code": 458,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
-  "notes": "Приватность отчётов: убран запасной путь через публичный прокси — отчёты уходят только напрямую в Telegram или через реле зеркала; при полном неуспехе остаются в копилке (отправка пачкой или письмом). Инфраструктура качества: тест-харнессы ядра (стресс-цикл, банки слов/грамматики/пар) гоняются в CI на каждый коммит. Версия собирается из одной точки (build.gradle).",
+  "notes": "Мост обновлён до Capacitor 8.5.3: нативная оболочка собрана под SDK 36 (Android 16), минимальная версия системы — Android 7.0. Плагины выровнены по мажору моста (local-notifications 8.3.1, app 8.1.2, preferences 8.0.1); распознавание речи — 7.0.1, совместимо. R8-минификация сохранена; WebView больше не перезагружается при смене плотности экрана.",
   "updatedAt": "2026-10-19T12:00:00+13:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.47.0",
-    "code": 457,
-    "sha256": "8ea314dc4c510a1118053936582f7b0b9cc32fa4ebd7e8577ba26194bf6edd3a",
-    "size": 8217693,
+    "version": "2.48.0",
+    "code": 458,
+    "sha256": "8874c2cc960feae078b489270ff6cb28c12fa6a62edeea9579bd651d2b6d1fb9",
+    "size": 8218033,
     "files": 58,
-    "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.47.0/web-bundle.zip",
-    "minApkCode": 457
+    "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.48.0/web-bundle.zip",
+    "minApkCode": 458
   }
 }
