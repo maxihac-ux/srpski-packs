@@ -1,5 +1,5 @@
 {
- "version": "1.0.5",
+ "version": "1.0.6",
  "packages": [
   {
    "id": "b1-part1",
@@ -175,12 +175,12 @@
    "title": "Озвучка базы (A2+B1)",
    "level": "Загрузки",
    "count": 1456,
-   "version": "1.1.3",
+   "version": "1.1.4",
    "type": "audio-core",
    "audio": {
-    "zip": "audio-a2b1.zip",
-    "size": 35980296,
-    "sha256": "e0d114f69d86019147e6df02a0a5cd4433998da278c402d10af3e7bd29f9373e",
+    "zip": "audio-a2b1-114.zip",
+    "size": 35987518,
+    "sha256": "7dd2138b2e682a3b1f3f6fe5a4ac58005e04d2b4b9e74cd334c42015d75f0388",
     "files": 5828
    }
   },
