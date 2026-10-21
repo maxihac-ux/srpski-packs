@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "version": "2.49.5",
-  "code": 466,
-  "sha256": "00ebb43dec1d965835e2a5d86633d38da188ef9f882fbdead77a9ce5e74c25d0",
-  "size": 8244098,
+  "version": "2.49.6",
+  "code": 467,
+  "sha256": "5581def28d0c3dccad4ab5e3cd894ff42d1d97f6eebf42413d1f94c981701805",
+  "size": 8246825,
   "files": 59,
-  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-466.zip",
+  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-467.zip",
   "minApkCode": 459,
   "nativeHash": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
   "hashes": {
@@ -14,7 +14,8 @@
     "462": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "463": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "465": "ebe9164d53fdecd3ca1591718c584333373d3036a961a2e9a75b6de7c61b4961",
-    "466": "00ebb43dec1d965835e2a5d86633d38da188ef9f882fbdead77a9ce5e74c25d0"
+    "466": "00ebb43dec1d965835e2a5d86633d38da188ef9f882fbdead77a9ce5e74c25d0",
+    "467": "5581def28d0c3dccad4ab5e3cd894ff42d1d97f6eebf42413d1f94c981701805"
   },
-  "notes": "Озвучка наконец устанавливается: исправлена распаковка (DEFLATE через DecompressionStream), пак пересобран STORE как 1.1.4; jsDelivr не используется для файлов >20 МБ; самолечение sha больше не ставит пак старее серверного манифеста."
+  "notes": "Живые диалоги с ИИ: собеседник теперь Bazits; перевод — по кнопке; выбор алфавита Ћир/Lat/Оба; голосовой ввод микрофоном; озвучка без подсказки «читает робот» на каждой фразе, смайлы не озвучиваются; исправлен транслит."
 }
