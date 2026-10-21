@@ -1,18 +1,19 @@
 {
   "enabled": true,
-  "version": "2.49.2",
-  "code": 463,
-  "sha256": "1a44636a4c0916ec3f3d80c0106f496a865dfbc3db72cb2a75381d8a883f4e47",
-  "size": 8241799,
+  "version": "2.49.4",
+  "code": 465,
+  "sha256": "ebe9164d53fdecd3ca1591718c584333373d3036a961a2e9a75b6de7c61b4961",
+  "size": 8243431,
   "files": 59,
-  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-463.zip",
+  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-465.zip",
   "minApkCode": 459,
   "nativeHash": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
   "hashes": {
     "459": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "461": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "462": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
-    "463": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65"
+    "463": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
+    "465": "ebe9164d53fdecd3ca1591718c584333373d3036a961a2e9a75b6de7c61b4961"
   },
-  "notes": "Новое: «Диалоги» → «С ИИ · бета» — живые разговоры с Милой на сербском, уровень A1/A2/B1 и исправление ошибок. Режим нейросетевой: нужен интернет, включается кнопкой «Подключить», там же честные пометки и отключение. Готовые диалоги из курса работают как раньше, офлайн."
+  "notes": "Надёжные обновления: полный APK ставится без отката быстрого; паки озвучки докачиваются сами (сеть/сворачивание больше не срывают загрузку) и больше не «мигают оранжевым» после 100%; зеркало jsDelivr, если raw недоступен."
 }
