@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "version": "2.49.4",
-  "code": 465,
-  "sha256": "ebe9164d53fdecd3ca1591718c584333373d3036a961a2e9a75b6de7c61b4961",
-  "size": 8243431,
+  "version": "2.49.5",
+  "code": 466,
+  "sha256": "00ebb43dec1d965835e2a5d86633d38da188ef9f882fbdead77a9ce5e74c25d0",
+  "size": 8244098,
   "files": 59,
-  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-465.zip",
+  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-466.zip",
   "minApkCode": 459,
   "nativeHash": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
   "hashes": {
@@ -13,7 +13,8 @@
     "461": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "462": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "463": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
-    "465": "ebe9164d53fdecd3ca1591718c584333373d3036a961a2e9a75b6de7c61b4961"
+    "465": "ebe9164d53fdecd3ca1591718c584333373d3036a961a2e9a75b6de7c61b4961",
+    "466": "00ebb43dec1d965835e2a5d86633d38da188ef9f882fbdead77a9ce5e74c25d0"
   },
-  "notes": "Надёжные обновления: полный APK ставится без отката быстрого; паки озвучки докачиваются сами (сеть/сворачивание больше не срывают загрузку) и больше не «мигают оранжевым» после 100%; зеркало jsDelivr, если raw недоступен."
+  "notes": "Озвучка наконец устанавливается: исправлена распаковка (DEFLATE через DecompressionStream), пак пересобран STORE как 1.1.4; jsDelivr не используется для файлов >20 МБ; самолечение sha больше не ставит пак старее серверного манифеста."
 }
