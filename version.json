@@ -1,21 +1,21 @@
 {
-  "version": "2.50.2",
-  "code": 472,
+  "version": "2.50.3",
+  "code": 473,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
   "apkVersion": "2.50.1",
   "apkCode": 471,
-  "notes": "ИИ-диалоги вернулись хот-обновлением: вкладка «Диалоги» с живым Bazits (NVIDIA NIM), перевод по кнопке, выбор алфавита, голосовой ввод. Заморозка быстрого обновления снята. Безопасность 2.50.x в силе: отчёты и журналы — только через Worker-реле Cloudflare.",
-  "updatedAt": "2026-10-23T03:25:00+12:00",
+  "notes": "Точечный ремонт после сверки со сценой 2.49.8: вернули защиту паков 2.49.7 (битые паки получают «переустановить», плеер работает даже без Service Worker, фоновая сверка блобов чинит «зелёный, но не звучит») и кнопку «Нашли ошибку» в вопросе «прослушайте, выберите и произнесите». ИИ-диалоги на месте: Bazits (NVIDIA NIM), перевод по кнопке, выбор алфавита, голосовой ввод. Безопасность 2.50.x в силе: отчёты только через Worker-реле Cloudflare.",
+  "updatedAt": "2026-10-22T22:52:20+12:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.50.2",
-    "code": 472,
+    "version": "2.50.3",
+    "code": 473,
     "minApkCode": 459,
-    "notes": "Возврат ИИ-диалогов (dlgAI 2.49.6 → сцена 2.50.2): чат, учебные диалоги, транслит, озвучка реплик.",
-    "sha256": "f8b973ff2f970f0f96aa6c44f47eda969b6d07379921a27dfa2c628e392afa20",
-    "size": 8265018,
+    "notes": "Ремонт тихих откатов 2.50.1: pkgs-dl.js 2.49.7 (broken/verify/blob), репорт-кнопка listen-speak, broken → докачка в UI паков.",
+    "sha256": "3b96bda4e5c3688783b20d26be620a82795b99f0131ec00c68ddacda58a3b649",
+    "size": 8266221,
     "files": 59,
-    "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.50.2/web-bundle.zip"
+    "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.50.3/web-bundle.zip"
   }
 }
