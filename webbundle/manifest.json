@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "version": "2.50.2",
-  "code": 472,
-  "sha256": "f8b973ff2f970f0f96aa6c44f47eda969b6d07379921a27dfa2c628e392afa20",
-  "size": 8265018,
+  "version": "2.50.3",
+  "code": 473,
+  "sha256": "3b96bda4e5c3688783b20d26be620a82795b99f0131ec00c68ddacda58a3b649",
+  "size": 8266221,
   "files": 59,
-  "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.50.2/web-bundle.zip",
+  "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.50.3/web-bundle.zip",
   "minApkCode": 459,
   "nativeHash": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
   "hashes": {
@@ -18,7 +18,8 @@
     "467": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "470": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "471": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
-    "472": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65"
+    "472": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
+    "473": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65"
   },
-  "notes": "Возврат ИИ-диалогов (dlgAI 2.49.6 → сцена 2.50.2): чат, учебные диалоги, транслит, озвучка реплик."
+  "notes": "Ремонт тихих откатов 2.50.1: pkgs-dl.js 2.49.7, репорт-кнопка, broken → докачка."
 }
