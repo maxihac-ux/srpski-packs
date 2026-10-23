@@ -1,21 +1,21 @@
 {
-  "version": "2.50.3",
-  "code": 473,
+  "version": "2.50.4",
+  "code": 474,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
   "apkVersion": "2.50.1",
   "apkCode": 471,
-  "notes": "Точечный ремонт после сверки со сценой 2.49.8: вернули защиту паков 2.49.7 (битые паки получают «переустановить», плеер работает даже без Service Worker, фоновая сверка блобов чинит «зелёный, но не звучит») и кнопку «Нашли ошибку» в вопросе «прослушайте, выберите и произнесите». ИИ-диалоги на месте: Bazits (NVIDIA NIM), перевод по кнопке, выбор алфавита, голосовой ввод. Безопасность 2.50.x в силе: отчёты только через Worker-реле Cloudflare.",
-  "updatedAt": "2026-10-22T22:52:20+12:00",
+  "notes": "Исправлен сбой вкладки «Диалоги» (приложение закрывалось при открытии). Диалоги, ИИ-чат Bazits (NVIDIA NIM), перевод, алфавит и голосовой ввод снова работают. Защита паков 2.49.7 и кнопка «Нашли ошибку» на месте. Безопасность 2.50.x в силе: отчёты только через Worker-реле Cloudflare.",
+  "updatedAt": "2026-10-23T16:20:00+12:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.50.3",
-    "code": 473,
+    "version": "2.50.4",
+    "code": 474,
     "minApkCode": 459,
-    "notes": "Ремонт тихих откатов 2.50.1: pkgs-dl.js 2.49.7 (broken/verify/blob), репорт-кнопка listen-speak, broken → докачка в UI паков.",
-    "sha256": "3b96bda4e5c3688783b20d26be620a82795b99f0131ec00c68ddacda58a3b649",
-    "size": 8266221,
+    "notes": "Фикс сбоя «Диалогов» (React #130): полный пере-маппинг dlg-блока под сборку 471 (18 имён, AST-верификация) + иконка вкладки.",
+    "sha256": "00c057a812912cde12daa2614722b75419fd0dcc92e23973e5da956ef302efd4",
+    "size": 8266119,
     "files": 59,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-473.zip"
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-474.zip"
   }
 }
