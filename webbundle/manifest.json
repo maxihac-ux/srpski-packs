@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "version": "2.50.4",
-  "code": 474,
-  "sha256": "00c057a812912cde12daa2614722b75419fd0dcc92e23973e5da956ef302efd4",
-  "size": 8266119,
+  "version": "2.50.5",
+  "code": 475,
+  "sha256": "f6cf090813078305c9c9309bfeed53617c71afd2c99e6fa17a3384f74ed4ceea",
+  "size": 8675456,
   "files": 59,
-  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-474.zip",
+  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-475.zip",
   "minApkCode": 459,
   "nativeHash": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
   "hashes": {
@@ -20,7 +20,8 @@
     "471": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "472": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "473": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
-    "474": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65"
+    "474": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
+    "475": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65"
   },
-  "notes": "Фикс сбоя «Диалогов» (React #130): пере-маппинг dlg-блока (18 имён) + иконка вкладки."
+  "notes": "Словарь (пагинация + ios-blur, тихий откат 2.49.0), микрофон ИИ-чата, Базиц (аватары/реакции), новая иконка, таб-бар 7 колонок."
 }
