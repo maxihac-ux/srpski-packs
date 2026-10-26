@@ -1,16 +1,16 @@
 {
- "version": "1.0.8",
+ "version": "1.0.9",
  "packages": [
   {
    "id": "b1-part1",
    "title": "B1 · часть 1",
    "level": "B1",
    "count": 150,
-   "version": "1.0.3",
+   "version": "1.0.4",
    "audio": {
-    "zip": "b1-part1.zip",
-    "size": 7230510,
-    "sha256": "943a498cfc8133856fe9627e70db6a53b2318db84582dd5cbda57945ecab90f2",
+    "zip": "b1-part1-117.zip",
+    "size": 7242342,
+    "sha256": "b642dd34646aae55fafcad66cc931789e3e9f95aad5d62f627b922005febe195",
     "files": 600
    }
   },
@@ -19,11 +19,11 @@
    "title": "B1 · часть 2",
    "level": "B1",
    "count": 206,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b1-part2.zip",
-    "size": 8937476,
-    "sha256": "167f1b23646ba9f9062c69dce1c64e2ef7e062815137886f63811e7a4d379c68",
+    "zip": "b1-part2-117.zip",
+    "size": 9019079,
+    "sha256": "a8397fc7e3e90706bdc8e3e9191223e3f3d15da91e6d07489aba3cf2f7dfffbb",
     "files": 824
    }
   },
@@ -32,11 +32,11 @@
    "title": "B1 · часть 3",
    "level": "B1",
    "count": 206,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b1-part3.zip",
-    "size": 9252927,
-    "sha256": "c6c872df042571cf86bc6fcf01f526b529c6bf4e284a2c94b041fec33310556d",
+    "zip": "b1-part3-117.zip",
+    "size": 9378704,
+    "sha256": "2094d2c591fb1a8f4839bd08f40c9e135ac85e3ef6d9dbca084c204ba26bbd69",
     "files": 824
    }
   },
@@ -45,11 +45,11 @@
    "title": "B1 · часть 4",
    "level": "B1",
    "count": 206,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b1-part4.zip",
-    "size": 9581539,
-    "sha256": "6671f71deedd8160a3556f167c2e3d342a5536f2b3261c5d1e4250949527e9d2",
+    "zip": "b1-part4-117.zip",
+    "size": 9690659,
+    "sha256": "067ef48d31ea744237dbddac0307feece901343c6cfdcce023214162b8e3ff49",
     "files": 824
    }
   },
@@ -58,11 +58,11 @@
    "title": "B1 · часть 5",
    "level": "B1",
    "count": 207,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b1-part5.zip",
-    "size": 9449973,
-    "sha256": "c6028740924f6a5e1e57870274aab5fa1fb3e020b807f42d71ae3eacc391f062",
+    "zip": "b1-part5-117.zip",
+    "size": 9579907,
+    "sha256": "8e26737f10d038a24f4b931f08902fdadfd9c639ee32f504f32435ee05e101f4",
     "files": 828
    }
   },
@@ -71,11 +71,11 @@
    "title": "B2 · часть 1",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part1.zip",
-    "size": 12288339,
-    "sha256": "cdaefad63fb08d9eb2d8a18bb7f8aa0639aefd7f250f47c4eed3076c99ecb917",
+    "zip": "b2-part1-117.zip",
+    "size": 12382150,
+    "sha256": "ebb7103fcfbd10253930d045ccac47b95d47cec5102fc57860fac0dd2260cbe8",
     "files": 1000
    }
   },
@@ -84,11 +84,11 @@
    "title": "B2 · часть 2",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part2.zip",
-    "size": 11859784,
-    "sha256": "c597c9c8a5a24565fe4405a963247c5f3134854fa7111a042f931757b96e3051",
+    "zip": "b2-part2-117.zip",
+    "size": 12003973,
+    "sha256": "0df133289f7861e6a2a3bdd2a0d1c8597911278d105833d7e3a119aa57b68840",
     "files": 1000
    }
   },
@@ -97,11 +97,11 @@
    "title": "B2 · часть 3",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part3.zip",
-    "size": 11618642,
-    "sha256": "5f605e64629dfc69e38f73b2a19e51e3c120a3c0c8578959bf4aa2ac574216d5",
+    "zip": "b2-part3-117.zip",
+    "size": 11755110,
+    "sha256": "36891382f488ba5e5de32add6c211ffb76176c0c48ac84a48169cddc8d042ab1",
     "files": 1000
    }
   },
@@ -110,11 +110,11 @@
    "title": "B2 · часть 4",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part4.zip",
-    "size": 11906482,
-    "sha256": "d8b15d4fb4ef92297325e17eaa08ae8ffab7b833225e883e73b8925382199aaa",
+    "zip": "b2-part4-117.zip",
+    "size": 12035228,
+    "sha256": "f99cbddbe5b75b2174eb20d529b2a940adbd144bdeca7873fafe3daf00ef6863",
     "files": 1000
    }
   },
@@ -123,11 +123,11 @@
    "title": "B2 · часть 5",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part5.zip",
-    "size": 10906301,
-    "sha256": "c4d9706954b2deeb0b0037d735829565615e601beeab38d99183737b8f3ec886",
+    "zip": "b2-part5-117.zip",
+    "size": 11045495,
+    "sha256": "166571f5ba31415dc4301fdd75175e572bb26e4a2519ab60a01605a8de3e692d",
     "files": 1000
    }
   },
@@ -136,11 +136,11 @@
    "title": "B2 · часть 6",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part6.zip",
-    "size": 11762780,
-    "sha256": "e0c7295a4c083baf171217134d4b838984a10d8df4de0aadde6a28e1e7ed78d6",
+    "zip": "b2-part6-117.zip",
+    "size": 11875236,
+    "sha256": "0e04736deb62b05cac79bfb30e82e2ece333011e1523a5506f4e3e61641dc426",
     "files": 1000
    }
   },
@@ -149,11 +149,11 @@
    "title": "B2 · часть 7",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part7.zip",
-    "size": 9376812,
-    "sha256": "89c001d17c750a66d008aa76c2060f8eff32c4f6dbcde3c56bb57c04bf80031f",
+    "zip": "b2-part7-117.zip",
+    "size": 9547385,
+    "sha256": "a0685f94f43008e197e77c2c01ef49a5a5e932e4ffb91930a0a4e17288f789d6",
     "files": 1000
    }
   },
@@ -162,11 +162,11 @@
    "title": "B2 · часть 8",
    "level": "B2",
    "count": 250,
-   "version": "1.0.2",
+   "version": "1.0.3",
    "audio": {
-    "zip": "b2-part8.zip",
-    "size": 9304245,
-    "sha256": "dba9ae99e3e7e2dda792ebd9276952d32999962308007443ba4cb394a39f595f",
+    "zip": "b2-part8-117.zip",
+    "size": 9445844,
+    "sha256": "d6c507ede37d783b469a216e9593c02932ae30472dcab0a0b2a57c9799ac1953",
     "files": 1000
    }
   },
@@ -175,12 +175,12 @@
    "title": "Озвучка базы (A2+B1)",
    "level": "Загрузки",
    "count": 1456,
-   "version": "1.1.6",
+   "version": "1.1.7",
    "type": "audio-core",
    "audio": {
-    "zip": "audio-a2b1-116.zip",
-    "size": 35697226,
-    "sha256": "240145d8360c3ce750fa82b03a02961378373e728cc3ea3dc294b1b69379fd15",
+    "zip": "audio-a2b1-117.zip",
+    "size": 35615011,
+    "sha256": "9820986d0e07f190814259fa6f8024c159e61c386eb75c8e1f55be3d3c5b1728",
     "files": 5828
    }
   },
