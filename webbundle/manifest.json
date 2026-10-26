@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "version": "2.50.6",
-  "code": 476,
-  "sha256": "f54f778b868d69b79635b9d3d027c42d0566c0769b88bff98eef58916058b457",
-  "size": 8674672,
+  "version": "2.50.7",
+  "code": 477,
+  "sha256": "08a4a025d186015ca3a091ca9dc97455ef18e6768935191369584c1e61ea7776",
+  "size": 8678608,
   "files": 64,
-  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-476.zip",
-  "minApkCode": 459,
+  "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.50.7/web-bundle.zip",
+  "minApkCode": 476,
   "nativeHash": "545f684cb768948be42da2cd5a19198f2a52d6a920eef11b785adb542d45e7f5",
   "hashes": {
     "459": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
@@ -22,7 +22,7 @@
     "473": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "474": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
     "475": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
-    "476": "545f684cb768948be42da2cd5a19198f2a52d6a920eef11b785adb542d45e7f5"
-  },
-  "notes": "Иконка лаунчера «книга + Ћ»; вшитая A1-озвучка «је» перезаписана; диалоги, быстрый словарь, Базиц — сборка целиком из src (475-наследие)."
+    "476": "545f684cb768948be42da2cd5a19198f2a52d6a920eef11b785adb542d45e7f5",
+    "477": "545f684cb768948be42da2cd5a19198f2a52d6a920eef11b785adb542d45e7f5"
+  }
 }
