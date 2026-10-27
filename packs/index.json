@@ -1,0 +1,21 @@
+{
+  "indexVersion": 1,
+  "generatedAt": "2026-10-27T07:10:00+12:00",
+  "packs": [
+    {
+      "id": "sr-base",
+      "lang": "sr",
+      "title": "Сербский — базовый (A1): слова, алфавит, озвучка-оглавление",
+      "version": "1.0.0",
+      "levels": [
+        "A1"
+      ],
+      "requiresCoreApi": 1,
+      "size": 247211,
+      "sha256": "b6a5d75990201ba7ddf3a8e9fc3c5075afdc6cb5088efb15b477ebff7225359b",
+      "channel": "stable",
+      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-base-v1.0.0/sr-base-1.0.0.zip",
+      "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4)."
+    }
+  ]
+}
