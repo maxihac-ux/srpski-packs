@@ -1,6 +1,87 @@
 {
-  "indexVersion": 1,
-  "generatedAt": "2026-10-27T07:10:00+12:00",
+  "indexVersion": 2,
+  "generatedAt": "2026-10-27T23:30:00+12:00",
+  "pairs": [
+    {
+      "native": "ru",
+      "target": "sr",
+      "title": "Сербский с русского",
+      "packs": [
+        {
+          "id": "sr-ru-base",
+          "kind": "base",
+          "native": "ru",
+          "target": "sr",
+          "title": "Сербский — база пары",
+          "version": "2.0.0",
+          "requiresCoreApi": 1,
+          "size": 3685,
+          "sha256": "2aebee375c3bdf098b3439ce80ce3497ae42d6eb05c28af339e1323c1b094ed5",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-base-2.0.0.zip",
+          "words": null,
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+        },
+        {
+          "id": "sr-ru-a1",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "A1",
+          "requires": [
+            "sr-ru-base"
+          ],
+          "title": "Сербский — уровень A1",
+          "version": "2.0.0",
+          "requiresCoreApi": 1,
+          "size": 444814,
+          "sha256": "b3efecd362737798bfde406d861d1195b643ffdae93865ff79348d91c478a3be",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-a1-2.0.0.zip",
+          "words": 569,
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+        },
+        {
+          "id": "sr-ru-a2",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "A2",
+          "requires": [
+            "sr-ru-base"
+          ],
+          "title": "Сербский — уровень A2",
+          "version": "2.0.0",
+          "requiresCoreApi": 1,
+          "size": 689454,
+          "sha256": "f8939ef8a2d8310c1b4a5f8912da51472ef939e1765f13d3ea824707253c39b2",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-a2-2.0.0.zip",
+          "words": 1355,
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+        },
+        {
+          "id": "sr-ru-b1",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "B1",
+          "requires": [
+            "sr-ru-base"
+          ],
+          "title": "Сербский — уровень B1",
+          "version": "2.0.0",
+          "requiresCoreApi": 1,
+          "size": 49268,
+          "sha256": "827d070d292e394b5109ee449be7b86d7bd519138b8a52b135131122261ec311",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-b1-2.0.0.zip",
+          "words": 100,
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+        }
+      ]
+    }
+  ],
   "packs": [
     {
       "id": "sr-base",
