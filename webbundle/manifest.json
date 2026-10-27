@@ -5,8 +5,8 @@
   "sha256": "08a4a025d186015ca3a091ca9dc97455ef18e6768935191369584c1e61ea7776",
   "size": 8678608,
   "files": 64,
-  "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/apk-v2.50.7/web-bundle.zip",
-  "minApkCode": 476,
+  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-477.zip",
+  "minApkCode": 459,
   "nativeHash": "545f684cb768948be42da2cd5a19198f2a52d6a920eef11b785adb542d45e7f5",
   "hashes": {
     "459": "2d232e1c38cd4bb813034966a32192292b117ed697b82bdf782be8e7bbddea65",
