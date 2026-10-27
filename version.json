@@ -1,18 +1,18 @@
 {
-  "version": "2.52.0",
-  "code": 481,
+  "version": "2.53.0",
+  "code": 482,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
   "notes": "Этап 3 новой архитектуры (инструкция №6): языковые пакеты. Полноценный менеджер пакетов в ядре (каталог, установка с sha256 и зависимостями, вкл/выкл, удаление с сохранением прогресса, режим «только офлайн», проверка целостности), pack-sdk для сборки пакетов (zip STORE, pack.json, contentHash), конвертер данных в пакет sr-base (569 слов A1 + алфавит + мета), seed-установка стартового пакета тем же установщиком, новая карточка «Языковые пакеты» в настройках. Внешне приложение то же; аудио-подпакеты — следующая итерация.",
   "updatedAt": "2026-10-27T12:00:00+12:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.52.0",
-    "code": 481,
-    "sha256": "079379b0d868fb732afd8d3f01de73c6bbcda9709978667f1724698d953cab6d",
-    "size": 8686491,
+    "version": "2.53.0",
+    "code": 482,
+    "sha256": "0034092449f049d1fcb87d2077da0afe65e751f25ec854d538f5746ba6dabfaa",
+    "size": 8690169,
     "files": 64,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-481.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-482.zip",
     "minApkCode": 459
   }
 }
