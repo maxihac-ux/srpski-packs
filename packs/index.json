@@ -20,7 +20,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-base-2.0.0.zip",
           "words": null,
-          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep",
+          "sig": "4tnnFSmIG8QEzO26EWFj32oMazLrP4qF9GpUArEtK0ZxlRG6jkyvRqEHgenFFizrJg+WW9JFZztUfHPv1LROAw=="
         },
         {
           "id": "sr-ru-a1",
@@ -39,7 +40,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-a1-2.0.0.zip",
           "words": 569,
-          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep",
+          "sig": "8FFKCZdSwVfKVk5+GBPC69kschueVPtdzlD4CXveHjmrJUe/CUQ//ybaMn6Wo7n8Q0wgbTPOrupr4vp3I7ziDQ=="
         },
         {
           "id": "sr-ru-a2",
@@ -58,7 +60,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-a2-2.0.0.zip",
           "words": 1355,
-          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep",
+          "sig": "MaUwEcRT8g/oYsI6Y0gOLB/k3EaADCIwuqiM6G2I1s7GOH6kwOvjBeMOj9akyrorkh8/bw7YwuM5j+F6LoaDCA=="
         },
         {
           "id": "sr-ru-b1",
@@ -77,7 +80,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.1/sr-ru-b1-2.1.0.zip",
           "words": 1075,
-          "notes": "2.1.0: полный уровень — вшитый срез (100) + легаси «Пакеты слов» b1-part1…5 (975 слов)"
+          "notes": "2.1.0: полный уровень — вшитый срез (100) + легаси «Пакеты слов» b1-part1…5 (975 слов)",
+          "sig": "tiiVA+YXEUbFfRAmYZy6nFuzm17j52/odSb0RPbEAoL0/OzuM2F2Fdv5pyoXG/6uA49W+Em67AB+3vQ4xiKsAQ=="
         },
         {
           "id": "sr-ru-b2",
@@ -96,7 +100,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.1/sr-ru-b2-2.0.1.zip",
           "words": 1993,
-          "notes": "Первый пак уровня B2: легаси «Пакеты слов» b2-part1…8 (2000 → 1993 слов: 7 текстовых дублей легаси-инъекции никогда не показывались)"
+          "notes": "Первый пак уровня B2: легаси «Пакеты слов» b2-part1…8 (2000 → 1993 слов: 7 текстовых дублей легаси-инъекции никогда не показывались)",
+          "sig": "1rfiZUKksem69IaIx5PHMFPyX0S8Y4S3jUvU4hmHURM1LNPyROUh8jvvSSV3aHG83Ebfonz/uj3LdxcUUXg7Cw=="
         },
         {
           "id": "sr-ru-a1-audio-f",
@@ -115,7 +120,8 @@
           "sha256": "8524c932a93d97f5c09e2578945326fa6d7ad08f45fee7f2a79b01690819aab7",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a1-audio-f-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "PjyhE7vXTV4zhig5MrnIhxx7LYwOMlTWm5vhy0iOgtMTynm3nO3W2J0VJfQQnxbNWpgVu2EVS/CU0ID2QZbgDg=="
         },
         {
           "id": "sr-ru-a1-audio-m",
@@ -134,7 +140,8 @@
           "sha256": "90cf28def925743b392a90adbae60cf1bdbf6f581e141f35588016afdd9266fb",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a1-audio-m-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "60gm8gdmprJbnq45vaIfb1X4AHJwDNZFQqlhrbr+JR3qhxSGF9ytt9jELmtGNpPTeUMBKxxrnhFa2YeMQDxsBA=="
         },
         {
           "id": "sr-ru-a2-audio-f",
@@ -153,7 +160,8 @@
           "sha256": "f6750a1c64543938dc609d584cda3ae99c62aadd78fc5a5daf4ea7757193f7e8",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a2-audio-f-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "Zyqjr/qys4qN7gZ7//FWoQAU3JXgrXuYn4olJuRLqk3p/F4ML9LS0LfNohdkfJX9AiFC7GLa4Bhhv7oDsrdbDg=="
         },
         {
           "id": "sr-ru-a2-audio-m",
@@ -172,7 +180,8 @@
           "sha256": "5cf50a697364050136ac44480f18b10e7f8e2ed39be1dae818b6a9c6b265e198",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a2-audio-m-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "UwbpLCwBV13C4kB7lSpS2CG7LSp/hKDwKNGi3OS+p//LFzd0D/SCBR2rbeNuySz2l8LnJMPX8nGSzQLeJGQwAA=="
         },
         {
           "id": "sr-ru-b1-audio-f",
@@ -191,7 +200,8 @@
           "sha256": "acfc4b241fa9e62710ae307ae9858697900068fb1ac408f0fc341392c1d586e9",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b1-audio-f-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "xfNkUiKE8WF8/T1vrQSl/rs1oWZua1E6mTZGBh/0xh+VZQeARDRKFkay6Kk3oC+9GlzGuKHua74BbRfQuVfxAg=="
         },
         {
           "id": "sr-ru-b1-audio-m",
@@ -210,7 +220,8 @@
           "sha256": "a3d222252a79b594e46c019066936e96f6f7916b0fb3a08b83248feb142ccbe8",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b1-audio-m-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "ZcIm1Kg1rxLWJirgnlODHdlB1mkL2gwXSYrBdhtuyTOqCFw6Fa5d1GE+JsHlDhAt7+JlB76hTzSgaM21rExTAw=="
         },
         {
           "id": "sr-ru-b2-audio-f",
@@ -241,7 +252,8 @@
           ],
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "YL51aqVcBKBMs6VVka0YKUq62s0b/uKJDI9mHbLsKElleNarIJTiXcPjNdlpBXmwZ9fgWUaZV10ofaqgFqXJBQ=="
         },
         {
           "id": "sr-ru-b2-audio-m",
@@ -272,7 +284,8 @@
           ],
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-m-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "FC4yy53WEtdPcIi/ogwzhp5BZetXldX5xUd3nOcaG6N/v6MmpFt5MpyHFWfJjuLB48eitH1RN9DNmEwM0LCnDw=="
         },
         {
           "id": "sr-ru-base-audio-f",
@@ -290,7 +303,8 @@
           "sha256": "e7c0d139490d8237b195da84d4ab1859e1b4ce6b523c949968711217b8ebcdad",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-base-audio-f-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "GIRJhqhCCtRrJH3PTnX6UY5L3CmOr2AoxDV9G/r6xr/VbqsGlwkIOp3Se7VQEsMAO5zS4tID2Kqd4VPFRN4FDA=="
         },
         {
           "id": "sr-ru-base-audio-m",
@@ -308,7 +322,8 @@
           "sha256": "472a60dcd51bfb1c90d1123c9bc81e99db6b0450141d01a49f22e51b9944dabb",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-base-audio-m-1.0.0.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
+          "sig": "3rZLkEfrazJYUEcbkViu0894jzsuh2U8q8T6E5q6jLFvz4MfuKKdBHVw7/rKnVakT9IA8TZlw7ep/co38bAZAw=="
         },
         {
           "id": "sr-ru-qa-a2-1",
@@ -325,7 +340,8 @@
           "sha256": "e2eb50e06d3e32c9c901635abbe78ac1b7e3ef1e5013631150ab65646f9b6ea3",
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-qa-a2-1-1.0.0.zip",
-          "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL"
+          "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL",
+          "sig": "Wztc8KHyFfq5cA5EqR1HwOlAKWqWpiP1mUZSzIy679O7uUjfC3X7Rdr8+WKcRGm7OzoQLiNxryDCD0prEcfgBQ=="
         },
         {
           "id": "sr-ru-qa-b1-1",
@@ -342,7 +358,8 @@
           "sha256": "66ece1cfb3b736e19e855278db47efdb10fcd8c444a61ceb3abb996b5986c87f",
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-qa-b1-1-1.0.0.zip",
-          "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL"
+          "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL",
+          "sig": "B15fkKGsJFfSQMzHVvXW12dM0nKKQueG5EuKNQXicySJhyUDYXBdy0/s8nU5+k34q0uEH7qc/OOagFLDwaFIDw=="
         },
         {
           "id": "sr-ru-asr-models",
@@ -374,7 +391,8 @@
               "size": 15868357,
               "sha256": "e3c0d689afc01564e0fd9ffe3bcd5f3e7c4357aac4f27919b85ff34483240a5c"
             }
-          ]
+          ],
+          "sig": "M3B04cwuz1EsnLlc+bUQFMngbuwsjMBQx31HRi2yvBLDymhhbBaXf1mHymxolSTSZuzjmaj/im2uEwNnHwh0BQ=="
         }
       ]
     }
@@ -393,7 +411,9 @@
       "sha256": "b6a5d75990201ba7ddf3a8e9fc3c5075afdc6cb5088efb15b477ebff7225359b",
       "channel": "stable",
       "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-base-v1.0.0/sr-base-1.0.0.zip",
-      "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4)."
+      "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
+      "sig": "JVUtkcl+jOih7J2d/ehvBe2fqIPdg1wKUm89iXwvSJHiHCOs1/XsIgmi4nl2QDU0W299RCg2+1EiVLB3tv2HAg=="
     }
-  ]
+  ],
+  "sig": "02/BcgTJvlSL56fsSJxH9FkCm5mXa4kU7VhJaBEFAZNpcqzFpZMo6GAgI7O8Rk5U+qyqzmWBhshBlcl7v/8GDw=="
 }
