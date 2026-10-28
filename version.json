@@ -7,12 +7,12 @@
   "updatedAt": "2026-10-27T12:00:00+12:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.53.0",
-    "code": 482,
-    "sha256": "0034092449f049d1fcb87d2077da0afe65e751f25ec854d538f5746ba6dabfaa",
-    "size": 8690169,
+    "version": "2.53.1",
+    "code": 483,
+    "sha256": "1f9968bc0aedca37ed82432ca2249e2a235187b6d5b96a32df6d143f74d98b4b",
+    "size": 8692702,
     "files": 64,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-482.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-483.zip",
     "minApkCode": 459
   }
 }
