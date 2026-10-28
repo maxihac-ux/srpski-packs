@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-10-28T00:35:11.273776+00:00",
+  "generatedAt": "2026-10-28T04:20:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -97,6 +97,218 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.1/sr-ru-b2-2.0.1.zip",
           "words": 1993,
           "notes": "Первый пак уровня B2: легаси «Пакеты слов» b2-part1…8 (2000 → 1993 слов: 7 текстовых дублей легаси-инъекции никогда не показывались)"
+        },
+        {
+          "id": "sr-ru-a1-audio-f",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "f",
+          "title": "Сербский — уровень A1 · озвучка, женский голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "A1",
+          "requires": [
+            "sr-ru-a1"
+          ],
+          "size": 8736564,
+          "sha256": "8524c932a93d97f5c09e2578945326fa6d7ad08f45fee7f2a79b01690819aab7",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a1-audio-f-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-a1-audio-m",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "m",
+          "title": "Сербский — уровень A1 · озвучка, мужской голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "A1",
+          "requires": [
+            "sr-ru-a1"
+          ],
+          "size": 8437762,
+          "sha256": "90cf28def925743b392a90adbae60cf1bdbf6f581e141f35588016afdd9266fb",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a1-audio-m-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-a2-audio-f",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "f",
+          "title": "Сербский — уровень A2 · озвучка, женский голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "A2",
+          "requires": [
+            "sr-ru-a2"
+          ],
+          "size": 17004195,
+          "sha256": "f6750a1c64543938dc609d584cda3ae99c62aadd78fc5a5daf4ea7757193f7e8",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a2-audio-f-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-a2-audio-m",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "m",
+          "title": "Сербский — уровень A2 · озвучка, мужской голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "A2",
+          "requires": [
+            "sr-ru-a2"
+          ],
+          "size": 16327070,
+          "sha256": "5cf50a697364050136ac44480f18b10e7f8e2ed39be1dae818b6a9c6b265e198",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-a2-audio-m-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-b1-audio-f",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "f",
+          "title": "Сербский — уровень B1 · озвучка, женский голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "B1",
+          "requires": [
+            "sr-ru-b1"
+          ],
+          "size": 27449034,
+          "sha256": "acfc4b241fa9e62710ae307ae9858697900068fb1ac408f0fc341392c1d586e9",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b1-audio-f-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-b1-audio-m",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "m",
+          "title": "Сербский — уровень B1 · озвучка, мужской голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "B1",
+          "requires": [
+            "sr-ru-b1"
+          ],
+          "size": 26787549,
+          "sha256": "a3d222252a79b594e46c019066936e96f6f7916b0fb3a08b83248feb142ccbe8",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b1-audio-m-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-b2-audio-f",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "f",
+          "title": "Сербский — уровень B2 · озвучка, женский голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "B2",
+          "requires": [
+            "sr-ru-b2"
+          ],
+          "size": 55273611,
+          "sha256": "e966f7ecf511151f671a497b63c6a2f8db7ff1707cbb43b91a220391aa9a1ad8",
+          "parts": [
+            {
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0-p1.zip",
+              "size": 39845888,
+              "sha256": "f9c4102f9782b0b5d2d0272a158f631522797cc8e082db93da1cb7f24df616ce"
+            },
+            {
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0-p2.zip",
+              "size": 15427723,
+              "sha256": "31e57e4364c04aeb62f89b00fbf02366b5c9e9aba4b1704221346dd5cdc6c361"
+            }
+          ],
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-b2-audio-m",
+          "kind": "audio",
+          "native": "ru",
+          "target": "sr",
+          "voice": "m",
+          "title": "Сербский — уровень B2 · озвучка, мужской голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "level": "B2",
+          "requires": [
+            "sr-ru-b2"
+          ],
+          "size": 53762120,
+          "sha256": "497a86d3cebaf014338c73605d2c968a76846bc8510414053d6e795e0e113592",
+          "parts": [
+            {
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-m-1.0.0-p1.zip",
+              "size": 39845888,
+              "sha256": "630832d8ad10db1b5904b57dc0a1ca6e01b5353210ea06cd4d6d9b7e2cf2a30f"
+            },
+            {
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-m-1.0.0-p2.zip",
+              "size": 13916232,
+              "sha256": "1eda5b4916b899079cab3145cb736fc8545a73c4a755feda4fde85d0a17dc65b"
+            }
+          ],
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-m-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-base-audio-f",
+          "kind": "base",
+          "native": "ru",
+          "target": "sr",
+          "voice": "f",
+          "title": "Сербский — азбука · озвучка, женский голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-base"
+          ],
+          "size": 112062,
+          "sha256": "e7c0d139490d8237b195da84d4ab1859e1b4ce6b523c949968711217b8ebcdad",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-base-audio-f-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-base-audio-m",
+          "kind": "base",
+          "native": "ru",
+          "target": "sr",
+          "voice": "m",
+          "title": "Сербский — азбука · озвучка, мужской голос",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-base"
+          ],
+          "size": 122937,
+          "sha256": "472a60dcd51bfb1c90d1123c9bc81e99db6b0450141d01a49f22e51b9944dabb",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-base-audio-m-1.0.0.zip",
+          "channel": "stable",
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
         }
       ]
     }
