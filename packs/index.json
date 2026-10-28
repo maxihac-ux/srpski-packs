@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-10-28T04:20:00+00:00",
+  "generatedAt": "2026-10-28T05:10:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -309,6 +309,72 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-base-audio-m-1.0.0.zip",
           "channel": "stable",
           "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
+        },
+        {
+          "id": "sr-ru-qa-a2-1",
+          "kind": "extra",
+          "native": "ru",
+          "target": "sr",
+          "title": "Вопросы A2 · часть 1 (банк «Вопрос – ответ»)",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-a2"
+          ],
+          "size": 62923,
+          "sha256": "e2eb50e06d3e32c9c901635abbe78ac1b7e3ef1e5013631150ab65646f9b6ea3",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-qa-a2-1-1.0.0.zip",
+          "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL"
+        },
+        {
+          "id": "sr-ru-qa-b1-1",
+          "kind": "extra",
+          "native": "ru",
+          "target": "sr",
+          "title": "Вопросы B1 · часть 1 (банк «Вопрос – ответ»)",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-b1"
+          ],
+          "size": 90767,
+          "sha256": "66ece1cfb3b736e19e855278db47efdb10fcd8c444a61ceb3abb996b5986c87f",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-qa-b1-1-1.0.0.zip",
+          "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL"
+        },
+        {
+          "id": "sr-ru-asr-models",
+          "kind": "extra",
+          "native": "ru",
+          "target": "sr",
+          "title": "Модели встроенного распознавания речи (Whisper ONNX)",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "requires": [],
+          "size": 95560133,
+          "sha256": "906dce357f95a81d9fda84082d1a8f909abce606d060888b49b4be69c651bd7f",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0.zip",
+          "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL",
+          "parts": [
+            {
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0-p1.zip",
+              "size": 39845888,
+              "sha256": "b6615460ca500f14207d77ba371004e86cb5cc75401b5f71294300f72a5a2bbe"
+            },
+            {
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0-p2.zip",
+              "size": 39845888,
+              "sha256": "416dbf203166f86d20628f8f7cacd4ce120764544a622867d89b7295f6330cac"
+            },
+            {
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0-p3.zip",
+              "size": 15868357,
+              "sha256": "e3c0d689afc01564e0fd9ffe3bcd5f3e7c4357aac4f27919b85ff34483240a5c"
+            }
+          ]
         }
       ]
     }
