@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-10-27T23:30:00+12:00",
+  "generatedAt": "2026-10-28T00:35:11.273776+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -70,14 +70,33 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень B1",
-          "version": "2.0.0",
+          "version": "2.1.0",
           "requiresCoreApi": 1,
-          "size": 49268,
-          "sha256": "827d070d292e394b5109ee449be7b86d7bd519138b8a52b135131122261ec311",
+          "size": 608285,
+          "sha256": "09995db31227037304edaad091a48d95d5b76a8d7e847995ac24d32b18458f45",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-b1-2.0.0.zip",
-          "words": 100,
-          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.1/sr-ru-b1-2.1.0.zip",
+          "words": 1075,
+          "notes": "2.1.0: полный уровень — вшитый срез (100) + легаси «Пакеты слов» b1-part1…5 (975 слов)"
+        },
+        {
+          "id": "sr-ru-b2",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "B2",
+          "title": "Сербский — уровень B2",
+          "version": "2.0.1",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-base"
+          ],
+          "size": 1181632,
+          "sha256": "9ffabca27cf656f32326c900b785fa69295ccc3aafe2e3fc74bad4c0e1025e6f",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.1/sr-ru-b2-2.0.1.zip",
+          "words": 1993,
+          "notes": "Первый пак уровня B2: легаси «Пакеты слов» b2-part1…8 (2000 → 1993 слов: 7 текстовых дублей легаси-инъекции никогда не показывались)"
         }
       ]
     }
