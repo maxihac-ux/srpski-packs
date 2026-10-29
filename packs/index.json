@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-10-28T05:10:00+00:00",
+  "generatedAt": "2026-10-29T01:10:04+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -12,16 +12,15 @@
           "kind": "base",
           "native": "ru",
           "target": "sr",
-          "title": "Сербский — база пары",
-          "version": "2.0.0",
+          "title": "Сербский — база: алфавит, транслитерация, категории, озвучка азбуки",
+          "version": "2.1.0",
           "requiresCoreApi": 1,
-          "size": 3685,
-          "sha256": "2aebee375c3bdf098b3439ce80ce3497ae42d6eb05c28af339e1323c1b094ed5",
+          "size": 237511,
+          "sha256": "b377e07d25da481dbfadb6152a7313dfc1a4ae766324455c8200ce6793299e5c",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.0.0/sr-ru-base-2.0.0.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.0/sr-ru-base-2.1.0.zip",
           "words": null,
-          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep",
-          "sig": "4tnnFSmIG8QEzO26EWFj32oMazLrP4qF9GpUArEtK0ZxlRG6jkyvRqEHgenFFizrJg+WW9JFZztUfHPv1LROAw=="
+          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep"
         },
         {
           "id": "sr-ru-a1",
@@ -288,44 +287,6 @@
           "sig": "FC4yy53WEtdPcIi/ogwzhp5BZetXldX5xUd3nOcaG6N/v6MmpFt5MpyHFWfJjuLB48eitH1RN9DNmEwM0LCnDw=="
         },
         {
-          "id": "sr-ru-base-audio-f",
-          "kind": "base",
-          "native": "ru",
-          "target": "sr",
-          "voice": "f",
-          "title": "Сербский — азбука · озвучка, женский голос",
-          "version": "1.0.0",
-          "requiresCoreApi": 1,
-          "requires": [
-            "sr-ru-base"
-          ],
-          "size": 112062,
-          "sha256": "e7c0d139490d8237b195da84d4ab1859e1b4ce6b523c949968711217b8ebcdad",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-base-audio-f-1.0.0.zip",
-          "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
-          "sig": "GIRJhqhCCtRrJH3PTnX6UY5L3CmOr2AoxDV9G/r6xr/VbqsGlwkIOp3Se7VQEsMAO5zS4tID2Kqd4VPFRN4FDA=="
-        },
-        {
-          "id": "sr-ru-base-audio-m",
-          "kind": "base",
-          "native": "ru",
-          "target": "sr",
-          "voice": "m",
-          "title": "Сербский — азбука · озвучка, мужской голос",
-          "version": "1.0.0",
-          "requiresCoreApi": 1,
-          "requires": [
-            "sr-ru-base"
-          ],
-          "size": 122937,
-          "sha256": "472a60dcd51bfb1c90d1123c9bc81e99db6b0450141d01a49f22e51b9944dabb",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-base-audio-m-1.0.0.zip",
-          "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
-          "sig": "3rZLkEfrazJYUEcbkViu0894jzsuh2U8q8T6E5q6jLFvz4MfuKKdBHVw7/rKnVakT9IA8TZlw7ep/co38bAZAw=="
-        },
-        {
           "id": "sr-ru-qa-a2-1",
           "kind": "extra",
           "native": "ru",
@@ -393,6 +354,60 @@
             }
           ],
           "sig": "M3B04cwuz1EsnLlc+bUQFMngbuwsjMBQx31HRi2yvBLDymhhbBaXf1mHymxolSTSZuzjmaj/im2uEwNnHwh0BQ=="
+        }
+      ],
+      "bundles": [
+        {
+          "id": "sr-ru-a1",
+          "level": "A1",
+          "title": "Уровень A1",
+          "parts": [
+            "sr-ru-a1",
+            "sr-ru-a1-audio-m",
+            "sr-ru-a1-audio-f"
+          ],
+          "size": 17619140,
+          "version": "2.0.0",
+          "words": 569
+        },
+        {
+          "id": "sr-ru-a2",
+          "level": "A2",
+          "title": "Уровень A2",
+          "parts": [
+            "sr-ru-a2",
+            "sr-ru-a2-audio-m",
+            "sr-ru-a2-audio-f"
+          ],
+          "size": 34020719,
+          "version": "2.0.0",
+          "words": 1355
+        },
+        {
+          "id": "sr-ru-b1",
+          "level": "B1",
+          "title": "Уровень B1",
+          "parts": [
+            "sr-ru-b1",
+            "sr-ru-b1-audio-m",
+            "sr-ru-b1-audio-f"
+          ],
+          "size": 54844868,
+          "version": "2.1.0",
+          "words": 1075
+        },
+        {
+          "id": "sr-ru-b2",
+          "level": "B2",
+          "title": "Уровень B2",
+          "parts": [
+            "sr-ru-b2",
+            "sr-ru-b2-audio-m",
+            "sr-ru-b2-audio-f"
+          ],
+          "size": 110217363,
+          "version": "2.0.1",
+          "words": 1993
         }
       ]
     }
