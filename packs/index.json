@@ -432,7 +432,7 @@
           "requiresCoreApi": 1,
           "size": 948,
           "sha256": "c73d5f37aae9ea184539b0e6b88ecba726751f36cadf1d67d6a65fc33befe671",
-          "channel": "stable",
+          "channel": "beta",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-en-ru-skeleton-v1.0.0/en-ru-base-1.0.0.zip",
           "sig": "op7oCfwkmjAMFbRwkSMNUC75JD1YXo53HiNE3AGK+Y8yc7F1mmYCiYzpo7+Bziaeg7IC77xmQPur1VsNMF32DA=="
         },
@@ -455,7 +455,7 @@
           "words": 50,
           "size": 10234,
           "sha256": "f8cd493fba9d9a36c4415727878fe6602c057b2d16c7563f3d351ce065965544",
-          "channel": "stable",
+          "channel": "beta",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-en-ru-skeleton-v1.0.0/en-ru-a1-1.0.0.zip",
           "sig": "97LGUtXLXu4T3GVS3gGZOqL4WVNXZGM5Vqzp/Rnj/8ZIBnGCUV9Q+o2lF1/r6zIEwGcBaD2pYV0w/SYWUZp1BQ=="
         }
@@ -493,5 +493,5 @@
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
   ],
-  "sig": "xUnzsP3nvIoVQrRvHOhEBOLFL0Q+295uIEr4lB9g0Rzr7fcKn+z3RwtcASl04KqvQGWdzox2MlQ/tJ9Oa55CDQ=="
+  "sig": "Igzm0Qe51b2b0uiIRJTJghtywkhKjXUTcASCYwt3ShxRCYBXOWQENaes0tmqO8yjA4O/jmC9xiMxCiLBQvVEAg=="
 }
