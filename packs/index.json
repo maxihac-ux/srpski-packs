@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-10-29T01:10:04+00:00",
+  "generatedAt": "2026-10-29T01:41:21+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -409,6 +409,66 @@
           "size": 110217363,
           "version": "2.0.1",
           "words": 1993
+        }
+      ]
+    },
+    {
+      "native": "ru",
+      "target": "en",
+      "title": "Английский с русского",
+      "targetTitle": "Английский",
+      "packs": [
+        {
+          "id": "en-ru-base",
+          "kind": "base",
+          "native": "ru",
+          "target": "en",
+          "scripts": [
+            "latn"
+          ],
+          "defaultScript": "latn",
+          "title": "Английский — база: латиница, категории",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "size": 948,
+          "sha256": "c73d5f37aae9ea184539b0e6b88ecba726751f36cadf1d67d6a65fc33befe671",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-en-ru-skeleton-v1.0.0/en-ru-base-1.0.0.zip"
+        },
+        {
+          "id": "en-ru-a1",
+          "kind": "level",
+          "native": "ru",
+          "target": "en",
+          "level": "A1",
+          "scripts": [
+            "latn"
+          ],
+          "defaultScript": "latn",
+          "title": "Английский — уровень A1 (скелет)",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "requires": [
+            "en-ru-base"
+          ],
+          "words": 50,
+          "size": 10234,
+          "sha256": "f8cd493fba9d9a36c4415727878fe6602c057b2d16c7563f3d351ce065965544",
+          "channel": "stable",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-en-ru-skeleton-v1.0.0/en-ru-a1-1.0.0.zip"
+        }
+      ],
+      "bundles": [
+        {
+          "id": "en-ru-a1",
+          "level": "A1",
+          "title": "Уровень A1",
+          "parts": [
+            "en-ru-a1"
+          ],
+          "size": 10234,
+          "version": "1.0.0",
+          "words": 50
         }
       ]
     }
