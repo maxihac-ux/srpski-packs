@@ -40,7 +40,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-a1-2.0.1.zip",
           "words": 569,
-          "notes": "sr-ru-a1-2.0.1.zip"
+          "notes": "sr-ru-a1-2.0.1.zip",
+          "sig": "HPtXD3X1qVffzyq+l8yex0v0Fg5LsDFQbzxH0wPsQZVnTj8bksBi05IyQm6uTfulFNS7QaAKSsxqpoa1G086DQ=="
         },
         {
           "id": "sr-ru-a2",
@@ -59,7 +60,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-a2-2.0.1.zip",
           "words": 1355,
-          "notes": "sr-ru-a2-2.0.1.zip"
+          "notes": "sr-ru-a2-2.0.1.zip",
+          "sig": "KnRL8vEKB+8TFSf2W+Qd1E/UeNWDodUMvJMy8Xs6ukLnRnY58rPHa5aPfCZE0NAMN3AJbwWtgV6ZLsjPD2gkAQ=="
         },
         {
           "id": "sr-ru-b1",
@@ -78,7 +80,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b1-2.1.1.zip",
           "words": 1075,
-          "notes": "sr-ru-b1-2.1.1.zip"
+          "notes": "sr-ru-b1-2.1.1.zip",
+          "sig": "K7n9ibbTlHGfoVBte5vsiP/prBpaa11yStuOCxAqvDkC2QiY+z+P1WjfG57gkeWZ52Rm57fwrKmCm7UDs9TJDw=="
         },
         {
           "id": "sr-ru-b2",
@@ -97,7 +100,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b2-2.0.2.zip",
           "words": 1993,
-          "notes": "sr-ru-b2-2.0.2.zip"
+          "notes": "sr-ru-b2-2.0.2.zip",
+          "sig": "ZunX5XYozHSvA4s6exBLIqZs/RupGwX71ksy3hLgmo8x57fEnAgdqK5789jRAr9fothe+jegcvQgHgW0at2DAA=="
         },
         {
           "id": "sr-ru-a1-audio-f",
@@ -156,7 +160,8 @@
           "sha256": "02f1cdfdb87d5caf50be202fd7f590b91e7f566f4332809756c2cbc208c8c382",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-a2-audio-f-1.0.1.zip",
           "channel": "stable",
-          "notes": "sr-ru-a2-audio-f-1.0.1.zip"
+          "notes": "sr-ru-a2-audio-f-1.0.1.zip",
+          "sig": "BysI++lu8TnqrpF1+EOJn2uayq4J4tDku9VdHtH5W4hW43p4Fs0EJv7VJlnxw6JhB24Gv8xhKP0Ehr1lZxBWCQ=="
         },
         {
           "id": "sr-ru-a2-audio-m",
@@ -175,7 +180,8 @@
           "sha256": "db2bd339d25b33b3862f8921e9d69236174695e26e389bd3514ca41dd279274d",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-a2-audio-m-1.0.1.zip",
           "channel": "stable",
-          "notes": "sr-ru-a2-audio-m-1.0.1.zip"
+          "notes": "sr-ru-a2-audio-m-1.0.1.zip",
+          "sig": "SvqsHFIfwSmyBZsBEfyYX9coFxqomY1EfxjklLc5OBUrN8axp8eSxsKJxSfVhw0OrM4NMZUtaGMlwcNFrFPFAw=="
         },
         {
           "id": "sr-ru-b1-audio-f",
@@ -194,7 +200,8 @@
           "sha256": "83100f541001af2c80e828b92562e8a2c2e83207662e4047123e39a1f963299f",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b1-audio-f-1.0.1.zip",
           "channel": "stable",
-          "notes": "sr-ru-b1-audio-f-1.0.1.zip"
+          "notes": "sr-ru-b1-audio-f-1.0.1.zip",
+          "sig": "9DERaCI9U8oOK0sFIr6Ew+9BlOiJU9XEm3WiZgZklH4CL/8EQ0Rq4rga1yaUt9h2NU0ZAW5XR/4x7VM5T4GOAA=="
         },
         {
           "id": "sr-ru-b1-audio-m",
@@ -213,7 +220,8 @@
           "sha256": "4a3cd7f80adce6ffa2789445fd2e8f28e3245d0d2c1fc966d842d275795f5d2c",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b1-audio-m-1.0.1.zip",
           "channel": "stable",
-          "notes": "sr-ru-b1-audio-m-1.0.1.zip"
+          "notes": "sr-ru-b1-audio-m-1.0.1.zip",
+          "sig": "eJIL8iqCziE0gFG8AMEs7VJcMbPBOL1yDfjDEKgFBAJCW8BwQF+kRfg7IpwJ+hr8uM1FVGuOU4jzhpSo9g0ODA=="
         },
         {
           "id": "sr-ru-b2-audio-f",
@@ -521,5 +529,6 @@
       "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
-  ]
+  ],
+  "sig": "WDsvnCWZsfHgdGxj13bZ1dRTNmxxyJnutiL3qAJQdx5JCYN3Q36PDyf+k4r2rFNoQdmWx+PVzqXj7m2FKBb8CQ=="
 }
