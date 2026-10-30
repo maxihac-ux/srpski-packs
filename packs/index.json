@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-10-30T08:30:00+00:00",
+  "generatedAt": "2026-10-30T09:30:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -73,15 +73,14 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень B1",
-          "version": "2.1.1",
+          "version": "2.1.2",
           "requiresCoreApi": 1,
-          "size": 818261,
-          "sha256": "e8cdaff653a4e20cbd0c4dad6d5f0fa959008e821fe7599ce621ae498605a535",
+          "size": 818276,
+          "sha256": "5d29d6b2ec8daf684607a1ada63abdb7dd7d1328cd31be5e748d389f4d1f6b27",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b1-2.1.1.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b1-2.1.2.zip",
           "words": 1075,
-          "notes": "sr-ru-b1-2.1.1.zip",
-          "sig": "K7n9ibbTlHGfoVBte5vsiP/prBpaa11yStuOCxAqvDkC2QiY+z+P1WjfG57gkeWZ52Rm57fwrKmCm7UDs9TJDw=="
+          "notes": "№12 п.4.2: w2372 «Насherited» → «Наследственная болезнь редка.»"
         },
         {
           "id": "sr-ru-b2",
@@ -90,18 +89,17 @@
           "target": "sr",
           "level": "B2",
           "title": "Сербский — уровень B2",
-          "version": "2.0.2",
+          "version": "2.0.3",
           "requiresCoreApi": 1,
           "requires": [
             "sr-ru-base"
           ],
-          "size": 1411647,
-          "sha256": "fcaf02d3136b63a5f8b91a6074e2e8c4a447d469a700d7dbe42a8724945b1e9d",
+          "size": 1411693,
+          "sha256": "5ea561d38ce066b4bf31d50963392631d568722fb91b1bd8d9d4868e0fc1cba0",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b2-2.0.2.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b2-2.0.3.zip",
           "words": 1993,
-          "notes": "sr-ru-b2-2.0.2.zip",
-          "sig": "ZunX5XYozHSvA4s6exBLIqZs/RupGwX71ksy3hLgmo8x57fEnAgdqK5789jRAr9fothe+jegcvQgHgW0at2DAA=="
+          "notes": "№12 п.4.2: w3397 «loose» → «свободный союз», w3944 «Профessor» → «Профессор», w4193 китайские знаки → «самые красивые отношения»"
         },
         {
           "id": "sr-ru-a1-audio-f",
@@ -393,8 +391,8 @@
             "sr-ru-b1-audio-m",
             "sr-ru-b1-audio-f"
           ],
-          "size": 55051341,
-          "version": "2.1.1",
+          "size": 55051356,
+          "version": "2.1.2",
           "words": 1075
         },
         {
@@ -406,8 +404,8 @@
             "sr-ru-b2-audio-m",
             "sr-ru-b2-audio-f"
           ],
-          "size": 110447378,
-          "version": "2.0.2",
+          "size": 110447424,
+          "version": "2.0.3",
           "words": 1993
         }
       ]
@@ -529,6 +527,5 @@
       "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
-  ],
-  "sig": "WDsvnCWZsfHgdGxj13bZ1dRTNmxxyJnutiL3qAJQdx5JCYN3Q36PDyf+k4r2rFNoQdmWx+PVzqXj7m2FKBb8CQ=="
+  ]
 }
