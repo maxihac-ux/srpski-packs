@@ -80,7 +80,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b1-2.1.2.zip",
           "words": 1075,
-          "notes": "№12 п.4.2: w2372 «Насherited» → «Наследственная болезнь редка.»"
+          "notes": "№12 п.4.2: w2372 «Насherited» → «Наследственная болезнь редка.»",
+          "sig": "d54MJfH4br9ZytMPyQ/mJ6R/WV0KQ19rrCA9D0IaSXqP7NKxn9GcpvtjZYAJHLDmfDOLFOB0KBwSZFlGNPODAQ=="
         },
         {
           "id": "sr-ru-b2",
@@ -99,7 +100,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b2-2.0.3.zip",
           "words": 1993,
-          "notes": "№12 п.4.2: w3397 «loose» → «свободный союз», w3944 «Профessor» → «Профессор», w4193 китайские знаки → «самые красивые отношения»"
+          "notes": "№12 п.4.2: w3397 «loose» → «свободный союз», w3944 «Профessor» → «Профессор», w4193 китайские знаки → «самые красивые отношения»",
+          "sig": "OBUR+nP6rsFOwYFme+tfTzr33w4xWflyZzMU2FKdDd3Dj9gnSNvSmspc6ALfCUIOZnYhRwjRmvGF6S1ES6n4Bg=="
         },
         {
           "id": "sr-ru-a1-audio-f",
@@ -527,5 +529,6 @@
       "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
-  ]
+  ],
+  "sig": "DMt2NXNyO0lLCrSqMNhFFLRTrWWJyPIAm3i8xGWdEU6jbE6oZHmo07Vf4Bt+uaEO764Hvi5pQL8sTpd+2KcjAA=="
 }
