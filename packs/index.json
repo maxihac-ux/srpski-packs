@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-10-30T09:30:00+00:00",
+  "generatedAt": "2026-11-02T00:00:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -33,15 +33,14 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A1",
-          "version": "2.0.1",
+          "version": "2.0.2",
           "requiresCoreApi": 1,
-          "size": 533669,
-          "sha256": "af506f15efb27676e6139ad68b55058920bf9f50e73b7780940f1dbabdb9eba2",
+          "size": 631736,
+          "sha256": "12a6ccd952468643f57381376e7f3a6f1a1bd335168b63cbac7a6141b724cf44",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-a1-2.0.1.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.2/sr-ru-a1-2.0.2.zip",
           "words": 569,
-          "notes": "sr-ru-a1-2.0.1.zip",
-          "sig": "HPtXD3X1qVffzyq+l8yex0v0Fg5LsDFQbzxH0wPsQZVnTj8bksBi05IyQm6uTfulFNS7QaAKSsxqpoa1G086DQ=="
+          "notes": "sr-ru-a1-2.0.1.zip"
         },
         {
           "id": "sr-ru-a2",
@@ -53,15 +52,14 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A2",
-          "version": "2.0.1",
+          "version": "2.0.2",
           "requiresCoreApi": 1,
-          "size": 893674,
-          "sha256": "260da8366e4f1aaf28cd3ddbeadfba01da825530f66e6157774d8f211a43d867",
+          "size": 983184,
+          "sha256": "b375bc9c7791b3f007923452808d3d51eb2a31f2184d654d05be9200b5952dd7",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-a2-2.0.1.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.2/sr-ru-a2-2.0.2.zip",
           "words": 1355,
-          "notes": "sr-ru-a2-2.0.1.zip",
-          "sig": "KnRL8vEKB+8TFSf2W+Qd1E/UeNWDodUMvJMy8Xs6ukLnRnY58rPHa5aPfCZE0NAMN3AJbwWtgV6ZLsjPD2gkAQ=="
+          "notes": "sr-ru-a2-2.0.1.zip"
         },
         {
           "id": "sr-ru-b1",
@@ -529,6 +527,5 @@
       "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
-  ],
-  "sig": "DMt2NXNyO0lLCrSqMNhFFLRTrWWJyPIAm3i8xGWdEU6jbE6oZHmo07Vf4Bt+uaEO764Hvi5pQL8sTpd+2KcjAA=="
+  ]
 }
