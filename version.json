@@ -1,20 +1,19 @@
 {
-  "version": "2.60.3",
-  "code": 496,
+  "version": "2.60.5",
+  "code": 498,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
-  "notes": "Доводка 2.60: английский интерфейс доведён до конца на главном экране и в настройках (цели недели, кнопки уроков, журнал, QR-перенос, правовое) — EN-режим больше без русских слов; починена склейка «безвыбора»/«закрашиваеткружок» в настройках (видно было в обоих языках); кольцо прогресса больше не показывает «Infinity%», счётчик «новых доступно» не уходит в минус на пустом курсе. Первый дистрибутив ветки 2.60 (2.60.0 существовала только коммитом).",
+  "notes": "Диалоги 2.0: блок «Из курса» переработан — A1 10 диалогов, A2 8, B1 6, B2 6 (строгое чередование спикеров, связный сценарий). Паки: A1/A2 2.0.3, B1 2.1.3, B2 2.0.4. Паковое автообновление срабатывает сразу после смены версии приложения; у GitHub-релизов появилось зеркало jsDelivr.",
   "updatedAt": "2026-11-02T00:30:00+00:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.3",
-    "code": 496,
-    "sha256": "a5bb6f1b3655bd89359bcaa1380fe88ab4a2d5c79fc009b3c79429ead0612a95",
-    "size": 8758881,
+    "version": "2.60.5",
+    "code": 498,
+    "sha256": "622d1c562a03220e3ab399fb3ee49a1eb0dfde98dfdfcb2ff940a281c77e4059",
+    "size": 8759371,
     "files": 67,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-496.zip",
-    "minApkCode": 494,
-    "sig": "GpI2C0C4r6mA82/ZizZQVKzlj3rLFRAo/lVButPSqTuOu5sxsSBpZgkXi/lkq/tThMj4WvmpGJkxBA2XDn/yAw=="
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-498.zip",
+    "minApkCode": 494
   },
   "layers": {
     "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
