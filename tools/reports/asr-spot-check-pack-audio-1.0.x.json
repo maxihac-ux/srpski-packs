@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "date": "2026-11-02",
+    "gate": "asr_gate.py (whisper-base ONNX, локально, sr-RS)",
+    "sources": {
+      "levelPacks": ["sr-ru-a1-2.0.2 (pack-sr-ru-v2.1.2)", "sr-ru-a2-2.0.2 (pack-sr-ru-v2.1.2)"],
+      "audioPacks": ["sr-ru-a1-audio-m/f-1.0.0 (pack-sr-ru-audio-v1.0.0)", "sr-ru-a2-audio-m/f-1.0.1 (pack-sr-ru-v2.1.1)"]
+    },
+    "purpose": "Спот-чек жалоб владельца на «абракадабру» (инструкция №13 п.1) — стартовый список фазы 2"
+  },
+  "results": [
+    { "id": "w737_ex", "voice": "m", "text": "Овај кварт је познат по кафанама.", "asr": "Kojde, lemne, da je vrne uvljudi ded.", "sim": 0.27, "verdict": "REJECT" },
+    { "id": "w737_ex", "voice": "f", "text": "Овај кварт је познат по кафанама.", "asr": "Ovaj kvar tje poznat pokafanama.", "sim": 0.95, "verdict": "OK" },
+    { "id": "w1103_ex", "voice": "m", "text": "Аутопут је брзи пут.", "asr": "Bevoju daž agim a.", "sim": 0.17, "verdict": "REJECT" },
+    { "id": "w1103_ex", "voice": "f", "text": "Аутопут је брзи пут.", "asr": "Autoputje brzi put.", "sim": 0.97, "verdict": "OK" },
+    { "id": "w682_ex", "voice": "m", "text": "Већ је десет сати!", "asr": "Svrh u dodzu ono.", "sim": 0.3, "verdict": "REJECT" },
+    { "id": "w682_ex", "voice": "f", "text": "Већ је десет сати!", "asr": "20. sati.", "sim": 0.38, "verdict": "REJECT" },
+    { "id": "w514", "voice": "m", "text": "шездесет", "asr": "6.10.", "sim": 0.0, "verdict": "REJECT" },
+    { "id": "w514", "voice": "f", "text": "шездесет", "asr": "60.", "sim": 0.0, "verdict": "REJECT" },
+    { "id": "w514_ex", "voice": "m", "text": "Шездесет секунди у минуту.", "asr": "60 secundi 1 minuto.", "sim": 0.65, "verdict": "OK" },
+    { "id": "w514_ex", "voice": "f", "text": "Шездесет секунди у минуту.", "asr": "60 sec. minutu.", "sim": 0.51, "verdict": "REVIEW" },
+    { "id": "w1038", "voice": "m", "text": "појас", "asr": "Pojez.", "sim": 0.6, "verdict": "OK" },
+    { "id": "w1038", "voice": "f", "text": "појас", "asr": "Bojes.", "sim": 0.6, "verdict": "OK" },
+    { "id": "w1038_ex", "voice": "m", "text": "Нови појас је црн.", "asr": "Novi po esjeceran.", "sim": 0.76, "verdict": "OK" },
+    { "id": "w1038_ex", "voice": "f", "text": "Нови појас је црн.", "asr": "Novi poja se ceren.", "sim": 0.86, "verdict": "OK" },
+    { "id": "w488", "voice": "m", "text": "прљав", "asr": "Prijav.", "sim": 0.83, "verdict": "OK" },
+    { "id": "w488", "voice": "f", "text": "прљав", "asr": "Perliv.", "sim": 0.67, "verdict": "OK" },
+    { "id": "w488_ex", "voice": "m", "text": "Сто је прљав.", "asr": "100 je prijat.", "sim": 0.64, "verdict": "OK" },
+    { "id": "w488_ex", "voice": "f", "text": "Сто је прљав.", "asr": "100 je prlev.", "sim": 0.67, "verdict": "OK" },
+    { "id": "w682", "voice": "m", "text": "већ", "asr": "Već.", "sim": 1.0, "verdict": "OK" },
+    { "id": "w682", "voice": "f", "text": "већ", "asr": "Već!", "sim": 1.0, "verdict": "OK" },
+    { "id": "w737", "voice": "m", "text": "кварт", "asr": "kvart.", "sim": 1.0, "verdict": "OK" },
+    { "id": "w737", "voice": "f", "text": "кварт", "asr": "Kvart.", "sim": 1.0, "verdict": "OK" },
+    { "id": "w1103", "voice": "m", "text": "аутопут", "asr": "Autopu.", "sim": 0.92, "verdict": "OK" },
+    { "id": "w1103", "voice": "f", "text": "аутопут", "asr": "Autoput.", "sim": 1.0, "verdict": "OK" }
+  ],
+  "conclusions": [
+    "REJECT подтверждены: w737_ex (м) 0.27, w1103_ex (м) 0.17, w682_ex (м) 0.30 — мужская партия мусорная, совпадает с замерами владельца",
+    "Новое: w682_ex (ж) 0.38 REJECT (у владельца 0.67 REVIEW); w514 (м/ж) 0.00 — ASR слышит только цифры «60», слово «шездесет» не распознаётся с обоих голосов → переозвучка + fold цифр в гейте",
+    "Здоровы: w737/w1103/w682 (слова), w488 (все 4 записи), w1038 на границе 0.60 (слова) — под REVIEW-порог фраз не попадают",
+    "Это стартовый список фазы 2: полный гейт всех записей → переозвучка → паки + badIds"
+  ]
+}
