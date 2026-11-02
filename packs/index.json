@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-02T00:00:00+00:00",
+  "generatedAt": "2026-11-02T12:00:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -33,15 +33,18 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A1",
-          "version": "2.0.2",
+          "version": "2.0.3",
           "requiresCoreApi": 1,
-          "size": 631736,
-          "sha256": "12a6ccd952468643f57381376e7f3a6f1a1bd335168b63cbac7a6141b724cf44",
+          "size": 645970,
+          "sha256": "39f373b038df2c9cb67fa5b162a3c03c636284d8eab71a2b2624dc358912ad5f",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.2/sr-ru-a1-2.0.2.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-a1-2.0.3.zip",
           "words": 569,
           "notes": "sr-ru-a1-2.0.1.zip",
-          "sig": "m4s7OTngTnbMD2dX1yJvPlZTMQKVCIz4xgB24vO8jGcdW6i/ank3Gqk7/lwwJQ/EmRO4IHylX8V8xHvt4QtJCA=="
+          "sig": "m4s7OTngTnbMD2dX1yJvPlZTMQKVCIz4xgB24vO8jGcdW6i/ank3Gqk7/lwwJQ/EmRO4IHylX8V8xHvt4QtJCA==",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.3.zip"
+          ]
         },
         {
           "id": "sr-ru-a2",
@@ -53,15 +56,18 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A2",
-          "version": "2.0.2",
+          "version": "2.0.3",
           "requiresCoreApi": 1,
-          "size": 983184,
-          "sha256": "b375bc9c7791b3f007923452808d3d51eb2a31f2184d654d05be9200b5952dd7",
+          "size": 1002028,
+          "sha256": "e92eee73c479de98149f35d0fa0e3852daf5c11117f704b380f170bacc317ac0",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.2/sr-ru-a2-2.0.2.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-a2-2.0.3.zip",
           "words": 1355,
           "notes": "sr-ru-a2-2.0.1.zip",
-          "sig": "VhUiUEBA9ixUU3fHBh+ZtsfaeCxehh60xXSprmUvd3dW/8oyl+1+qgIYrXhUX8gjapvX85QdbS8ZexDTpXtyBQ=="
+          "sig": "VhUiUEBA9ixUU3fHBh+ZtsfaeCxehh60xXSprmUvd3dW/8oyl+1+qgIYrXhUX8gjapvX85QdbS8ZexDTpXtyBQ==",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.3.zip"
+          ]
         },
         {
           "id": "sr-ru-b1",
@@ -73,15 +79,18 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень B1",
-          "version": "2.1.2",
+          "version": "2.1.3",
           "requiresCoreApi": 1,
-          "size": 818276,
-          "sha256": "5d29d6b2ec8daf684607a1ada63abdb7dd7d1328cd31be5e748d389f4d1f6b27",
+          "size": 835982,
+          "sha256": "edf6790657239a1b0bac9da40e97a35e26cb65e7a52026a883c1a0d43e1d0dc1",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b1-2.1.2.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-b1-2.1.3.zip",
           "words": 1075,
           "notes": "№12 п.4.2: w2372 «Насherited» → «Наследственная болезнь редка.»",
-          "sig": "d54MJfH4br9ZytMPyQ/mJ6R/WV0KQ19rrCA9D0IaSXqP7NKxn9GcpvtjZYAJHLDmfDOLFOB0KBwSZFlGNPODAQ=="
+          "sig": "d54MJfH4br9ZytMPyQ/mJ6R/WV0KQ19rrCA9D0IaSXqP7NKxn9GcpvtjZYAJHLDmfDOLFOB0KBwSZFlGNPODAQ==",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.3.zip"
+          ]
         },
         {
           "id": "sr-ru-b2",
@@ -90,18 +99,21 @@
           "target": "sr",
           "level": "B2",
           "title": "Сербский — уровень B2",
-          "version": "2.0.3",
+          "version": "2.0.4",
           "requiresCoreApi": 1,
           "requires": [
             "sr-ru-base"
           ],
-          "size": 1411693,
-          "sha256": "5ea561d38ce066b4bf31d50963392631d568722fb91b1bd8d9d4868e0fc1cba0",
+          "size": 1432474,
+          "sha256": "207c406ce4b5bf2666211bdab1646ce3122d9b6d7e74a3489fc5a432fc96c45a",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.1/sr-ru-b2-2.0.3.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-b2-2.0.4.zip",
           "words": 1993,
           "notes": "№12 п.4.2: w3397 «loose» → «свободный союз», w3944 «Профessor» → «Профессор», w4193 китайские знаки → «самые красивые отношения»",
-          "sig": "OBUR+nP6rsFOwYFme+tfTzr33w4xWflyZzMU2FKdDd3Dj9gnSNvSmspc6ALfCUIOZnYhRwjRmvGF6S1ES6n4Bg=="
+          "sig": "OBUR+nP6rsFOwYFme+tfTzr33w4xWflyZzMU2FKdDd3Dj9gnSNvSmspc6ALfCUIOZnYhRwjRmvGF6S1ES6n4Bg==",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-2.0.4.zip"
+          ]
         },
         {
           "id": "sr-ru-a1-audio-f",
