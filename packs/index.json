@@ -40,7 +40,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.2/sr-ru-a1-2.0.2.zip",
           "words": 569,
-          "notes": "sr-ru-a1-2.0.1.zip"
+          "notes": "sr-ru-a1-2.0.1.zip",
+          "sig": "m4s7OTngTnbMD2dX1yJvPlZTMQKVCIz4xgB24vO8jGcdW6i/ank3Gqk7/lwwJQ/EmRO4IHylX8V8xHvt4QtJCA=="
         },
         {
           "id": "sr-ru-a2",
@@ -59,7 +60,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.2/sr-ru-a2-2.0.2.zip",
           "words": 1355,
-          "notes": "sr-ru-a2-2.0.1.zip"
+          "notes": "sr-ru-a2-2.0.1.zip",
+          "sig": "VhUiUEBA9ixUU3fHBh+ZtsfaeCxehh60xXSprmUvd3dW/8oyl+1+qgIYrXhUX8gjapvX85QdbS8ZexDTpXtyBQ=="
         },
         {
           "id": "sr-ru-b1",
@@ -527,5 +529,6 @@
       "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
-  ]
+  ],
+  "sig": "EAMxC9Ih196U22fkkOXYiFYzkfc7EL81fWvLlUePkBW2Zj3sSRqaKMZwcXyFzUPET3aTPQ39Si/DwGPIQGqgAw=="
 }
