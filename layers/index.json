@@ -1,58 +1,62 @@
 {
   "indexVersion": 1,
-  "generatedAt": "2026-11-02T00:31:25+00:00",
+  "generatedAt": "2026-11-02T21:50:44+00:00",
   "stable": {
     "core": {
       "layer": "core",
-      "version": "2.60.3",
-      "code": 496,
+      "version": "2.60.5",
+      "code": 498,
       "apiVersion": 1,
-      "minShell": 496,
+      "minShell": 498,
       "files": [
         {
           "path": "core.js",
           "sha256": "8a0018190290ed8a659fd0accf5cba8d917b3125aa05bceb7f3cd4891f8af1b2"
         }
       ],
-      "sha256": "c4c57e1a5e78f3d92aca055c1df3d30d336965a106705e8da29ae2896b1dde8a",
+      "sha256": "01b34b86283958ba257fd9f459e2da620c265b87f8a2784049261287c149faef",
       "size": 10855,
-      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/layers-496/core-496.zip",
-      "sig": "qntH6DOoAv7IpooFWQLkdEyt4lJ9Cw+7zvAOuXweJ9h2XpyYiFTuiGz61T2bAHCJJe9KxGbS8dhmlENJb4q3Bw=="
+      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/layers-498/core-498.zip",
+      "sig": "YYuy6+B877w9nPwH6l17gyO5eacSkhdU+UeechycrYewKznhF3WNKCjcTfwrkeobcl2IeDB56IMcrgJLrz6ZCA=="
     },
     "ui": {
       "layer": "ui",
-      "version": "2.60.3",
-      "code": 496,
+      "version": "2.60.5",
+      "code": 498,
       "requiresCoreApi": 1,
-      "minShell": 496,
+      "minShell": 498,
       "files": [
         {
           "path": "404.html",
-          "sha256": "ba1a572df6dfde48b914ec1ab3a4b79eba32fcb75323086dc36a9fe96167dc33"
+          "sha256": "6046ecd7382fedaa44a8977ff2f5a2abab49dd5cb7ba14fc4faaf6e052b42192"
         },
         {
           "path": "__next.__PAGE__.txt",
-          "sha256": "6c1bcda4632a190cc65bf9230a3d26e6ce57df9ff247aa936bd233d21159f821"
+          "sha256": "11b57655cd0e3b122d39e11ba56820f12b144ea98bcac55db68106eaa76a3dbd"
         },
         {
           "path": "__next._full.txt",
-          "sha256": "6d976803afb6e1a54f3e79e07a3abab2d48eca6c2e23d64663619097e4b76c5d"
+          "sha256": "1ac25a867622ad287af2c20faef1be697d751d3a07a8e9c45e09fd774041017b"
         },
         {
           "path": "__next._head.txt",
-          "sha256": "1c1373f29b98961aa538379a2e8b43b6c7f605ac1809e6667d4a0ec017de4943"
+          "sha256": "3db20034fedf2ad689120a6e11d2141d0d503450ec0212e3e39c6da897b2c91e"
         },
         {
           "path": "__next._index.txt",
-          "sha256": "7b0a6d5eebaf4ab62db1610e421b021d73d0973863c7f1b8075e49c2a838fc89"
+          "sha256": "f59f1555d4fe8345098cd151e732246ebf310788fa348fec72550338dc7b9bf7"
         },
         {
           "path": "__next._tree.txt",
-          "sha256": "c3e84b2b243b95b1566102cc9cf456ff0da2fd6643a5a97074e4004066fda4cc"
+          "sha256": "1e3a1b4d9c1257cb4d99b3a2bb6eef2c70f6eecca5b7d1943e8e82a9609c839a"
         },
         {
           "path": "_next/static/chunks/1d58b393f9936bea.js",
           "sha256": "cefa523e64efd6aa11322a6cdf18a62d8f7d0b692c818f4d031a2e820c4c957c"
+        },
+        {
+          "path": "_next/static/chunks/2ba2441391a24b60.js",
+          "sha256": "a91153a46c843a5a8d0d12eb79f443be0593f28aba46053b5820cd985ed188bc"
         },
         {
           "path": "_next/static/chunks/4790e6193dad7587.js",
@@ -77,14 +81,6 @@
         {
           "path": "_next/static/chunks/771dedee3f5e1621.js",
           "sha256": "32d1182713a2d5fab3bd534a19a1f65af90f456155e5b06123fba985e25f81cf"
-        },
-        {
-          "path": "_next/static/chunks/7bb2201ade33470d.js",
-          "sha256": "194114b0edf2158b129c86e7562955640d1d97d20d9a5d03d17d2eaa760501d2"
-        },
-        {
-          "path": "_next/static/chunks/9059b1a0d2271fc6.js",
-          "sha256": "30b2a17e9feca3ea473c526313a46b9ddc19a872577d0e4d7de031a42507082c"
         },
         {
           "path": "_next/static/chunks/94c991f2dc5a90a6.css",
@@ -117,6 +113,10 @@
         {
           "path": "_next/static/chunks/d02e7901da866a81.js",
           "sha256": "00ae4310eee21dc5d371c2ceacf4198b30af12faa3b29c380d9c1b1df9563e38"
+        },
+        {
+          "path": "_next/static/chunks/e86b799c3a504302.js",
+          "sha256": "a41e40507293bde363e6111f4fbd54ab299f2a9c28de77a9e97520be3ccae8fc"
         },
         {
           "path": "_next/static/chunks/ecb455d830c14f9c.js",
@@ -171,48 +171,48 @@
           "sha256": "7c93a51e9906b246af505bbfbfa4e5806ebe70a081ab0ca0d34e1180293f4f8d"
         },
         {
-          "path": "_next/static/nxK5FOJph5tVqXBihFRtd/_buildManifest.js",
+          "path": "_next/static/t08n6f05fRm7Kay7N-79p/_buildManifest.js",
           "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
         },
         {
-          "path": "_next/static/nxK5FOJph5tVqXBihFRtd/_clientMiddlewareManifest.json",
+          "path": "_next/static/t08n6f05fRm7Kay7N-79p/_clientMiddlewareManifest.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
         },
         {
-          "path": "_next/static/nxK5FOJph5tVqXBihFRtd/_ssgManifest.js",
+          "path": "_next/static/t08n6f05fRm7Kay7N-79p/_ssgManifest.js",
           "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
         },
         {
           "path": "_not-found.html",
-          "sha256": "ba1a572df6dfde48b914ec1ab3a4b79eba32fcb75323086dc36a9fe96167dc33"
+          "sha256": "6046ecd7382fedaa44a8977ff2f5a2abab49dd5cb7ba14fc4faaf6e052b42192"
         },
         {
           "path": "_not-found.txt",
-          "sha256": "7a2298a5541da21ea080e05800c03a7754e6ecb8f467bacab7d910b1ea7c12f6"
+          "sha256": "16714b7391eda5fed58d3c2e432002be1ccde0c369b492aef6135b38b7e36639"
         },
         {
           "path": "_not-found/__next._full.txt",
-          "sha256": "7a2298a5541da21ea080e05800c03a7754e6ecb8f467bacab7d910b1ea7c12f6"
+          "sha256": "16714b7391eda5fed58d3c2e432002be1ccde0c369b492aef6135b38b7e36639"
         },
         {
           "path": "_not-found/__next._head.txt",
-          "sha256": "d037cb70168f4048c86846b130680b7934b9da9b76488947f940469b14e6f7fb"
+          "sha256": "7db4a125d3748ed0b532ac8d6c869619e77c1ea1828fc044411df5076710dcb6"
         },
         {
           "path": "_not-found/__next._index.txt",
-          "sha256": "4f5a1a93a48ab2c17455cc8c1cd72e64e989ee0f46db85edb1f1ee2e4d55e076"
+          "sha256": "a6b588374e3b565f2f7cc44c3e6066be9ee885bcdbb0809869ca7686ba48b40b"
         },
         {
           "path": "_not-found/__next._not-found.__PAGE__.txt",
-          "sha256": "5250a6e84dd22743dff2d551686bcc9393aebd67662b79dd4dfcab465ba6b474"
+          "sha256": "dd4e4543c58fa33ab9f6e76b8b9c5f45d5f4469e1959a96c6785cc1f814300b1"
         },
         {
           "path": "_not-found/__next._not-found.txt",
-          "sha256": "8f649dcc3f99337a139e6a34a75698413d739a314500066f00929497923e261c"
+          "sha256": "9e010a7cde74ca724077fd39f083665216a1e74b231b0b679a44189b3499281b"
         },
         {
           "path": "_not-found/__next._tree.txt",
-          "sha256": "db8d61ca29322f378155699176a3e2f89466142231f9881dfdeabf6da835f70a"
+          "sha256": "6ea930f5ab2b63a7130cbf617c2db418fc6d306ad562282d86a94f786a31b4a8"
         },
         {
           "path": "apple-touch-icon.png",
@@ -220,11 +220,11 @@
         },
         {
           "path": "devlog.html",
-          "sha256": "6621aa75c5b5f0c367e27ea918fb7a095a5f5bf2f7c56176306c84bbb6b91aa8"
+          "sha256": "20143ce6db687bdfad42c88c36eff4ce809f8711c24f957eeb47bad2f464a63c"
         },
         {
           "path": "devlog.md",
-          "sha256": "33571c3627904fe0f03c54ea6d973d7605df0a407223fbd28e4b24552f66f26b"
+          "sha256": "8891c7c2e17e83828755a71a7049258dab71eff971424accd4d623f84f49b2e5"
         },
         {
           "path": "devlog.md.bak",
@@ -256,11 +256,11 @@
         },
         {
           "path": "index.html",
-          "sha256": "9e1819a551bafd18f4b6b5bf62fec3f786c656f93f4d7e41f49ffa4d9349efc6"
+          "sha256": "29c8716df08cffc64a1f744e53f02e5ba6d78c56caa50aec6733e85cb7be9ab9"
         },
         {
           "path": "index.txt",
-          "sha256": "6d976803afb6e1a54f3e79e07a3abab2d48eca6c2e23d64663619097e4b76c5d"
+          "sha256": "1ac25a867622ad287af2c20faef1be697d751d3a07a8e9c45e09fd774041017b"
         },
         {
           "path": "logo.svg",
@@ -287,10 +287,10 @@
           "sha256": "1bb3e3e4ec97cc8a17be7312bc0dd96f7ea1a7ccf9a59b4b27a8cd744e765cfd"
         }
       ],
-      "sha256": "e2c3b34d8ddbd873b1cba19a74eddcb2b124849783728b108aea2052275deaf8",
-      "size": 8747389,
-      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/layers-496/ui-496.zip",
-      "sig": "tZVIw0X368VflYMzkORpJMZstCMzw7XvHB4QdhEL9Ueq0BmxNo9FNJq0V6Iwtsh0PYLoLIROvF660C6h5XkgBg=="
+      "sha256": "00744e2797bb0eba1c2df33b68b906c154741898cdce17ec63c738887df5344e",
+      "size": 8763598,
+      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/layers-498/ui-498.zip",
+      "sig": "gU32j6TJtGQlHqxRdtUhnxfx8y7hOqncsp9Orj1QB20ZVoVuWySLZ0OPTFQlz49bYU/UDRQaj9Ub0A/RH9sPCQ=="
     }
   }
 }
