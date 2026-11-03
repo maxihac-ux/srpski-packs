@@ -15,5 +15,9 @@
     "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-499.zip",
     "minApkCode": 494,
     "sig": "LoL8hMb08g+VRZTIDOCrh7FKc8rNwWaG26JQg27Cm0pQpN358nMkQDk7kPTppQA9jT0kxfaO6BGXJwDuPglcCQ=="
+  },
+  "layers": {
+    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
+    "sha256": "5dc7736324133fdfddfffcd616a3e3676e439237b1516da05f6c6579bdcacd00"
   }
 }
