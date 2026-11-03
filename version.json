@@ -3,24 +3,20 @@
   "code": 500,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
-  "apkVersion": "2.60.6",
-  "apkCode": 499,
-  "apkTag": "apk-v2.60.6",
   "notes": "Починка докачки словарей (этап 1 инструкции №17): большие загрузки больше не рвутся — зипы качаются потоково со сторожем бездействия 30 с и докачкой по Range (озвучка B2 55 МБ и модель распознавания 96 МБ на медленной сети теперь доживают до конца, как и все словари); установка уровня устойчивая — озвучка не валит установку, догоняет в фоне; каталог уровней работает даже офлайн (встроенный фолбэк-каталог) и получил кнопку «Повторить»; ошибка установки называет часть/URL/код и даёт «Отправить отчёт»; ссылка APK-обновления больше не даёт 404 — строится по релизу из манифеста, а не по «latest».",
-  "updatedAt": "2026-11-03T04:05:00+00:00",
+  "updatedAt": "2026-11-03T16:30:00+00:00",
+  "apkVersion": "2.60.7",
+  "apkCode": 500,
+  "apkTag": "apk-v2.60.7",
   "hotBundle": {
     "enabled": true,
     "version": "2.60.7",
     "code": 500,
-    "sha256": "985101c1f7e6ce2f09b80074dc169ea8e6246da627a874e88d28e5ce1ab2acd3",
-    "size": 8792691,
+    "sha256": "b1b9a885ebf35b152d5abc8359baeef7ef88c1ada8fe2252763b780c261e8991",
+    "size": 8792542,
     "files": 68,
     "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-500.zip",
     "minApkCode": 494,
-    "sig": "XMhwjHthHwBiv/GVwiurWpBwvvCqxL0S/OQqeF2eTLxuby6xvkqkcjUPbkb7sSxEHwrAZHM6NVdorkpDBa+UCw=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "0c356cd370ae75b3654aca9c7b737c4277a6a8fabca315dd7f55b02e992f4322"
+    "sig": "zjS2YRTJg8ZrOQT2B4Ve2Sz5+TPo1fHOk+tUr9a2fKnbB4i3f5Q1borV82y7uhZsE57VCYvR6A/bUgYaOtytBw=="
   }
 }
