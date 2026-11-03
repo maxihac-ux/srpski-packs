@@ -1,19 +1,20 @@
 {
   "enabled": true,
-  "version": "2.60.6",
-  "code": 499,
-  "sha256": "22010d9571e19fd6d56a7e765614a6ddfbeaaabee53b51712564eac2c743c941",
-  "size": 8785103,
+  "version": "2.60.7",
+  "code": 500,
+  "sha256": "985101c1f7e6ce2f09b80074dc169ea8e6246da627a874e88d28e5ce1ab2acd3",
+  "size": 8792691,
   "files": 68,
-  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-499.zip",
+  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-500.zip",
   "minApkCode": 494,
-  "sig": "LoL8hMb08g+VRZTIDOCrh7FKc8rNwWaG26JQg27Cm0pQpN358nMkQDk7kPTppQA9jT0kxfaO6BGXJwDuPglcCQ==",
-  "nativeHash": "c60501464bf4c1e3a4078052f05b1b7981f6709f18adf386bfb5c7b3093040f9",
+  "sig": "XMhwjHthHwBiv/GVwiurWpBwvvCqxL0S/OQqeF2eTLxuby6xvkqkcjUPbkb7sSxEHwrAZHM6NVdorkpDBa+UCw==",
+  "nativeHash": "78616ff5e8792133cfac8310ade67ba67a223cc66317d567cee37d54c437d82d",
   "hashes": {
     "494": "c60501464bf4c1e3a4078052f05b1b7981f6709f18adf386bfb5c7b3093040f9",
     "495": "c60501464bf4c1e3a4078052f05b1b7981f6709f18adf386bfb5c7b3093040f9",
     "496": "c60501464bf4c1e3a4078052f05b1b7981f6709f18adf386bfb5c7b3093040f9",
     "498": "c60501464bf4c1e3a4078052f05b1b7981f6709f18adf386bfb5c7b3093040f9",
-    "499": "c60501464bf4c1e3a4078052f05b1b7981f6709f18adf386bfb5c7b3093040f9"
+    "499": "c60501464bf4c1e3a4078052f05b1b7981f6709f18adf386bfb5c7b3093040f9",
+    "500": "78616ff5e8792133cfac8310ade67ba67a223cc66317d567cee37d54c437d82d"
   }
 }
