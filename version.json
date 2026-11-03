@@ -1,23 +1,19 @@
 {
-  "version": "2.60.5",
-  "code": 498,
+  "version": "2.60.6",
+  "code": 499,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
   "notes": "Диалоги 2.0: переработан блок «Из курса» — 10 логичных диалогов на A1 (знакомство, кафе, пекарня, ориентация, транспорт, магазин, врач, телефон, погода, учёба), 8 на A2, 6 на B1 и 6 на B2 (раньше во всём курсе было 5 кривых диалогов на A1 и 3 на A2, а в B1/B2 не было ни одного). Строгое чередование спикеров, связный сценарий, лексика уровня. Паки уровня поехали в новых версиях (A1/A2 2.0.3, B1 2.1.3, B2 2.0.4) и теперь обновляются сразу после смены версии приложения, а не раз в сутки; для GitHub-релизов добавлено зеркало jsDelivr. Корень превью больше не кэшируется — телефон всегда видит свежую сборку.",
   "updatedAt": "2026-11-02T12:00:00+00:00",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.5",
-    "code": 498,
-    "sha256": "64b9806d805c38f42b8aa653534997b50615f0fc069e8a46133ab0b5fce62c57",
-    "size": 8775191,
-    "files": 67,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-498.zip",
+    "version": "2.60.6",
+    "code": 499,
+    "sha256": "22010d9571e19fd6d56a7e765614a6ddfbeaaabee53b51712564eac2c743c941",
+    "size": 8785103,
+    "files": 68,
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-499.zip",
     "minApkCode": 494,
-    "sig": "s7fAw1k400iYi8bF4mOI+H9/c8X0F8tzKAM30GpGY2OPeK0qGQV7F0N7zGk6kN9tXnOj+wNGXeqPZAwp6e4PDA=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "30360d578ce336ecc7ddcbc4fbce459e09f509fbe742e3e7698ad79b7a5067bc"
+    "sig": "LoL8hMb08g+VRZTIDOCrh7FKc8rNwWaG26JQg27Cm0pQpN358nMkQDk7kPTppQA9jT0kxfaO6BGXJwDuPglcCQ=="
   }
 }
