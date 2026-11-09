@@ -1,0 +1,35 @@
+﻿id,voice,text,old_asr,new_asr,old,new
+w232_ex,f,Посао је тежак.,Pusođu tijek.,Posvoj težak.,a1-f/w232_ex_old.ogg,a1-f/w232_ex_new.ogg
+w071,f,девет,David.,David.,a1-f/w071_old.ogg,a1-f/w071_new.ogg
+w1078,f,џеп,Jeb.,Jeb.,a1-f/w1078_old.ogg,a1-f/w1078_new.ogg
+qac2b3ea4a4a,f,У осам сати увече.,80 uvveće.,osamdeset uvveće.,a1-f/qac2b3ea4a4a_old.ogg,
+w682_ex,f,Већ је десет сати!,20. sati.,dvadeset. sati.,a1-f/w682_ex_old.ogg,
+w007_ex,m,Све је добро.,"Wobec, le, wovo.",sve dobro.,a1-m/w007_ex_old.ogg,a1-m/w007_ex_new.ogg
+w085_ex,m,Мој брат је студент.,Dot a via Rzorgog.,Moj brati student.,a1-m/w085_ex_old.ogg,a1-m/w085_ex_new.ogg
+w1092_ex,m,Муња је осветлила небо.,toti da je da šilđa on ga da očna.,Munje osvetrila nebo.,a1-m/w1092_ex_old.ogg,a1-m/w1092_ex_new.ogg
+w1101_ex,m,Вода из чесме је чиста.,Rambičas te majd.,Voda i sčesme čista.,a1-m/w1101_ex_old.ogg,a1-m/w1101_ex_new.ogg
+w114_ex,m,Српска храна је укусна.,kad je met burej. Daž kov gip.,Serbska hrane je ukusna.,a1-m/w114_ex_old.ogg,a1-m/w114_ex_new.ogg
+w115_ex,m,Вода је хладна.,John Dresbenub.,Vode hladna.,a1-m/w115_ex_old.ogg,a1-m/w115_ex_new.ogg
+w314_ex,m,Грожђе је слатко.,Laloht be a duro.,Grosždje slatko.,a1-m/w314_ex_old.ogg,a1-m/w314_ex_new.ogg
+qae8ecd91042,m,У јулу.,Ujovo.,Ujoğlu.,a1-m/qae8ecd91042_old.ogg,a1-m/qae8ecd91042_new.ogg
+w071,m,девет,David.,David.,a1-m/w071_old.ogg,a1-m/w071_new.ogg
+w1078,m,џеп,Jeb.,Jeb.,a1-m/w1078_old.ogg,a1-m/w1078_new.ogg
+qa78a42f4c38,m,У девет сати.,u 9.,u devet.,a1-m/qa78a42f4c38_old.ogg,
+qa9794eba1d2,m,Десет сати.,10%,deset procenata,a1-m/qa9794eba1d2_old.ogg,
+qac2b3ea4a4a,m,У осам сати увече.,80 uveć.,osamdeset uveć.,a1-m/qac2b3ea4a4a_old.ogg,
+w1111_ex,m,Четвртина сата је петнаест минута.,4-15 minuta.,četiri-petnaest minuta.,a1-m/w1111_ex_old.ogg,
+le_dzhe,f,џем,Jim.,Jim.,a2-f/le_dzhe_old.ogg,a2-f/le_dzhe_new.ogg
+w1243,f,јеж,Yes.,Yes.,a2-f/w1243_old.ogg,a2-f/w1243_new.ogg
+le_dzhe,m,џем,Jim.,Jim.,a2-m/le_dzhe_old.ogg,a2-m/le_dzhe_new.ogg
+w1243,m,јеж,Yes.,Yes.,a2-m/w1243_old.ogg,a2-m/w1243_new.ogg
+w2072,f,дуж,Dóš.,Dóš.,b1-f/w2072_old.ogg,b1-f/w2072_new.ogg
+w2174,f,успех,Uzbeg.,Uzbe.,b1-f/w2174_old.ogg,b1-f/w2174_new.ogg
+w2072,m,дуж,Dóš.,Dóš.,b1-m/w2072_old.ogg,b1-m/w2072_new.ogg
+w2174,m,успех,Uzbe.,Uzbe.,b1-m/w2174_old.ogg,b1-m/w2174_new.ogg
+w2930,f,есеј,S-c.,S-c.,b2-f/w2930_old.ogg,b2-f/w2930_new.ogg
+w2992,f,пејзаж,Bezir.,Pizir.,b2-f/w2992_old.ogg,b2-f/w2992_new.ogg
+w4577,f,вазал,Vaso.,Vaso.,b2-f/w4577_old.ogg,b2-f/w4577_new.ogg
+w4763_ex,m,Вечит сан је остао.,Veči CaŠi o sto.,Večića njeostao.,b2-m/w4763_ex_old.ogg,b2-m/w4763_ex_new.ogg
+w2930,m,есеј,s.a.,S.A.,b2-m/w2930_old.ogg,b2-m/w2930_new.ogg
+w2992,m,пејзаж,Bezir.,Bezir.,b2-m/w2992_old.ogg,b2-m/w2992_new.ogg
+w4577,m,вазал,Vaso.,Vaso.,b2-m/w4577_old.ogg,b2-m/w4577_new.ogg
