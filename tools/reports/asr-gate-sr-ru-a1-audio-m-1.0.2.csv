@@ -1,0 +1,1448 @@
+id,verdict,sim,asr,text
+qa020cd843ba,REJECT,0.24,20 euro.,Двадесет евра.
+qa78a42f4c38,REJECT,0.15,u 9.,У девет сати.
+qa9794eba1d2,REJECT,0.0,10%,Десет сати.
+qac2b3ea4a4a,REJECT,0.38,80 uveć.,У осам сати увече.
+qae8ecd91042,REJECT,0.36,Ujovo.,У јулу.
+w007_ex,REJECT,0.32,"Wobec, le, wovo.",Све је добро.
+w065,REJECT,0.0,3,три
+w071,REJECT,0.4,David.,девет
+w073,REJECT,0.0,20.,двадесет
+w085_ex,REJECT,0.22,Dot a via Rzorgog.,Мој брат је студент.
+w1078,REJECT,0.29,Jeb.,џеп
+w1101_ex,REJECT,0.26,Rambičas te majd.,Вода из чесме је чиста.
+w1111,REJECT,0.0,4.,четвртина
+w1111_ex,REJECT,0.31,4-15 minuta.,Четвртина сата је петнаест минута.
+w114_ex,REJECT,0.32,kad je met burej. Daž kov gip.,Српска храна је укусна.
+w115_ex,REJECT,0.29,John Dresbenub.,Вода је хладна.
+w314_ex,REJECT,0.12,Laloht be a duro.,Грожђе је слатко.
+qa36667b8655,REVIEW,0.57,100 dina.,Сто динара.
+qa5a1a940f36,REVIEW,0.55,U 700 u jutro.,У седам сати ујутру.
+qa8ec32e49de,REVIEW,0.59,i mošli dajt se.,Имаш ли деце?
+w030,REVIEW,0.5,Twoi.,твој
+w073_ex,REVIEW,0.5,Platius on 20 euro.,Платио сам двадесет евра.
+w087,REVIEW,0.57,Sime.,син
+w090,REVIEW,0.5,Dada.,деда
+w1035,REVIEW,0.55,Zbela.,ципела
+w1052,REVIEW,0.55,uvetsi.,увече
+w1060,REVIEW,0.5,Smak.,смех
+w1061,REVIEW,0.55,lonuts.,лонац
+w1080,REVIEW,0.46,Bek mis.,пекмез
+w1096_ex,REVIEW,0.56,Je tren vajem organ.,Јетра је важан орган.
+w1110,REVIEW,0.5,Bova.,пола
+w112_ex,REVIEW,0.51,Meset i ma 30 dana.,Месец има тридесет дана.
+w141,REVIEW,0.53,Kohohini.,кухиња
+w142,REVIEW,0.56,Ko pa te o.,купатило
+w154,REVIEW,0.57,Drag.,трг
+w201,REVIEW,0.57,Rekš.,реч
+w217,REVIEW,0.57,Bres.,брз
+w234,REVIEW,0.57,Poon.,пун
+w235,REVIEW,0.57,Otvaraj.,отворен
+w243,REVIEW,0.5,Seran.,црн
+w299,REVIEW,0.46,Jo bude.,јогурт
+w335,REVIEW,0.5,Bice.,пица
+w695,REVIEW,0.5,Vela.,врло
+w708,REVIEW,0.5,Bila.,пиле
+w715,REVIEW,0.57,Kokorus.,кукуруз
+w724,REVIEW,0.5,Pitch.,пећ
+w735,REVIEW,0.59,Wozneret.,возни ред
+qa000e2e78e4,OK,0.94,Prvo vrata desno.,Прва врата десно.
+qa0053b2f4e1,OK,0.86,Moje je.,Моја је.
+qa00c5068d79,OK,0.98,šta ćeš kupiti u pekarji.,Шта ћеш купити у пекари?
+qa014f0bcc8e,OK,0.9,Igro sam sam se prijateljem.,Играо сам са пријатељем.
+qa01804952f5,OK,1.0,koliko košta ova kafa?,Колико кошта ова кафа?
+qa01cc143526,OK,0.9,Podkast osrbi.,Подкаст о Србији.
+qa01f339d91b,OK,0.88,Jo sam mezo i salato.,Јео сам месо и салату.
+qa03a713cead,OK,0.9,Nisam usto osem kasno.,"Нисам, устао сам касно."
+qa06818ef322,OK,0.93,i ću autobusom.,Ићи ћу аутобусом.
+qa06a837d708,OK,1.0,imam psa.,Имам пса.
+qa0713d30dec,OK,1.0,Malo učim Srpski.,"Мало, учим српски."
+qa07b505c5da,OK,0.98,Štaćeš spremiti za večeru.,Шта ћеш спремити за вечеру?
+qa086a56bda2,OK,1.0,kupujem voće i povrče.,Купујем воће и поврће.
+qa0c2cdd5605,OK,0.7,Braca ženu.,Брат са женом.
+qa0cb6ff1c8e,OK,0.95,šta je desh za rucak.,Шта једеш за ручак?
+qa0dfff56d83,OK,0.86,i mašli sestro.,Имаш ли сестру?
+qa0e88b4f51f,OK,0.9,Glada osam do ponoći.,Гледао сам до поноћи.
+qa0f170acffc,OK,0.97,Volišli muziku.,Волиш ли музику?
+qa0f2a36aaf0,OK,0.86,"Autobusom, jev tinije.","Аутобусом, јефтиније је."
+qa0f38da1f30,OK,0.96,Slušao sam narodno muziku.,Слушао сам народну музику.
+qa0f49a7a865,OK,0.89,Kako se zovajš?,Како се зовеш?
+qa110d879380,OK,0.95,Pijem kafu sam lekom.,Пијем кафу са млеком.
+qa1396b86fcc,OK,0.95,Što si gleda o na televizoru?,Шта си гледао на телевизору?
+qa146d521cb2,OK,0.65,Došo sam u 80.,Дошао сам у осам сати.
+qa152305b196,OK,0.86,Štara di Marco.,Шта ради Марко?
+qa15a77b3ac7,OK,1.0,Volim da čitam romane.,Волим да читам романе.
+qa16cc284291,OK,0.88,"Dobro, chwala, avi.","Добро, хвала, а ви?"
+qa1769dc12f1,OK,1.0,Šta radiš u slobodno vreme.,Шта радиш у слободно време?
+qa17846ff21e,OK,0.97,šta voliš da čitash.,Шта волиш да читаш?
+qa17bd0c7858,OK,0.93,"Dobrosam, vala!","Добро сам, хвала."
+qa186f60d8bb,OK,1.0,Dobro veće. Kako ste?,Добро вече! Како сте?
+qa18846bfaf5,OK,0.94,"Da, malo vodem olim.","Да, мало воде молим."
+qa1aa6de41c8,OK,0.92,Kupiću sveže petjivo.,Купићу свеже пециво.
+qa1b594812b5,OK,0.97,Zovje se stefan.,Зове се Стефан.
+qa1be179ef74,OK,0.88,Gdje kupujš fleb.,Где купујеш хлеб?
+qa1d2ae9d3f1,OK,0.95,Kako provodis vikent?,Како проводиш викенд?
+qa1df8e9b0e5,OK,0.86,Kaful molem.,"Кафу, молим."
+qa1f4137bf8c,OK,1.0,Šta ste učili na času?,Шта сте учили на часу?
+qa1ff73a65c4,OK,0.91,Gdje autobuska stanice.,Где је аутобуска станица?
+qa203fc3fa41,OK,0.83,Provisćuga u Avbusto.,Провешћу га у августу.
+qa205e46f6e9,OK,0.91,Gdje parkira škola.,Где паркираш кола?
+qa2069848d6b,OK,1.0,Radim sa drugom.,Радим са другом.
+qa21d2ef4f15,OK,0.94,Gdje si bio joće popodne.,Где си био јуче поподне?
+qa22ea98c1c2,OK,0.87,i mošli kućno gljubimca.,Имаш ли кућног љубимца?
+qa2389af6750,OK,0.9,"Dobro sam spavl, vala.","Добро сам спавао, хвала."
+qa23fd4867a1,OK,0.89,Gdje kupujesz povrci.,Где купујеш поврће?
+qa24c4f2eb11,OK,0.98,štaćeš kupiti za doručak.,Шта ћеш купити за доручак?
+qa253391a5c2,OK,0.96,Sultra popodne.,Сутра поподне.
+qa26567f1e51,OK,0.83,kado dolazir.,Када долазиш?
+qa26ca594ad8,OK,0.87,Idem kog cestre.,Идем код сестре.
+qa28e4b1ecab,OK,0.82,Dalje padala kisje i uče.,Да ли је падала киша јуче?
+qa29d52db904,OK,1.0,Kako je vreme danas?,Како је време данас?
+qa29f1364957,OK,0.93,Govorim Ruski i Serbski.,Говорим руски и српски.
+qa2a48668bb7,OK,0.8,Kat si vešba.,Кад си вежбао?
+qa2a75fe26a0,OK,1.0,"Idemo, divno je vreme.","Идемо, дивно је време."
+qa2af2686803,OK,1.0,"Ne, još nemam dece.","Не, још немам деце."
+qa2b72944135,OK,0.96,kad si posledni put bio u pozorišto.,Кад си последњи пут био у позоришту?
+qa2ba5ef19b1,OK,0.87,Gdemoja torba.,Где је моја торба?
+qa2e18165590,OK,0.94,tamo porad apoteke.,"Тамо, поред апотеке."
+qa2ea67446a9,OK,0.79,Pa da li sneg ce oddan.,Падао је снег цео дан.
+qa2eda18c4f1,OK,1.0,Gde ćeš biti u subotu?,Где ћеш бити у суботу?
+qa2ef198c35c,OK,0.86,Rano u 6 sati.,"Рано, у шест сати."
+qa2f551335f9,OK,0.89,što kupujš u prodavniti?,Шта купујеш у продавници?
+qa309eef76a2,OK,0.96,Kad ćete useliti novistan.,Када ћете уселити нови стан?
+qa31a6b16f7a,OK,1.0,Volim piletinu i salatu.,Волим пилетину и салату.
+qa33528b30b9,OK,0.9,Šta se radi ona poslujuće?,Шта си радио на послу јуче?
+qa356fdb6e9a,OK,0.76,Flebe i aj.,Хлеб и јаја.
+qa35f2abef43,OK,0.86,Dalj dimiš.,Да ли димиш?
+qa36842db4ef,OK,0.94,Hoči u rado dolazim.,"Хоћу, радо долазим."
+qa36b9b40c9b,OK,0.88,Kad akreći vo za novisad.,Када креће воз за Нови Сад?
+qa36d202b14f,OK,0.98,Šta ćeš raditi unedelju?,Шта ћеш радити у недељу?
+qa378ac29707,OK,0.93,idem na bazen u jutro.,Идем на базен ујутру.
+qa3850b95dff,OK,1.0,koliko košta ovaj rećnik?,Колико кошта овај речник?
+qa393e284795,OK,0.72,Flajb im leko.,Хлеб и млеко.
+qa399693491a,OK,0.84,"Molim vas, kde stanice?","Молим вас, где је станица?"
+qa3a75c84412,OK,0.76,Glada o sam football.,Гледао сам фудбал.
+qa3b29f17c28,OK,0.87,Bili smuk odkomšije.,Били смо код комшије.
+qa3b4e7d8568,OK,0.97,Koliko godine ima tvoja sestra?,Колико година има твоја сестра?
+qa3c9809fd1b,OK,0.98,Gdje si bio na vikendu.,Где си био на викенду?
+qa3cb9df2acf,OK,1.0,Dobro jutro. Kako ste?,Добро јутро! Како сте?
+qa4159662266,OK,0.93,Daliti se dopo film.,Да ли ти се допао филм?
+qa419dbec13f,OK,0.96,kada ustajš.,Када устајеш?
+qa41aa4bb9b7,OK,0.91,Kat ćeš prativeš.,Кад ћеш прати веш?
+qa41cae659de,OK,0.9,Koje danas dan.,Који је данас дан?
+qa4277aff56c,OK,0.98,"Sveska, penkalo i knige.","Свеска, пенкало и књиге."
+qa42c31fd0ad,OK,0.86,"Suntšanuje, ali hladno.","Сунчано је, али хладно."
+qa42d1f4c2e8,OK,0.96,Zašto si kasno došo ukući.,Зашто си касно дошао кући?
+qa4387985e3f,OK,0.88,Udesit i pet.,У десет и пет.
+qa43a35eb7d2,OK,0.9,Kot je došao posetu.,Ко ти је дошао у посету?
+qa455a3b284e,OK,0.85,i demoli u šetniu poslora učka.,Идемо ли у шетњу после ручка?
+qa45b87a1471,OK,0.89,Saboratom i sestram.,Са братом и сестром.
+qa46a0bc045a,OK,0.9,i demona piacu.,Идемо на пијацу.
+qa47388e9ff7,OK,0.91,supu i fleb.,Супу и хлеб.
+qa475cdcef1e,OK,0.91,Bio sam prošlob mesece.,Био сам прошлог месеца.
+qa47fe10d2e0,OK,0.92,Pijosam kafu.,Пио сам кафу.
+qa48b0d39d4f,OK,0.97,Gdje čekas autobus.,Где чекаш аутобус?
+qa49cfb2e070,OK,0.79,"Takse im, brzebilo.","Таксијем, брзо је било."
+qa4b88ab0e93,OK,1.0,Obično salatu.,Обично салату.
+qa4de06fb200,OK,0.97,imam zove se a na.,"Имам, зове се Ана."
+qa4e4970acdf,OK,0.92,Šta je desh zavečeru?,Шта једеш за вечеру?
+qa4fa6828cdd,OK,1.0,šta piješ uz rucak.,Шта пијеш уз ручак?
+qa4fc2502c54,OK,0.97,šta si jo za rucak.,Шта си јео за ручак?
+qa51cd201458,OK,1.0,Doma sa porodicom.,"Дома, са породицом."
+qa529d1e4648,OK,0.93,Gdeste bili joće uveče.,Где сте били јуче увече?
+qa52d9253d2c,OK,0.89,kupil sam chleb im leko.,Купио сам хлеб и млеко.
+qa53658adba4,OK,0.95,Gdje kupujesz lekove.,Где купујеш лекове?
+qa5415ddeadb,OK,0.97,Mismo iz Rusije.,Ми смо из Русије.
+qa54cd07a51b,OK,1.0,koliko košta ova torta?,Колико кошта ова торта?
+qa556c947505,OK,0.87,Čije ovatorba.,Чија је ова торба?
+qa55f638ff65,OK,1.0,"Da, veoma.","Да, веома."
+qa562c4b2b7f,OK,0.92,što si kupio u prodavniti?,Шта си купио у продавници?
+qa56430234d6,OK,1.0,Kako si?,Како си?
+qa5693d3bf25,OK,0.91,Radio sam izvešte.,Радио сам извештај.
+qa56e2b04566,OK,0.95,Koliko dugo trajčas.,Колико дуго траје час?
+qa5758ac32fc,OK,0.95,Dolazimo u sredu u več.,Долазимо у среду увече.
+qa57fd2a3f10,OK,0.82,Napazaro.,На пазару.
+qa58ad5db62e,OK,0.73,Či tek nigu?,Чита књигу.
+qa5926255447,OK,1.0,Bio sam kod prijatelja.,Био сам код пријатеља.
+qa596a80afe2,OK,0.89,Kočeš učiti srpski.,Кад ћеш учити српски?
+qa5aafce8794,OK,1.0,Šta voliš da jedeš?,Шта волиш да једеш?
+qa5c3ed815c5,OK,0.9,"Piju ka fu, hvala.","Пићу кафу, хвала."
+qa5c427571a9,OK,0.9,učim srovskji i čitam.,Учим српски и читам.
+qa5cff055517,OK,0.83,uprodam nici.,У продавници.
+qa5f1c5467f6,OK,0.84,Što slušš?,Шта слушаш?
+qa5f782a7cd6,OK,0.84,Kočeš pozvat i prijateli.,Кад ћеш позвати пријатеље?
+qa5fd82226ad,OK,0.82,Rucelizmo u restauranu.,Ручали смо у ресторану.
+qa60cbf0f940,OK,1.0,šta ti je potrebno za školu.,Шта ти је потребно за школу?
+qa62e357e493,OK,0.87,Govoriteli anglaski.,Говорите ли енглески?
+qa63bfb414d5,OK,0.96,Sakim radiš.,Са ким радиш?
+qa67e442cd69,OK,0.91,Koliko košta ovaknija?,Колико кошта ова књига?
+qa680d64d96a,OK,0.86,Imam osam najstv godima.,Имам осамнаест година.
+qa6af99a6361,OK,0.93,ima šli vremena.,Имаш ли времена?
+qa6b22c75c33,OK,0.97,Idem sad drugaricom.,Идем са другарицом.
+qa6bed039750,OK,0.97,Šta radiš u veče.,Шта радиш увече?
+qa6d352fff28,OK,0.92,koji je zik govariš.,Који језик говориш?
+qa6f1bb2e0f6,OK,0.93,Kat ćeš provesti od mor.,Кад ћеш провести одмор?
+qa6f2ed4c43f,OK,1.0,Čekam ga na stanici.,Чекам га на станици.
+qa6ff0635516,OK,0.97,odmaram sekod kuće.,Одмарам се код куће.
+qa70dc000d5f,OK,0.93,Parkiram i spreds grade.,Паркирам испред зграде.
+qa70ed33ed78,OK,0.96,Saplikacijom svaki dan.,"Са апликацијом, сваки дан."
+qa70f0c79303,OK,0.92,Gdje autobus.,Где је аутобус?
+qa71737cef1a,OK,0.81,i ću na posl.,Ићи ћу на посао.
+qa726d9258b8,OK,1.0,Koliko dugo učite Srpski?,Колико дуго учите српски?
+qa7351e6fff0,OK,0.97,Utržnom centru.,У тржном центру.
+qa7371cf9cc0,OK,0.91,Kako ćeš ići naposl s utra?,Како ћеш ићи на посао сутра?
+qa73c71036cd,OK,0.85,Biosom u Avgusto.,Био сам у августу.
+qa74faeaf4ff,OK,1.0,Obično vodu.,Обично воду.
+qa76585b71d4,OK,0.92,Zovem semila.,Зовем се Милан.
+qa76a93c0562,OK,0.9,"Dobrosam, chwala lepo.","Добро сам, хвала лепо."
+qa76c73d5bb4,OK,0.95,Gdje radis.,Где радиш?
+qa778851f941,OK,1.0,Zasto učiš Srpski.,Зашто учиш српски?
+qa7866459cea,OK,0.95,Malo govorim engliski.,Мало говорим енглески.
+qa7a301d32a2,OK,1.0,Trista dinara.,Триста динара.
+qa7bd30c6f70,OK,0.96,Slavijosam sa porodicom.,Славио сам са породицом.
+qa7c5c238ece,OK,0.91,kad si došok uči.,Кад си дошао кући?
+qa7c5ea44d97,OK,0.84,Dalj govor i šruski.,Да ли говориш руски?
+qa7d3c53352c,OK,0.91,"Ne, 5 minuta peške.","Не, пет минута пешке."
+qa7e399efb6d,OK,0.92,Jesi liglada.,Јеси ли гладан?
+qa80fc3c72c3,OK,0.94,"Da, lepje.","Да, леп је."
+qa81e54e3782,OK,0.76,Koda i deswečaras.,Куда идеш вечерас?
+qa8252320a3a,OK,0.87,Choćešli već ruk od nas.,Хоћеш ли вечеру код нас?
+qa827c020eaf,OK,1.0,ima u frižideru.,"Има, у фрижидеру."
+qa85f4b47c81,OK,0.83,Katš mi zvati.,Кад ћеш ми звати?
+qa8678d0dd41,OK,0.95,Jeli daleko dostanice?,Је ли далеко до станице?
+qa87b2cd8895,OK,0.94,Kako si Slavio rođinda?,Како си славио рођендан?
+qa894b0b6954,OK,0.8,Oda kliste.,Одакле сте?
+qa896c9ff271,OK,0.97,Gdje obično rucate.,Где обично ручате?
+qa8a2436960e,OK,0.86,Kajteš za vršiti posao.,Кад ћеш завршити посао?
+qa8af5da98a1,OK,0.94,Što radite u sredu?,Шта радите у среду?
+qa8c05a513f5,OK,0.88,Kakos i spavu o noćas?,Како си спавао ноћас?
+qa8c4fb182ad,OK,0.91,Danas učim serbski.,Данас учим српски.
+qa8dd5696a6f,OK,0.98,štasi pio za dorucak.,Шта си пио за доручак?
+qa8f133f7582,OK,0.6,50 minuta.,Педесет минута.
+qa8f368d45ca,OK,0.62,kupojem i chci utro.,Купујем их сутра ујутру.
+qa8f42382e7b,OK,0.86,"Da, ve oma sanglada.","Да, веома сам гладан."
+qa90d3b96e60,OK,1.0,Kako se zovete?,Како се зовете?
+qa9137053769,OK,0.95,Kako putujesz na poso?,Како путујеш на посао?
+qa91c64c70f3,OK,0.83,Nisam bi osan za uzat.,"Нисам, био сам заузет."
+qa95d88f3f80,OK,1.0,Glava me boli.,Глава ме боли.
+qa97027d323f,OK,0.71,Imad 12 godina.,Има дванаест година.
+qa974ae97608,OK,0.92,Kad za vršava radnia.,Кад завршава радња?
+qa979ac629bb,OK,1.0,Šta radiš u subotu.,Шта радиш у суботу?
+qa97abf27567,OK,0.94,štaće špiti čaj ili kafu.,"Шта ћеш пити, чај или кафу?"
+qa97b8bed6ae,OK,0.91,na selu kodbak je.,"На селу, код баке."
+qa993e2f60e7,OK,0.93,Učimo ga šest mesetji.,Учимо га шест месеци.
+qa9959c7bbfa,OK,0.9,Zovim se jelen.,Зовем се Јелена.
+qa9a79d8901e,OK,0.96,"Peške, blizuje.","Пешке, близу је."
+qa9b521650a0,OK,0.86,učelizmo nove reći.,Учили смо нове речи.
+qa9b7b623d08,OK,0.94,Pilismopivo i sok.,Пили смо пиво и сок.
+qa9d5e2ff146,OK,0.82,Vesbosam i uče u jutru.,Вежбао сам јуче ујутру.
+qa9da3fe85b0,OK,0.76,Fleb košta 50 dinar.,Хлеб кошта педесет динара.
+qa9f4363c732,OK,1.0,u bolnici.,У болници.
+qa9fe9c00dd8,OK,0.91,i ćemo u novisad.,Ићи ћемо у Нови Сад.
+qaa17be6310b,OK,0.92,u deset u vec.,У десет увече.
+qaa1bd4f9851,OK,1.0,Kako ste?,Како сте?
+qaa311cf3828,OK,0.73,Do 50 popodne.,До пет сати поподне.
+qaa38ba79a11,OK,1.0,"Ne, hvala imam soka.","Не, хвала, имам сока."
+qaa88952188b,OK,0.94,Kad opocinje čas.,Када почиње час?
+qaa90a1559da,OK,0.97,odmaram kot kuće sa porodicom.,Одмарам код куће са породицом.
+qaa99a407796,OK,0.9,Malo samo osnunereči.,"Мало, само основне речи."
+qaaa10988b35,OK,0.91,odmaraciu kot kuće.,Одмараћу код куће.
+qaaa14866c90,OK,0.84,"Ne, ne manbreme na danas.","Не, немам времена данас."
+qaad66205e07,OK,0.95,kad završavaš poso.,Када завршаваш посао?
+qaade2424141,OK,0.88,Gdje to alet.,Где је тоалет?
+qaae6e5f5a64,OK,0.71,U 500 popodne.,У пет сати поподне.
+qaafef0883ea,OK,0.93,Štara diš danas.,Шта радиш данас?
+qab07b3a61fd,OK,0.71,Zvacite več raz oko 7.,Зваћу те вечерас око седам.
+qab0a543eea3,OK,0.98,Koliko reći si naučio ove nedele?,Колико речи си научио ове недеље?
+qab2728e3156,OK,0.94,Mogoli platiti karticom.,Могу ли платити картицом?
+qab2b8a7a68a,OK,0.91,Šta gladaš u veče?,Шта гледаш увече?
+qab2c4553a9d,OK,0.95,Gdje živis.,Где живиш?
+qab2cb965b70,OK,0.94,Či to sam novine?,Читао сам новине.
+qab30ad81f3d,OK,0.88,Sakem i desu bioškop.,Са ким идеш у биоскоп?
+qab3ed29c01f,OK,0.92,kad idesz u kupovino.,Кад идеш у куповину?
+qab7177025cf,OK,0.87,Usredu postla postla.,У среду после посла.
+qab73d609042,OK,0.94,Kako će vrijeme biti sutra?,Какво ће време бити сутра?
+qab7cf85ceec,OK,0.79,Auto buzom broj 2.,Аутобусом број два.
+qab86940d54d,OK,0.9,"Nimi se dopov, bio je dosada.","Није ми се допао, био је досадан."
+qab975dea4d7,OK,0.95,kudasi išao u jutru.,Куда си ишао ујутру?
+qaba68522fa1,OK,0.95,Učiču sultra u jutru.,Учићу сутра ујутру.
+qaba99cebae2,OK,0.81,Gdje tvoje kuće.,Где је твоја кућа?
+qabbd13a23a7,OK,0.95,"ne, blizuje.","Не, близу је."
+qabc4bdd9aa4,OK,0.86,Gladam film i liseri.,Гледам филм или серију.
+qabcbee6d81f,OK,0.85,i ar sam ima opuno posla.,Јер сам имао пуно посла.
+qabce9bb1358,OK,0.86,kako si otišao najrodru?,Како си отишао на аеродром?
+qabe3fb4803d,OK,0.91,kako učite serbski?,Како учите српски?
+qabe64347c36,OK,0.87,Gladoš sam film.,Гледао сам филм.
+qabefb64aa85,OK,0.96,Volišli kafu.,Волиш ли кафу?
+qabf965cc64a,OK,1.0,živim u novom sadu.,Живим у Новом Саду.
+qac0a4ae53c5,OK,0.96,štačeš radi ti u subotu.,Шта ћеш радити у суботу?
+qac156684745,OK,0.92,Šta radiš u subboto u veče.,Шта радиш у суботу увече?
+qac24eb465aa,OK,0.9,Gde učiš serbski?,Где учиш српски?
+qac4a0fc41ed,OK,0.95,Biloj toplo i lepo.,Било је топло и лепо.
+qac6ccd97664,OK,0.85,Šta ćeš glada ti već raz.,Шта ћеш гледати вечерас?
+qac7b695e26a,OK,0.88,hoćešli u kupovino sam no.,Хоћеш ли у куповину са мном?
+qac96923b4dd,OK,0.89,Danas je ponedele.,Данас је понедељак.
+qacb33e333b2,OK,0.9,Kako muziku si sluša?,Какву музику си слушао?
+qacb99f55933,OK,1.0,Šta ste pili za večeru?,Шта сте пили за вечеру?
+qacec7e75cba,OK,1.0,Doma i na telefonu.,Дома и на телефону.
+qacf5b4a8b90,OK,1.0,u centru grada.,У центру града.
+qad03079df29,OK,0.8,Dalje imam leka.,Да ли има млека?
+qad1ee587c8e,OK,0.94,Kad apocinje film.,Када почиње филм?
+qad20e25a872,OK,0.86,Kasni kao uvig.,"Касни, као увек."
+qad25f16c98d,OK,0.84,Uselitim o se umaju.,Уселићемо се у мају.
+qad2684ab756,OK,0.8,Chodšli vodu.,Хоћеш ли воду?
+qad2c84a7322,OK,0.86,Pracuga u subboto u jutro.,Праћу га у суботу ујутру.
+qad2d47042fb,OK,0.8,namoru utsernoj goli.,"На мору, у Црној Гори."
+qad2f5495a0f,OK,0.84,Bicuna stadjona.,Бићу на стадиону.
+qad3271337ea,OK,0.9,Kat se bio na odmoru.,Кад си био на одмору?
+qad4de977d2b,OK,0.96,"Ne, žura malo.","Не, журам мало."
+qad5b71617cb,OK,0.98,Kupuješ li karte zaleto.,Купујеш ли карте за лето?
+qad695e97077,OK,0.92,Jesili žeda.,Јеси ли жедан?
+qad798783d01,OK,0.96,Šta si gledo uče uveče?,Шта си гледао јуче увече?
+qad88a4a7428,OK,0.87,Dociću petak uveči.,Доћи ћу у петак увече.
+qad91126e04c,OK,0.98,Jeli daleko do centra.,Је ли далеко до центра?
+qad9d33cc1cd,OK,0.93,Dolazim sutra u jutro.,Долазим сутра ујутру.
+qad9e9fec61d,OK,0.98,Šta kupujesz na pazaru.,Шта купујеш на пазару?
+qadb4d03ad5a,OK,0.87,Dokat sigleda o film noćes.,До кад си гледао филм ноћас?
+qadb85b58ad0,OK,0.94,Spremi ću ribu sa pirinčam.,Спремићу рибу са пиринчем.
+qadcc5e9b737,OK,0.92,U pola osam u jutro.,У пола осам ујутру.
+qadcf5bc7e00,OK,0.94,Nije bila je suvo.,"Није, било је суво."
+qadd3f16939d,OK,0.8,Kajčiš mislato i slikje.,Кад ћеш ми слати слике?
+qade3d5b0667,OK,0.62,5. nadinara.,Пет стотина динара.
+qadfc149ff74,OK,0.93,Gdeste učali usredu.,Где сте ручали у среду?
+qadfef82db51,OK,1.0,Šta ćete piti.,Шта ћете пити?
+qae1e2ba1922,OK,0.91,kupio sam upekali.,Купио сам у пекари.
+qae2cc580188,OK,0.76,Slacute i vetjeros.,Слаћу ти их вечерас.
+qae2f3561e42,OK,0.97,Bice sunčano i topo.,Биће сунчано и топло.
+qae3654332e0,OK,0.89,kadat da ulazite kod nas.,Када долазите код нас?
+qae373a1ed72,OK,1.0,kad se vidimo.,Кад се видимо?
+qae4fc5fd537,OK,0.95,šta je desh za dorucak.,Шта једеш за доручак?
+qae605dd9064,OK,0.95,Gleda ću futbal na televizoru.,Гледаћу фудбал на телевизору.
+qae6900732fe,OK,0.91,Kako se zovet vaj grad?,Како се зове твој град?
+qae73132d575,OK,0.82,Kajteš doti kod nas.,Кад ћеш доћи код нас?
+qae777fd6975,OK,0.89,Kupi ću chleb i ja.,Купићу хлеб и јаја.
+qae8c2e75f54,OK,0.92,Gdje si kupi o chleb.,Где си купио хлеб?
+qae9aae70078,OK,0.96,Sakim živis.,Са ким живиш?
+qae9f8ff8aec,OK,0.96,kad se budiš.,Када се будиш?
+qaea712ece1e,OK,0.87,Dalisi do Rukovodanas.,Да ли си доручковао данас?
+qaeb3cbb20a1,OK,0.92,Pozvačuju ih usredu.,Позваћу их у среду.
+qaeba5e1ac38,OK,1.0,Šta piješ?,Шта пијеш?
+qaeba95f0224,OK,0.96,Dalisi gledao utakmiću.,Да ли си гледао утакмицу?
+qaec3fd17d3e,OK,0.97,Kako je bilo namoru?,Како је било на мору?
+qaecdab67dd6,OK,0.98,Kako se zove tvoje brat?,Како се зове твој брат?
+qaee465f8e89,OK,0.86,i gram kosherku.,Играм кошарку.
+qaee6a92e65e,OK,1.0,Tamo levo.,"Тамо, лево."
+qaf0192b3d75,OK,1.0,Koliko je sati?,Колико је сати?
+qaf01d0aa17b,OK,1.0,"Ne, nikad.","Не, никад."
+qaf04789b7d7,OK,0.94,Gdje kupujesz odeću.,Где купујеш одећу?
+qaf0d16c26d5,OK,0.98,Kako putujesz u školu?,Како путујеш у школу?
+qaf1091aff50,OK,0.77,Na učil sndvad se treći.,Научио сам двадесет речи.
+qaf17a81b482,OK,0.89,Što si čitao ove nedeli?,Шта си читао ове недеље?
+qaf1bb8fb14e,OK,0.84,u apotetji.,У апотеци.
+qaf34335926e,OK,0.89,kad da idesz na poso.,Када идеш на посао?
+qaf3c8a89b1d,OK,0.93,Volišli Srbski jezik.,Волиш ли српски језик?
+qaf648b6c6a8,OK,0.88,Kako je vreme bilo i uči?.,Какво је време било јуче?
+qaf661150448,OK,1.0,Naravno karticom može.,"Наравно, картицом може."
+qaf688d041fa,OK,0.9,Dali govorite serbski.,Да ли говорите српски?
+qaf69424eae6,OK,0.88,i šlo sam na posa.,Ишао сам на посао.
+qaf6c6a5d42b,OK,1.0,Koliko imaš godina?,Колико имаш година?
+qaf707cd7290,OK,1.0,Kako ćeš putovati u grčku?,Како ћеш путовати у Грчку?
+qaf7230ff919,OK,0.74,Sakimsi i grosje.,Са ким си играо шах?
+qaf815d78fca,OK,0.95,Gde ćeš provesti odmar?,Где ћеш провести одмор?
+qaf81e27a26f,OK,0.97,Gdje su ključevi.,Где су кључеви?
+qaf831f676d5,OK,0.97,Štaćeš raditi sutra?,Шта ћеш радити сутра?
+qaf90a6a902d,OK,0.91,"Ne, bijem samočaj.","Не, пијем само чај."
+qaf91c9f7023,OK,0.7,Kudace itjupose to.,Куда ћете ићи у посету?
+qaf94646650c,OK,0.92,Kada iduš na odmora.,Када идеш на одмор?
+qaf9d12dcd2e,OK,0.98,izlazim sa prijatelima.,Излазим са пријатељима.
+qafb46fecdc9,OK,0.98,Moj gradje kragujevac.,Мој град је Крагујевац.
+qafdfe03a6dc,OK,0.97,tu je nastolici.,"Ту је, на столици."
+qafe42cac011,OK,0.91,koliku košta chleb.,Колико кошта хлеб?
+qafe47b2ea4e,OK,0.95,Nastolu su.,На столу су.
+w001,OK,1.0,da.,да
+w001_ex,OK,1.0,da naravno.,"Да, наравно."
+w002,OK,1.0,Ne.,не
+w002_ex,OK,0.93,"Ne, vala.","Не, хвала."
+w003,OK,0.89,Vala.,хвала
+w003_ex,OK,1.0,Hvala na pomoći.,Хвала на помоћи!
+w004,OK,1.0,Molim.,молим
+w004_ex,OK,0.98,Mojlim vas možete li ponoviti.,"Молим вас, можете ли поновити?"
+w005,OK,0.88,izvenite.,извините
+w005_ex,OK,0.89,"izwinite, kde autobuska stanica.","Извините, где је аутобуска станица?"
+w006,OK,1.0,Naravno.,наравно
+w006_ex,OK,0.97,Naravno da razume.,Наравно да разумем.
+w007,OK,1.0,Dobro!,добро
+w008,OK,0.95,Morže biti.,може бити
+w008_ex,OK,0.98,"Može biti, vidimo se kasnje.","Може бити, видимо се касније."
+w009,OK,1.0,koliko košta.,колико кошта
+w009_ex,OK,1.0,Koliko košta ova karta?,Колико кошта ова карта?
+w010,OK,1.0,Treba.,треба
+w010_ex,OK,1.0,Treba da idem sada.,Треба да идем сада.
+w011,OK,0.92,Zdravog.,здраво
+w011_ex,OK,1.0,Zdravo kako si.,"Здраво, како си?"
+w012,OK,1.0,Dobar dan.,добар дан
+w012_ex,OK,1.0,"Dobar dan, kako ste?","Добар дан, како сте?"
+w013,OK,1.0,Dobro jutro.,добро јутро
+w013_ex,OK,0.95,Dobro jutro. Wрем je za dorucak.,Добро јутро! Време је за доручак.
+w014,OK,0.95,Dobro već.,добро вече
+w014_ex,OK,1.0,"Dobro veče, dobrodošli.","Добро вече, добродошли!"
+w015,OK,1.0,Laku noć.,лаку ноћ
+w015_ex,OK,1.0,Laku noć i slatke snove.,Лаку ноћ и слатке снове!
+w016,OK,0.89,Doviděňa.,довиђења
+w016_ex,OK,1.0,"Dovidjenja, vidimo se sutra.","Довиђења, видимо се сутра!"
+w017,OK,0.67,Čau!,ћао
+w017_ex,OK,0.77,šao ka koji de?,"Ћао, како иде?"
+w018,OK,0.95,Dobro došli.,добродошли
+w018_ex,OK,0.93,Dobro došli u Belgrad.,Добродошли у Београд!
+w019,OK,1.0,vidimo se.,видимо се
+w019_ex,OK,0.93,Vidimo se u ponedelek.,Видимо се у понедељак!
+w020,OK,1.0,sve najbolje.,све најбоље
+w020_ex,OK,0.79,sve najbolje zorođinom.,Све најбоље за рођендан!
+w021,OK,1.0,Ja.,ја
+w021_ex,OK,1.0,Ja sam iz Rusije.,Ја сам из Русије.
+w022,OK,0.67,T,ти
+w022_ex,OK,0.91,Tisimoj prijatel.,Ти си мој пријатељ.
+w023,OK,1.0,On.,он
+w023_ex,OK,0.96,Onje moj brat.,Он је мој брат.
+w024,OK,1.0,Ona.,она
+w024_ex,OK,0.76,Ona i mje sestra.,Она је моја сестра.
+w025,OK,0.67,Ona.,оно
+w025_ex,OK,1.0,Ono je veliko.,Оно је велико.
+w026,OK,1.0,Mi.,ми
+w027,OK,0.8,V i.,ви
+w027_ex,OK,0.93,Visite student.,Ви сте студент?
+w028,OK,1.0,Oni.,они
+w028_ex,OK,1.0,Oni su moja porodica.,Они су моја породица.
+w029,OK,1.0,Moj.,мој
+w029_ex,OK,0.92,Ovoj moj dom.,Ово је мој дом.
+w030_ex,OK,1.0,Kako je tvoje ime?,Како је твоје име?
+w031,OK,1.0,Njegov.,његов
+w031_ex,OK,0.87,Njegov stanie velek.,Његов стан је велик.
+w032,OK,1.0,Njen.,њен
+w032_ex,OK,0.85,Njenak uče mala.,Њена кућа је мала.
+w033,OK,1.0,Ko.,ко
+w033_ex,OK,0.93,Koje to.,Ко је то?
+w034,OK,1.0,Šta!,шта
+w034_ex,OK,1.0,Šta radiš?,Шта радиш?
+w035,OK,0.86,Gdje.,где
+w035_ex,OK,0.92,Gdje apoteka.,Где је апотека?
+w036,OK,1.0,Kada.,када
+w037,OK,1.0,Kako?,како
+w037_ex,OK,0.94,kako se to okazje na Srpsko?,Како се то каже на српском?
+w038,OK,0.91,Zashto.,зашто
+w039,OK,1.0,koliko.,колико
+w039_ex,OK,1.0,Koliko godina imaš?,Колико година имаш?
+w040,OK,1.0,Koji.,који
+w040_ex,OK,0.9,Koje ovo grad.,Који је ово град?
+w041,OK,1.0,i.,и
+w041_ex,OK,0.91,Fleb i voda.,Хлеб и вода.
+w042,OK,1.0,Ali.,али
+w042_ex,OK,0.88,"V te obih, ali ne mogu.","Хтео бих, али не могу."
+w043,OK,0.86,iili.,или
+w043_ex,OK,0.67,Kapu ili tre.,Кафу или чај?
+w044,OK,0.67,Jel.,јер
+w044_ex,OK,1.0,učim jer volim jezike.,"Учим, јер волим језике."
+w045,OK,1.0,Ako?,ако
+w045_ex,OK,0.94,Ako pada kisja ostajmo kot kuće.,"Ако пада киша, остајемо код куће."
+w046,OK,1.0,Ovde.,овде
+w046_ex,OK,0.96,Ovdestanujem.,Овде станујем.
+w047,OK,1.0,Tamo.,тамо
+w047_ex,OK,0.97,Restoranje tamo.,Ресторан је тамо.
+w048,OK,0.86,Sad.,сада
+w048_ex,OK,0.91,sada učim serbski.,Сада учим српски.
+w049,OK,0.83,Kasni.,касније
+w049_ex,OK,0.97,vidimo se kasnje.,Видимо се касније.
+w050,OK,1.0,Danas.,данас
+w050_ex,OK,1.0,danas je lep dan.,Данас је леп дан.
+w051,OK,1.0,Sutra.,сутра
+w051_ex,OK,0.93,su tra idem u Belgrad.,Сутра идем у Београд.
+w052,OK,0.86,Uče.,јуче
+w052_ex,OK,0.76,Ljucje bilo kisje.,Јуче је била киша.
+w053,OK,1.0,uvek.,увек
+w053_ex,OK,0.74,uvijek PMK fu u jutro.,Увек пијем кафу ујутру.
+w054,OK,1.0,Nikada.,никада
+w054_ex,OK,1.0,Nikada ne kasnim.,Никада не касним.
+w055,OK,1.0,Ponekad.,понекад
+w055_ex,OK,0.88,Ponekad čitam knijeg je.,Понекад читам књиге.
+w056,OK,0.89,Nogo.,много
+w056_ex,OK,0.97,imam nogo posla.,Имам много посла.
+w057,OK,0.86,Mało.,мало
+w057_ex,OK,0.94,Znam malo srbski.,Знам мало српски.
+w058,OK,0.8,Velma.,веома
+w058_ex,OK,0.86,Ovo je ve oma bažna.,Ово је веома важно.
+w059,OK,1.0,Još.,још
+w059_ex,OK,1.0,Još malo molim.,"Још мало, молим!"
+w060,OK,0.67,Ljewo.,лево
+w061,OK,1.0,desno.,десно
+w062,OK,1.0,Nula.,нула
+w063,OK,0.8,Je da.,један
+w063_ex,OK,0.75,1 čaj molim.,"Један чај, молим."
+w064,OK,1.0,Dva.,два
+w064_ex,OK,0.96,imam dva brat.,Имам два брата.
+w065_ex,OK,0.97,Ona ima trijezika.,Она има три језика.
+w066,OK,0.92,Četir i.,четири
+w066_ex,OK,0.92,kuće ima četirisobe.,Кућа има четири собе.
+w067,OK,1.0,Pet.,пет
+w067_ex,OK,0.86,"Radim 5, da nas edmično.",Радим пет дана седмично.
+w068,OK,1.0,Šest!,шест
+w068_ex,OK,0.88,Ustajem u 6 sati.,Устајем у шест сати.
+w069,OK,0.89,Seda.,седам
+w069_ex,OK,0.82,Čekol sam 7 minuta.,Чекао сам седам минута.
+w070,OK,1.0,Osam.,осам
+w070_ex,OK,0.62,Počinjamo u 800.,Почињемо у осам сати.
+w071_ex,OK,0.79,Završavam u 9.,Завршавам у девет.
+w072,OK,0.8,desit.,десет
+w074,OK,0.67,Pede sid.,педесет
+w074_ex,OK,0.97,imam pede set dinara.,Имам педесет динара.
+w075_ex,OK,0.74,Tuko što studina ra.,То кошта сто динара.
+w076,OK,0.86,Hila da.,хиљада
+w076_ex,OK,0.91,Grad i mahila dustanovnika.,Град има хиљаду становника.
+w077,OK,0.8,Čovik.,човек
+w077_ex,OK,0.67,Ova i čovak imu i šef.,Овај човек је мој шеф.
+w078,OK,0.82,Muşka raz.,мушкарац
+w078_ex,OK,0.95,Muskara cčita novine.,Мушкарац чита новине.
+w079,OK,1.0,žena.,жена
+w079_ex,OK,0.9,Ženakuva ročak.,Жена кува ручак.
+w080,OK,1.0,Dete.,дете
+w080_ex,OK,1.0,Dete spava.,Дете спава.
+w081,OK,1.0,Deća.,деца
+w081_ex,OK,0.91,Daca se igreju u parku.,Деца се играју у парку.
+w082,OK,1.0,Porodica.,породица
+w082_ex,OK,0.93,Moja porodice e velika.,Моја породица је велика.
+w083,OK,0.8,Maika.,мајка
+w083_ex,OK,0.88,Moja mica ima pede setgodina.,Моја мајка има педесет година.
+w084,OK,0.67,Otoce.,отац
+w084_ex,OK,0.93,Moje otac radi u bansi.,Мој отац ради у банци.
+w085,OK,1.0,Brat.,брат
+w086,OK,1.0,Sestra.,сестра
+w086_ex,OK,1.0,Moja sestra je lekarka.,Моја сестра је лекарка.
+w087_ex,OK,0.93,Njegov syn ideu školu.,Његов син иде у школу.
+w088,OK,0.91,Čerka.,кћерка
+w088_ex,OK,0.91,Njenak cjerke ima pet godina.,Њена кћерка има пет година.
+w089,OK,1.0,Baka.,бака
+w089_ex,OK,0.97,Baka pravi kolac.,Бака прави колаче.
+w090_ex,OK,0.83,Dada glada televizio.,Деда гледа телевизију.
+w091,OK,1.0,Prijatelj.,пријатељ
+w091_ex,OK,0.95,Moj prijetel živi u novom sadu.,Мој пријатељ живи у Новом Саду.
+w092,OK,1.0,Prijateljica.,пријатељица
+w092_ex,OK,0.95,Njena prijatelice je iz Rusije.,Њена пријатељица је из Русије.
+w093,OK,1.0,Komšija.,комшија
+w093_ex,OK,0.77,Komšije v rolu bazan.,Комшија је врло љубазан.
+w094,OK,1.0,ime.,име
+w094_ex,OK,0.97,Moje imeje ana.,Моје име је Ана.
+w095,OK,1.0,Godina.,година
+w095_ex,OK,0.75,Imam 20 godina.,Имам двадесет година.
+w096,OK,1.0,Dečko.,дечко
+w096_ex,OK,0.95,Njen dečko je bisok.,Њен дечко је висок.
+w097,OK,1.0,Devojka.,девојка
+w097_ex,OK,0.94,Ova devojke moja sestra.,Ова девојка је моја сестра.
+w098,OK,0.89,vrem.,време
+w098_ex,OK,0.95,Nemam vreme nadanas.,Немам времена данас.
+w099,OK,1.0,Dan.,дан
+w099_ex,OK,0.98,svakidan učim nove reći.,Сваки дан учим нове речи.
+w100,OK,1.0,Noć.,ноћ
+w100_ex,OK,0.95,Kisha pa da celu noć.,Киша пада целу ноћ.
+w101,OK,1.0,Jutro.,јутро
+w101_ex,OK,0.83,Jutroj chladno.,Јутро је хладно.
+w102,OK,0.67,Vetje.,вече
+w1027,OK,0.8,Sandvici.,сендвич
+w1027_ex,OK,1.0,Jedem sendvić sa šunkom.,Једем сендвич са шунком.
+w1028,OK,0.8,Viliška.,виљушка
+w1028_ex,OK,0.96,Trebami čista viljushka.,Треба ми чиста виљушка.
+w1029,OK,1.0,Kašika.,кашика
+w1029_ex,OK,0.92,Kašikaj na taniru.,Кашика је на тањиру.
+w102_ex,OK,0.9,Uvijeci gljedamo televiziju.,Увече гледамо телевизију.
+w103,OK,0.9,Pone delak.,понедељак
+w1030,OK,0.67,Noš.,нож
+w1030_ex,OK,0.96,Nož je ošta.,Нож је оштар.
+w1031,OK,0.67,Časje.,чаша
+w1031_ex,OK,0.97,Dones i mi času vode.,Донеси ми чашу воде.
+w1032,OK,1.0,Svetlo.,светло
+w1032_ex,OK,1.0,uključi svetlo molim te.,"Укључи светло, молим те."
+w1033,OK,0.6,Gdjelo.,грло
+w1033_ex,OK,1.0,Grlo me boli.,Грло ме боли.
+w1034,OK,1.0,Lakt.,лакт
+w1034_ex,OK,0.96,Laktme boli.,Лакт ме боли.
+w1035_ex,OK,0.94,Ove cipela su nove.,Ове ципеле су нове.
+w1036,OK,1.0,Čarapa.,чарапа
+w1036_ex,OK,0.92,Tražim drugi čarap.,Тражим друге чарапе.
+w1037,OK,0.88,Rukavice.,рукавица
+w1037_ex,OK,0.98,Kupijo sam kožne rukavice.,Купио сам кожне рукавице.
+w1038,OK,0.6,Pojez.,појас
+w1038_ex,OK,0.76,Novi po esjeceran.,Нови појас је црн.
+w1039,OK,1.0,Led.,лед
+w1039_ex,OK,0.91,Ledje tana.,Лед је танак.
+w103_ex,OK,0.92,u ponedelek počinje poso.,У понедељак почиње посао.
+w104,OK,0.6,Udra.,уторак
+w1040,OK,1.0,Jutros.,јутрос
+w1040_ex,OK,0.98,Jutros. Je bilo chladno.,Јутрос је било хладно.
+w1041,OK,0.71,Vetrass.,вечерас
+w1041_ex,OK,0.98,večras idemo u bioskop.,Вечерас идемо у биоскоп.
+w1042,OK,0.71,Serutati.,цртати
+w1042_ex,OK,0.9,Dete tzrta kuču.,Дете црта кућу.
+w1043,OK,1.0,držati.,држати
+w1043_ex,OK,0.86,Drogim torbu u Rusi.,Држим торбу у руци.
+w1044,OK,1.0,razgovarati.,разговарати
+w1044_ex,OK,0.97,Razgovaramo o film.,Разговарамо о филму.
+w1045,OK,1.0,pokazati.,показати
+w1045_ex,OK,0.89,Pokażemi put do poszute.,Покажи ми пут до поште.
+w1046,OK,1.0,Skupljati.,скупљати
+w1046_ex,OK,0.96,Skupljam pečurke u jesem.,Скупљам печурке у јесен.
+w1047,OK,1.0,Tabla.,табла
+w1047_ex,OK,0.88,učitel piješa na tabli.,Учитељ пише на табли.
+w1048,OK,0.77,Petrka.,печурка
+w1048_ex,OK,0.98,Ove pečurke sujestive.,Ове печурке су јестиве.
+w1049,OK,0.94,Za to što?,зато што
+w1049_ex,OK,0.95,"Ostajem kući za to, što pa da kisša.",Остајем кући зато што пада киша.
+w104_ex,OK,0.98,U u torak imam sastanak.,У уторак имам састанак.
+w105,OK,1.0,sreda.,среда
+w1050,OK,0.89,i pak.,ипак
+w1050_ex,OK,1.0,ipak ću doci.,Ипак ћу доћи.
+w1051,OK,0.83,Ujutro.,ујутру
+w1051_ex,OK,0.97,u jutru pijem kafu.,Ујутру пијем кафу.
+w1052_ex,OK,0.94,Uveče čitam tnjigu.,Увече читам књигу.
+w1053,OK,0.91,Valda.,ваљда
+w1053_ex,OK,0.93,Valje će biti sunčano.,Ваљда ће бити сунчано.
+w1054,OK,0.94,Malo koji.,мало-који
+w1054_ex,OK,0.94,Malo koji znak ova jezik.,Мало-који зна овај језик.
+w1055,OK,0.8,Zveće.,цвеће
+w1055_ex,OK,0.91,Kupio sam sveći za mamu.,Купио сам цвеће за маму.
+w1056,OK,0.71,Redlook.,предлог
+w1056_ex,OK,1.0,imam dobar predlog.,Имам добар предлог.
+w1057,OK,0.89,Idea.,идеја
+w1057_ex,OK,0.95,to je odljčna ideja.,То је одлична идеја!
+w1058,OK,1.0,Problem.,проблем
+w1058_ex,OK,1.0,Nema problema.,Нема проблема.
+w1059,OK,1.0,Istina.,истина
+w1059_ex,OK,0.94,Rezite mi istinu.,Реците ми истину.
+w105_ex,OK,0.89,U sredu idem kodlaj kara.,У среду идем код лекара.
+w106,OK,1.0,Četvrtak.,четвртак
+w1060_ex,OK,0.98,Njegov smech je zarazan.,Његов смех је заразан.
+w1061_ex,OK,0.76,Lona cinaš po retu.,Лонац је на шпорету.
+w1062,OK,1.0,Tava.,тава
+w1062_ex,OK,0.92,Tava je vruće.,Тава је врућа.
+w1063,OK,0.82,Po klopat.,поклопац
+w1063_ex,OK,0.86,Pokrilo na tzpoklopce.,Покри лонац поклопцем.
+w1064,OK,1.0,Makaze.,маказе
+w1064_ex,OK,0.88,Makazisu nastolu.,Маказе су на столу.
+w1065,OK,1.0,igla.,игла
+w1065_ex,OK,0.91,igla i konat su korpi.,Игла и конац су у корпи.
+w1066,OK,0.8,Konat.,конац
+w1066_ex,OK,0.95,Konace previše kratak.,Конац је превише кратак.
+w1067,OK,1.0,Metla.,метла
+w1067_ex,OK,0.9,Metle uz vrata.,Метла је уз врата.
+w1068,OK,0.89,Kant.,канта
+w1068_ex,OK,0.94,Kantaj puna vode.,Канта је пуна воде.
+w1069,OK,1.0,Sunđer.,сунђер
+w1069_ex,OK,0.71,su unjerim okar.,Сунђер је мокар.
+w106_ex,OK,0.87,u 4 tak kupujemo hranu.,У четвртак купујемо храну.
+w107,OK,1.0,Petak.,петак
+w1070,OK,0.75,Kaoć.,кауч
+w1070_ex,OK,0.88,Kač je udnevne sobi?,Кауч је у дневној соби.
+w1071,OK,0.87,Steppen i šte.,степениште
+w1071_ex,OK,0.79,ste peni šte stremu.,Степениште је стрмо.
+w1072,OK,0.8,Zvonu.,звоно
+w1072_ex,OK,1.0,Zvono je zazvonilo.,Звоно је зазвонило.
+w1073,OK,0.75,Trim.,трем
+w1073_ex,OK,0.93,Sedimo na tremo.,Седимо на трему.
+w1074,OK,1.0,Dvor.,двор
+w1074_ex,OK,0.94,Deca se igraju udvorišto.,Деца се играју у дворишту.
+w1075,OK,0.77,Jemper.,џемпер
+w1075_ex,OK,0.91,Ovaj gem per je vuneni.,Овај џемпер је вунени.
+w1076,OK,1.0,Čizma.,чизма
+w1076_ex,OK,0.91,Zimskje čizmjes u tople.,Зимске чизме су топле.
+w1077,OK,0.83,Papuči.,папуче
+w1077_ex,OK,0.93,Obudzi papuče u stanu.,Обуци папуче у стану.
+w1078_ex,OK,0.81,Ključ je u Jeppo.,Кључ је у џепу.
+w1079,OK,1.0,Traka.,трака
+w1079_ex,OK,0.97,Traka je cirvena.,Трака је црвена.
+w107_ex,OK,0.84,Upetak glada mofil.,У петак гледамо филм.
+w108,OK,1.0,subota.,субота
+w1080_ex,OK,0.84,pek mis odšljivaj sladak.,Пекмез од шљива је сладак.
+w1081,OK,0.71,Dikvice.,тиквица
+w1081_ex,OK,0.91,tikvice je izvrta.,Тиквица је из врта.
+w1082,OK,0.77,Koopina.,купина
+w1082_ex,OK,0.98,kupi ne rastu kraj puta.,Купине расту крај пута.
+w1083,OK,0.88,Marelice.,марелица
+w1083_ex,OK,0.89,Marelić se su zrela.,Марелице су зреле.
+w1084,OK,0.86,Ora.,орах
+w1084_ex,OK,0.95,Orag je pod drvetom.,Орах је под дрветом.
+w1085,OK,0.67,Bada.,бадем
+w1085_ex,OK,0.82,Bade mi susdravili.,Бадеми су здрави.
+w1086,OK,1.0,Pšenica.,пшеница
+w1086_ex,OK,0.87,Pšenice izrela.,Пшеница је зрела.
+w1087,OK,1.0,Vručina.,врућина
+w1087_ex,OK,0.96,Vručina je velika u augustu.,Врућина је велика у августу.
+w1088,OK,0.75,Fladnoće.,хладноћа
+w1088_ex,OK,0.81,kladno ćeme budi.,Хладноћа ме буди.
+w1089,OK,1.0,Vedro.,ведро
+w1089_ex,OK,1.0,Danas je vedro.,Данас је ведро.
+w108_ex,OK,1.0,u subotu spavam do podne.,У суботу спавам до подне.
+w109,OK,0.67,nedaj.,недеља
+w1090,OK,0.86,obločno.,облачно
+w1090_ex,OK,0.94,U jutruje oblačno.,Ујутру је облачно.
+w1091,OK,1.0,Oluja.,олуја
+w1091_ex,OK,0.95,Oluja i desa planine.,Олуја иде са планине.
+w1092,OK,0.8,Monja.,муња
+w1092_ex,OK,0.91,Munje o svetlila nebo.,Муња је осветлила небо.
+w1093,OK,0.89,Petra.,пета
+w1093_ex,OK,0.72,5. boli odhodaňa.,Пета ме боли од ходања.
+w1094,OK,0.75,Čevo.,чело
+w1094_ex,OK,0.8,ima veli kočeva.,Има велико чело.
+w1095,OK,1.0,Trbuh.,трбух
+w1095_ex,OK,0.96,Trbuhme boli.,Трбух ме боли.
+w1096,OK,0.91,Je tra.,јетра
+w1097,OK,1.0,Stanica.,станица
+w1097_ex,OK,0.92,Stanice blizu ovde.,Станица је близу овде.
+w1098,OK,0.8,Sajem.,сајам
+w1098_ex,OK,0.95,Sajem počinje u petak.,Сајам почиње у петак.
+w1099,OK,1.0,Bazen.,базен
+w1099_ex,OK,0.93,Bazenje otvorem leti.,Базен је отворен лети.
+w109_ex,OK,0.83,Nedile dan za odmo.,Недеља је дан за одмор.
+w110,OK,0.86,Sato.,сат
+w1100,OK,0.96,Zoloski vrt.,зоолошки врт
+w1100_ex,OK,0.91,idemo u zološki vrc s edecom.,Идемо у зоолошки врт са децом.
+w1101,OK,1.0,Česma.,чесма
+w1102,OK,1.0,Sokak.,сокак
+w1102_ex,OK,0.95,stanovi u malom sokaku svstari.,Станови у малом сокаку су стари.
+w1103,OK,0.92,Autopu.,аутопут
+w1103_ex,OK,0.97,Autoputje brzi put.,Аутопут је брзи пут.
+w1104,OK,1.0,supruga.,супруга
+w1104_ex,OK,0.88,Niegova su pruga i lekar.,Његова супруга је лекар.
+w1105,OK,1.0,suprug.,супруг
+w1105_ex,OK,0.89,Njen su progradiu banci.,Њен супруг ради у банци.
+w1106,OK,1.0,Blizanac.,близанац
+w1106_ex,OK,0.9,ima mobilizance.,Имамо близанце.
+w1107,OK,1.0,Čerka.,ћерка
+w1107_ex,OK,0.96,Njegova čerka i deu školu.,Његова ћерка иде у школу.
+w1108,OK,1.0,domačin.,домаћин
+w1108_ex,OK,0.83,domaći njevrogo sto ljubiv.,Домаћин је врло гостољубив.
+w1109,OK,0.8,Bodilni.,будилник
+w1109_ex,OK,0.84,Budilnik zvoni u 7.,Будилник звони у седам.
+w110_ex,OK,0.77,Čekosam 1 sat.,Чекао сам један сат.
+w111,OK,1.0,Minut.,минут
+w1110_ex,OK,0.91,Sad tje pola osam.,Сат је пола осам.
+w1112,OK,0.83,Šetate.,шетати
+w1112_ex,OK,1.0,šetamo parkom uveče.,Шетамо парком увече.
+w1113,OK,1.0,Skakati.,скакати
+w1113_ex,OK,0.95,Deća skakje odsreće.,Деца скаке од среће.
+w1114,OK,0.86,Smijati.,смејати
+w1114_ex,OK,0.91,Smemo se dosuza.,Смејемо се до суза.
+w1115,OK,1.0,Svirati.,свирати
+w1115_ex,OK,1.0,On svira gitaru.,Он свира гитару.
+w1116,OK,0.62,Betzati.,пецати
+w1116_ex,OK,0.97,De da peća na reci.,Деда пеца на реци.
+w1117,OK,0.86,Love iti.,ловити
+w1117_ex,OK,0.95,Lovimo ribu u jezaru.,Ловимо рибу у језеру.
+w1118,OK,1.0,Graditi.,градити
+w1118_ex,OK,0.88,Gradi no u školu.,Граде нову школу.
+w1119,OK,0.83,Rošiti.,рушити
+w1119_ex,OK,0.93,Rusi stari most.,Руше стари мост.
+w111_ex,OK,0.88,Saczekaj 5 minuta.,Сачекај пет минута.
+w112,OK,0.8,Meset.,месец
+w1120,OK,0.92,Meshati.,мешати
+w1120_ex,OK,0.85,Meshu su pusvaki put.,Мешај супу сваки пут.
+w1121,OK,1.0,Seći.,сећи
+w1121_ex,OK,0.97,Seci luk nasitno.,Сеци лук на ситно.
+w1122,OK,1.0,Paliti.,палити
+w1122_ex,OK,0.97,pali svetelo u sobi.,Пали светло у соби.
+w1123,OK,0.92,Gasi ti.,гасити
+w1123_ex,OK,0.92,ga si svetlo prespavania.,Гаси светло пре спавања.
+w1124,OK,0.8,SWATITI,схватити
+w1124_ex,OK,0.87,Svati flekci u lako.,Схватих лекцију лако.
+w1125,OK,1.0,Zvati.,звати
+w1126,OK,1.0,Uzak.,узак
+w1126_ex,OK,0.7,Ova je soka kaj oza.,Овај сокак је узак.
+w113,OK,0.86,Sadmica.,седмица
+w113_ex,OK,0.89,Sad mice ima sedam dana.,Седмица има седам дана.
+w114,OK,1.0,Hrana.,храна
+w115,OK,1.0,Voda.,вода
+w116,OK,0.75,Fleb.,хлеб
+w116_ex,OK,0.7,Fleb i sveš.,Хлеб је свеж.
+w117,OK,1.0,Mleko.,млеко
+w117_ex,OK,0.91,Piem leko svako gjutra.,Пијем млеко сваког јутра.
+w118,OK,1.0,Kafa.,кафа
+w118_ex,OK,0.73,Beska fenemogo.,Без кафе не могу!
+w119,OK,0.86,Czaj.,чај
+w119_ex,OK,0.97,Želim čaj salimunom.,Желим чај са лимуном.
+w120,OK,1.0,Meso.,месо
+w120_ex,OK,0.83,ne je demes.,Не једем месо.
+w121,OK,1.0,Riba.,риба
+w121_ex,OK,0.88,Ovoj sve žariba.,Ово је свежа риба.
+w122,OK,0.8,Voc je.,воће
+w122_ex,OK,0.93,Jedem nogo voc.,Једем много воћа.
+w123,OK,1.0,Povrče.,поврће
+w123_ex,OK,0.87,kupojem povrčen apiaci.,Купујем поврће на пијаци.
+w124,OK,0.92,Ja buka.,јабука
+w124_ex,OK,0.88,Ja buka je celvena.,Јабука је црвена.
+w125,OK,0.89,Ja je.,јаје
+w125_ex,OK,0.9,Zadoručak je demijaje.,За доручак једем јаје.
+w126,OK,1.0,So.,со
+w126_ex,OK,1.0,Malo soli molim.,"Мало соли, молим."
+w127,OK,1.0,Šećer.,шећер
+w127_ex,OK,0.94,"Bes šećera, molim.","Без шећера, молим."
+w128,OK,0.67,Super!,супа
+w128_ex,OK,0.78,supe vruće.,Супа је врућа.
+w129,OK,1.0,Pivo.,пиво
+w129_ex,OK,0.76,Bijvo je flagno.,Пиво је хладно.
+w130,OK,0.75,Vinu.,вино
+w130_ex,OK,0.92,Pijemo troveno vino.,Пијемо црвено вино.
+w131,OK,1.0,doručak.,доручак
+w131_ex,OK,1.0,doručak je spreman.,Доручак је спреман!
+w132,OK,0.91,Rudčak.,ручак
+w132_ex,OK,1.0,Rucak je u podne.,Ручак је у подне.
+w133,OK,0.73,Vetra.,вечера
+w133_ex,OK,1.0,Šta imaš za večeru?,Шта имаш за вечеру?
+w134,OK,0.93,Restora.,ресторан
+w134_ex,OK,0.86,Ova i restauranje odlican.,Овај ресторан је одличан.
+w135,OK,0.73,Ratsun.,рачун
+w135_ex,OK,0.95,Molim racu.,Молим рачун.
+w136,OK,0.73,Kolakš.,колач
+w136_ex,OK,0.85,Ova i kola če ukusan.,Овај колач је укусан.
+w137,OK,1.0,sir,сир
+w137_ex,OK,0.77,Volim si riflab.,Волим сир и хлеб.
+w138,OK,0.75,kuće.,кућа
+w138_ex,OK,0.84,Nasša kuće blizureki.,Наша кућа је близу реке.
+w139,OK,1.0,Stan.,стан
+w139_ex,OK,0.9,iznajmljenj stán u centru.,Изнајмљујем стан у центру.
+w140,OK,1.0,Soba.,соба
+w140_ex,OK,0.91,Moja soba svetla.,Моја соба је светла.
+w141_ex,OK,0.94,"kuhinje mala, ali čista.","Кухиња је мала, али чиста."
+w142_ex,OK,1.0,Kupatilo je desno.,Купатило је десно.
+w143,OK,0.83,Krevit.,кревет
+w143_ex,OK,0.97,Krevet je udoba.,Кревет је удобан.
+w144,OK,1.0,Sto?,сто
+w144_ex,OK,0.71,Kniđesu nastalo.,Књиге су на столу.
+w145,OK,0.86,stolice.,столица
+w145_ex,OK,0.92,Ova stolice stara.,Ова столица је стара.
+w146,OK,0.6,Brzo.,прозор
+w146_ex,OK,0.95,Otvori prozar molim.,"Отвори прозор, молим."
+w147,OK,0.8,Brata.,врата
+w147_ex,OK,0.96,Zatvorivrata.,Затвори врата.
+w148,OK,1.0,Ključ.,кључ
+w148_ex,OK,0.91,izgubija sam ključ.,Изгубио сам кључ.
+w149,OK,1.0,Lampa.,лампа
+w149_ex,OK,0.92,Lampa neraadi.,Лампа не ради.
+w150,OK,0.6,Lijefd.,лифт
+w150_ex,OK,0.89,i demo liftom do petuksprata.,Идемо лифтом до петог спрата.
+w151,OK,1.0,Sprat.,спрат
+w152,OK,1.0,Grad.,град
+w153,OK,0.8,ulici.,улица
+w153_ex,OK,0.89,ulicie puna ljudi.,Улица је пуна људи.
+w154_ex,OK,1.0,Sastanak je na trgu.,Састанак је на тргу.
+w155,OK,0.9,Prodavnice.,продавница
+w155_ex,OK,0.94,Prodavnice je prekoputa.,Продавница је преко пута.
+w156,OK,1.0,Apoteka.,апотека
+w156_ex,OK,0.93,Apotika je levo.,Апотека је лево.
+w157,OK,1.0,Banka.,банка
+w157_ex,OK,0.74,Banka radi do 500.,Банка ради до пет сати.
+w158,OK,0.86,bolnice.,болница
+w158_ex,OK,0.9,bolnice e blizu.,Болница је близу.
+w159,OK,0.8,Posla.,пошта
+w159_ex,OK,0.87,Poshtaj porid banke.,Пошта је поред банке.
+w160,OK,1.0,autobus.,аутобус
+w160_ex,OK,0.93,Autobus kasni 5 minuta.,Аутобус касни пет минута.
+w161,OK,0.67,Vos.,воз
+w161_ex,OK,0.81,Vozzanovi sa polazji u 10.,Воз за Нови Сад полази у десет.
+w162,OK,0.77,Arodo.,аеродром
+w163,OK,1.0,Karta.,карта
+w163_ex,OK,0.85,Kupo im kartu za voz.,Купујем карту за воз.
+w164,OK,1.0,auto.,ауто
+w164_ex,OK,0.86,Niegu auto je nov.,Његов ауто је нов.
+w165,OK,0.8,Blava.,глава
+w166,OK,0.75,roka.,рука
+w166_ex,OK,0.92,Perem ruk je prejela.,Перем руке пре јела.
+w167,OK,1.0,Noga.,нога
+w167_ex,OK,0.86,Posletrčenja boljeme nogi.,После трчања боле ме ноге.
+w168,OK,0.8,ok,око
+w168_ex,OK,1.0,ima plave oči.,Има плаве очи.
+w169,OK,1.0,uvo.,уво
+w169_ex,OK,1.0,Beba ima mala uši.,Беба има мала уши.
+w170,OK,1.0,Nos.,нос
+w170_ex,OK,0.94,imam cerven nos od vladnoće.,Имам црвен нос од хладноће.
+w171,OK,1.0,Zub.,зуб
+w171_ex,OK,0.95,Zubme boli.,Зуб ме боли.
+w172,OK,0.75,Koja.,коса
+w172_ex,OK,0.86,ima dogo cernu kosu.,Има дугу црну косу.
+w173,OK,0.89,Srtce.,срце
+w173_ex,OK,0.84,Sertse kuca berzo.,Срце куца брзо.
+w174,OK,0.73,Lajkar.,лекар
+w174_ex,OK,0.83,Idem kod lajka rasu u tra.,Идем код лекара сутра.
+w175,OK,1.0,Lek.,лек
+w175_ex,OK,0.86,uzmi leg poslijela.,Узми лек после јела.
+w176,OK,0.8,Derovo.,дрво
+w176_ex,OK,0.92,i spred kuće veliko drvo.,Испред куће је велико дрво.
+w177,OK,0.67,svete.,цвет
+w177_ex,OK,0.97,Ovaj cvetje za tebe.,Овај цвет је за тебе.
+w178,OK,1.0,Nebo.,небо
+w178_ex,OK,1.0,Nebo je plavo.,Небо је плаво.
+w179,OK,1.0,Sunce.,сунце
+w179_ex,OK,0.89,Sunce i ako danas.,Сунце је јако данас.
+w180,OK,1.0,Zvezda.,звезда
+w180_ex,OK,1.0,Noću vidimo zvezde.,Ноћу видимо звезде.
+w181,OK,0.89,Kisha.,киша
+w181_ex,OK,0.83,Kisho pada ce oddan.,Киша пада цео дан.
+w182,OK,1.0,Sneg.,снег
+w182_ex,OK,0.89,Snegjebeo i fladan.,Снег је бео и хладан.
+w183,OK,0.89,Veta.,ветар
+w183_ex,OK,1.0,Vetar duva jako.,Ветар дува јако.
+w184,OK,1.0,Planina.,планина
+w184_ex,OK,0.97,Volimo plani ne zimi.,Волимо планине зими.
+w185,OK,1.0,Reka.,река
+w185_ex,OK,0.95,reka teči kroz grad.,Река тече кроз град.
+w186,OK,0.89,Morde.,море
+w187,OK,1.0,suma.,шума
+w187_ex,OK,0.94,Šumaj puna ptica.,Шума је пуна птица.
+w188,OK,1.0,Polje.,поље
+w188_ex,OK,0.92,Pored grada suselenapolja.,Поред града су зелена поља.
+w189,OK,0.6,Bossa.,посао
+w1896,OK,1.0,Krompir.,кромпир
+w189_ex,OK,0.79,Po som je zanimir.,Посао ми је занимљив.
+w190,OK,1.0,Škola.,школа
+w190_ex,OK,0.9,Škole počinje u osem.,Школа почиње у осам.
+w191,OK,1.0,Učenik.,ученик
+w191_ex,OK,0.92,On je dobar učinjik.,Он је добар ученик.
+w192,OK,1.0,Student.,студент
+w192_ex,OK,0.93,Moj brati student medicine.,Мој брат је студент медицине.
+w193,OK,1.0,Nastavnik.,наставник
+w193_ex,OK,0.97,Nastanjik objašnjava gramatiku.,Наставник објашњава граматику.
+w194,OK,0.83,Kni ga.,књига
+w194_ex,OK,0.8,čitom tnjigu oserbi.,Читам књигу о Србији.
+w195,OK,1.0,Olovka.,оловка
+w195_ex,OK,1.0,daj mi olovku molim.,"Дај ми оловку, молим."
+w196,OK,1.0,papir.,папир
+w196_ex,OK,0.94,papirje nastolu.,Папир је на столу.
+w197,OK,0.86,Raczuna.,рачунар
+w197_ex,OK,0.92,Novira čunarje brz.,Нови рачунар је брз.
+w198,OK,1.0,Telefon.,телефон
+w198_ex,OK,0.95,Moj telefon je star 5 godina.,Мој телефон је стар пет година.
+w199,OK,1.0,Novac.,новац
+w1991_ex,OK,0.86,Sportje waržen z zdravlje.,Спорт је важан за здравље.
+w199_ex,OK,0.85,Nova ciena stolu.,Новац је на столу.
+w200,OK,1.0,Jezik.,језик
+w200_ex,OK,0.72,Serbski Ezekielep,Српски језик је леп.
+w201_ex,OK,0.91,što znači ovareč?,Шта значи ова реч?
+w202,OK,1.0,Pitanje.,питање
+w202_ex,OK,0.95,Imam i jedno pitanje.,Имам једно питање.
+w203,OK,1.0,Odgovor.,одговор
+w203_ex,OK,0.8,Twoj odgovorietacen.,Твој одговор је тачан.
+w204,OK,1.0,firma.,фирма
+w204_ex,OK,1.0,Radi u velikoj firmi.,Ради у великој фирми.
+w205,OK,1.0,Sastanak.,састанак
+w205_ex,OK,0.9,Sastanak počinje u 3.,Састанак почиње у три.
+w206,OK,1.0,Šef.,шеф
+w206_ex,OK,0.89,Mojše fjestrog alifer.,"Мој шеф је строг, али фер."
+w207,OK,1.0,Provera.,провера
+w207_ex,OK,0.89,su tre imamo proveru i serbskog.,Сутра имамо проверу из српског.
+w208,OK,0.93,Zada tak.,задатак
+w208_ex,OK,0.88,Ovojlak za datak.,Ово је лак задатак.
+w209,OK,1.0,Dobar.,добар
+w209_ex,OK,0.91,Ovo je dobarfiom.,Ово је добар филм.
+w210,OK,1.0,Loš.,лош
+w210_ex,OK,0.83,Wремje loši danas.,Време је лоше данас.
+w211,OK,1.0,Velik.,велик
+w211_ex,OK,0.96,Pasje velik.,Пас је велик.
+w212,OK,1.0,Mali.,мали
+w212_ex,OK,1.0,imam mali stan.,Имам мали стан.
+w213,OK,1.0,Nov.,нов
+w213_ex,OK,0.9,Nov stanie skup.,Нов стан је скуп.
+w214,OK,1.0,Star,стар
+w214_ex,OK,0.88,Ovaj sati starstvo godina.,Овај сат је стар сто година.
+w215,OK,0.75,Vlad.,млад
+w215_ex,OK,0.97,Onje mlad i jak.,Он је млад и јак.
+w216,OK,1.0,Lep.,леп
+w216_ex,OK,0.86,Beogradje lab grad.,Београд је леп град.
+w217_ex,OK,0.9,Ova i voz je brz.,Овај воз је брз.
+w218,OK,1.0,Spor.,спор
+w218_ex,OK,0.9,Autobu se spor.,Аутобус је спор.
+w219,OK,0.75,Wruć.,врућ
+w219_ex,OK,1.0,Čaj je vruć.,Чај је врућ.
+w220,OK,0.89,Topo.,топао
+w220_ex,OK,0.88,Prolet će je topla.,Пролеће је топло.
+w221,OK,0.83,Fladan.,хладан
+w221_ex,OK,0.97,Zima je chladna.,Зима је хладна.
+w222,OK,1.0,Skup.,скуп
+w222_ex,OK,0.97,Ovaj telefonje skup.,Овај телефон је скуп.
+w223,OK,0.62,Jephtim.,јефтин
+w223_ex,OK,0.81,Ovakarte i eftina.,Ова карта је јефтина.
+w224,OK,0.83,Srećen.,срећан
+w224_ex,OK,0.93,danas sam vevo masrečan.,Данас сам веома срећан.
+w225,OK,1.0,tužan.,тужан
+w225_ex,OK,0.83,Filme tu ža.,Филм је тужан.
+w226,OK,0.91,umora.,уморан
+w226_ex,OK,0.84,poslj postlj som umoran.,После посла сам уморан.
+w227,OK,0.91,glada.,гладан
+w227_ex,OK,0.98,"Gladansam, idemo da jedemo.","Гладан сам, идемо да једемо."
+w228,OK,1.0,ŽEDAN,жедан
+w228_ex,OK,0.95,"Žedansam, trebami voda.","Жедан сам, треба ми вода."
+w229,OK,1.0,Jak?,јак
+w229_ex,OK,0.91,Vetrije jak danas.,Ветар је јак данас.
+w230,OK,0.75,Slub.,слаб
+w230_ex,OK,0.63,Čajislav.,Чај је слаб.
+w231,OK,0.86,Lakh.,лак
+w231_ex,OK,0.91,"Serbsky nije lakjezik, ali je lep.","Српски није лак језик, али је леп."
+w232,OK,1.0,Težak.,тежак
+w232_ex,OK,0.81,Posovaj težak.,Посао је тежак.
+w233,OK,0.73,Braza.,празан
+w233_ex,OK,0.81,Stanje prazem.,Стан је празан.
+w234_ex,OK,0.95,Autobuse pun ljudi.,Аутобус је пун људи.
+w235_ex,OK,0.81,Prodomnic je otvorin.,Продавница је отворена.
+w236,OK,0.94,za tvoren.,затворен
+w236_ex,OK,1.0,Banka je zatvorena u nedelju.,Банка је затворена у недељу.
+w237,OK,0.8,Varža.,важан
+w237_ex,OK,0.84,Ovoj važem zadatak.,Ово је важан задатак.
+w238,OK,1.0,Zanimljiv.,занимљив
+w238_ex,OK,0.75,Serbije zanim i wasemlja.,Србија је занимљива земља.
+w239,OK,0.67,Suraven.,црвен
+w239_ex,OK,0.92,Niegov autoje crven.,Његов ауто је црвен.
+w240,OK,0.75,Blav.,плав
+w240_ex,OK,1.0,Njeni oči su plave.,Њени очи су плаве.
+w241,OK,1.0,Zelen.,зелен
+w241_ex,OK,0.81,Trava izelen.,Трава је зелена.
+w242,OK,0.67,žub.,жут
+w242_ex,OK,0.83,Listi Žut u jesem.,Лист је жут у јесен.
+w243_ex,OK,0.96,Mačka je cerna.,Мачка је црна.
+w244,OK,0.86,Bevo.,бео
+w244_ex,OK,0.78,Zidjebel.,Зид је бео.
+w245,OK,1.0,Siv.,сив
+w245_ex,OK,0.88,Gradja siev zimi.,Град је сив зими.
+w246,OK,0.8,Brown.,браон
+w246_ex,OK,0.83,Stolice bravo.,Столица је браон.
+w247,OK,0.74,Naranjost.,наранџаст
+w247_ex,OK,0.69,Sokjenar unjust.,Сок је наранџаст.
+w248,OK,0.75,Rose.,розе
+w248_ex,OK,0.97,Njeni usnje su roze.,Њени усне су розе.
+w249,OK,1.0,Zlatan.,златан
+w249_ex,OK,0.81,Ovo izlatam prste.,Ово је златан прстен.
+w250,OK,1.0,Srebran.,сребран
+w250_ex,OK,1.0,Kašika je srebrna.,Кашика је сребрна.
+w251,OK,1.0,Biti.,бити
+w251_ex,OK,0.89,Yasam student.,Ја сам студент.
+w252,OK,1.0,imati.,имати
+w252_ex,OK,1.0,imam auto.,Имам ауто.
+w253,OK,1.0,Moći.,моћи
+w253_ex,OK,0.96,Moguli pomoći.,Могу ли помоћи?
+w254,OK,0.83,želati.,желети
+w254_ex,OK,1.0,želim kafu molim.,"Желим кафу, молим."
+w255,OK,1.0,Morati.,морати
+w255_ex,OK,1.0,Moram da idem sada.,Морам да идем сада.
+w256,OK,0.91,Znatji.,знати
+w256_ex,OK,0.92,Znam odgovar.,Знам одговор.
+w257,OK,1.0,Razumeti.,разумети
+w257_ex,OK,0.96,Razumem vala.,"Разумем, хвала!"
+w258,OK,1.0,Govoriti.,говорити
+w258_ex,OK,0.93,Gowarim Ruski i Malo Srpski.,Говорим руски и мало српски.
+w259,OK,0.92,Pita ti.,питати
+w259_ex,OK,0.94,Mogu li da te pita mne što?,Могу ли да те питам нешто?
+w260,OK,1.0,Odgovoriti.,одговорити
+w260_ex,OK,0.97,Odgovori napitanje.,Одговори на питање.
+w261,OK,1.0,videti.,видети
+w261_ex,OK,0.88,Vedim te.,Видим те.
+w262,OK,0.67,Glada ty.,гледати
+w262_ex,OK,0.88,Gledamo u takmi su večaras.,Гледамо утакмицу вечерас.
+w263,OK,0.92,Či tati?,читати
+w263_ex,OK,0.97,Volišli čitati.,Волиш ли читати?
+w264,OK,0.92,Pisa ti.,писати
+w264_ex,OK,0.98,Piszem poruku prijatelju.,Пишем поруку пријатељу.
+w265,OK,0.8,Jeste.,јести
+w266,OK,1.0,Piti.,пити
+w266_ex,OK,1.0,Pijem čaj bez šećera.,Пијем чај без шећера.
+w267,OK,1.0,Spavati.,спавати
+w267_ex,OK,1.0,Spavam sedam sati.,Спавам седам сати.
+w268,OK,1.0,Učiti.,учити
+w268_ex,OK,1.0,učim Srpski svaki dan.,Учим српски сваки дан.
+w269,OK,0.93,Na učiti.,научити
+w269_ex,OK,0.77,Na učio sam pede citrati.,Научио сам педесет речи.
+w270,OK,1.0,Raditi.,радити
+w270_ex,OK,0.95,Radim u firmi u centro.,Радим у фирми у центру.
+w271,OK,1.0,živeti.,живети
+w271_ex,OK,1.0,živim u Moskvi.,Живим у Москви.
+w272,OK,1.0,ići.,ићи
+w272_ex,OK,1.0,idem u prodavnicu.,Идем у продавницу.
+w273,OK,1.0,Doći.,доћи
+w273_ex,OK,0.95,Dodji kod mene večaras.,Дођи код мене вечерас!
+w274,OK,1.0,dolaziti.,долазити
+w274_ex,OK,0.97,Uvek dolazina vreme.,Увек долази на време.
+w275,OK,0.71,Potova te.,путовати
+w275_ex,OK,0.88,Volim da putojem bozo.,Волим да путујем возом.
+w276,OK,0.67,Kubo va te?,куповати
+w276_ex,OK,0.92,kupujem novu pnigu.,Купујем нову књигу.
+w277,OK,1.0,Platiti.,платити
+w277_ex,OK,0.92,Platju je kartu karticom.,Платио је карту картицом.
+w278,OK,1.0,Voleti.,волети
+w278_ex,OK,0.93,Volimte.,Волим те.
+w279,OK,1.0,Čekati!,чекати
+w279_ex,OK,1.0,Čekam autobus.,Чекам аутобус.
+w280,OK,1.0,Tražiti.,тражити
+w280_ex,OK,1.0,Tražim stan u centru.,Тражим стан у центру.
+w281,OK,1.0,Naci.,наћи
+w281_ex,OK,0.88,Nisam naš okluč.,Нисам нашао кључ.
+w282,OK,0.75,Date.,дати
+w282_ex,OK,0.94,da imi vodu molim.,"Дај ми воду, молим."
+w283,OK,1.0,Uzeti.,узети
+w283_ex,OK,0.89,"uzmi jaknu, vladnje.","Узми јакну, хладно је."
+w284,OK,1.0,Početi.,почети
+w284_ex,OK,0.78,Posov počinje u 9.,Посао почиње у девет.
+w285,OK,1.0,Završiti.,завршити
+w285_ex,OK,0.76,Završuju sam pose.,Завршио сам посао.
+w286,OK,1.0,Pomoci.,помоћи
+w286_ex,OK,0.91,Možeš lidami pomovneš.,Можеш ли да ми помогнеш?
+w287,OK,1.0,Otvoriti.,отворити
+w287_ex,OK,1.0,otvori vrata molim.,"Отвори врата, молим."
+w288,OK,1.0,Zatvoriti.,затворити
+w288_ex,OK,0.97,Zatvorite knige.,Затворите књиге.
+w289,OK,0.93,Pozvat i.,позвати
+w289_ex,OK,0.82,Pozvoljom prijateljenavet ćeru.,Позвао сам пријатеље на вечеру.
+w290,OK,0.78,Upoznat je.,упознати
+w290_ex,OK,1.0,Drago mi je da smo se upoznali.,Драго ми је да смо се упознали.
+w291,OK,0.93,Zvatise.,звати се
+w292,OK,1.0,Piletina.,пилетина
+w292_ex,OK,1.0,Piletina je meka i ukusna.,Пилетина је мека и укусна.
+w293,OK,0.9,svijet ina.,свињетина
+w293_ex,OK,0.8,svijet i ne skupa o vesednici.,Свињетина је скупа ове седмице.
+w294,OK,1.0,Junetina.,јунетина
+w294_ex,OK,0.79,i uneti nasa povrča.,Јунетина са поврћем.
+w295,OK,1.0,Šunka.,шунка
+w295_ex,OK,0.98,šunka i sír za doruča.,Шунка и сир за доручак.
+w296,OK,1.0,Kobasica.,кобасица
+w296_ex,OK,0.82,Ova kova sit se vrlo slan.,Ова кобасица је врло слана.
+w297,OK,1.0,Puter.,путер
+w297_ex,OK,0.9,Namaz i puternah leb.,Намази путер на хлеб.
+w298,OK,0.8,Pa blaka.,павлака
+w298_ex,OK,0.92,Trebami Pavlaka zakoloč.,Треба ми павлака за колач.
+w299_ex,OK,0.96,Pijem yogurt svako jutro.,Пијем јогурт свако јутро.
+w300_ex,OK,0.88,Kupojem krompir i look.,Купујем кромпир и лук.
+w301,OK,0.8,Paradez.,парадајз
+w301_ex,OK,0.71,Parade iz Jesvresh.,Парадајз је свеж.
+w302,OK,1.0,krastavać.,краставац
+w302_ex,OK,0.92,Tražim krastavci za salato.,Тражим краставце за салату.
+w303,OK,0.95,Šarga Repa.,шаргарепа
+w303_ex,OK,0.97,Šargare pa je dobra zazdravlje.,Шаргарепа је добра за здравље.
+w304,OK,0.67,Lok.,лук
+w304_ex,OK,1.0,supa bez luka nije supa.,Супа без лука није супа.
+w305,OK,1.0,Beli Luk.,бели лук
+w305_ex,OK,0.95,Dodaj malo belo gluka.,Додај мало белог лука.
+w306,OK,1.0,Paprika.,паприка
+w306_ex,OK,0.94,paprikam može biti cervena izelen.,Паприка може бити црвена и зелена.
+w307,OK,1.0,kupus.,купус
+w307_ex,OK,0.95,Kupu sraste u bašti.,Купус расте у башти.
+w308,OK,1.0,Salata.,салата
+w308_ex,OK,0.95,Salata od Paradaiza.,Салата од парадајза.
+w309,OK,1.0,Banana.,банана
+w309_ex,OK,1.0,Deća vole banane.,Деца воле банане.
+w310,OK,0.84,Pomoranja.,поморанџа
+w310_ex,OK,0.88,Pomoranja i puna vitamina.,Поморанџа је пуна витамина.
+w311,OK,1.0,Limun.,лимун
+w311_ex,OK,0.89,Limunje vrlo kisa.,Лимун је врло кисео.
+w312,OK,0.83,Króška.,крушка
+w312_ex,OK,1.0,Ovo je moja kruška.,Ово је моја крушка.
+w313,OK,0.77,Jako da?,јагода
+w313_ex,OK,0.88,Jako des Pavlakom su odlikšne?,Јагоде с павлаком су одличне.
+w314,OK,0.71,Grosđi.,грожђе
+w315,OK,1.0,Lubenica.,лубеница
+w315_ex,OK,0.92,Lubinice je chladna iz frižidera.,Лубеница је хладна из фрижидера.
+w316,OK,0.67,Dine.,диња
+w316_ex,OK,0.86,Ovadinje vrlo slatko.,Ова диња је врло слатка.
+w317,OK,0.91,sliva.,шљива
+w317_ex,OK,0.9,u Avbustu sušljive zrela.,У августу су шљиве зреле.
+w318,OK,1.0,Trešnja.,трешња
+w318_ex,OK,0.98,trešnje su cervene i slatke.,Трешње су црвене и слатке.
+w319,OK,0.86,Pirinoč.,пиринач
+w319_ex,OK,1.0,Pirinač sa piletinom.,Пиринач са пилетином.
+w320,OK,0.89,Testinina.,тестенина
+w320_ex,OK,0.87,Deća volete ste nino.,Деца воле тестенину.
+w321,OK,1.0,Brasno.,брашно
+w321_ex,OK,0.85,Zachlep treba brašna.,За хлеб треба брашно.
+w322,OK,0.86,Uje.,уље
+w322_ex,OK,0.93,Salatas u lem i solju.,Салата с уљем и сољу.
+w323,OK,1.0,Biber.,бибер
+w323_ex,OK,0.97,Malo soli i biber.,Мало соли и бибера.
+w324,OK,0.8,So.,сок
+w324_ex,OK,0.72,Soko diaboke.,Сок од јабуке.
+w325,OK,1.0,Kisela voda.,кисела вода
+w325_ex,OK,1.0,Kisela voda bez šećera.,Кисела вода без шећера.
+w326,OK,0.88,Sladolet.,сладолед
+w326_ex,OK,0.94,Deća žele sladolet.,Деца желе сладолед.
+w327,OK,1.0,čokolada.,чоколада
+w327_ex,OK,0.9,čokolade slatke i skupa.,Чоколада је слатка и скупа.
+w328,OK,1.0,Čevapi.,ћевапи
+w328_ex,OK,1.0,Čevapi s lukom molim.,"Ћевапи с луком, молим."
+w329,OK,0.87,Pijeska vica.,пљескавица
+w329_ex,OK,0.85,Pieskavice i nacionalno je lo.,Пљескавица је национално јело.
+w330,OK,1.0,Sarma.,сарма
+w330_ex,OK,1.0,Sarma se kuva zimi.,Сарма се кува зими.
+w331,OK,0.95,Pa lačinke.,палачинке
+w331_ex,OK,0.98,palačinkje sa šećerom.,Палачинке са шећером.
+w332,OK,1.0,Pita.,пита
+w332_ex,OK,0.92,Pita s asirom.,Пита са сиром.
+w333,OK,0.67,Kifo.,кифла
+w333_ex,OK,0.9,Kifu za doručak.,Кифле за доручак.
+w334,OK,1.0,Konobar.,конобар
+w334_ex,OK,0.92,Konobardono si racu.,Конобар доноси рачун.
+w335_ex,OK,0.92,Na roči ću picu za večeru.,Наручићу пицу за вечеру.
+w336,OK,0.6,Yellow,јело
+w336_ex,OK,0.79,Ovo je lewrlo ukusna.,Ово јело је врло укусно.
+w363_ex,OK,0.82,Arodru mjeda lekod grada.,Аеродром је далеко од града.
+w512_ex,OK,0.75,imam 30 godina.,Имам тридесет година.
+w523_ex,OK,0.83,Stanje na 3 spratu.,Стан је на трећем спрату.
+w537_ex,OK,0.94,Leti i demona more.,Лети идемо на море.
+w668,OK,1.0,Nas.,наш
+w668_ex,OK,0.83,Nas do mi blizurekje.,Наш дом је близу реке.
+w669,OK,0.86,Vash.,ваш
+w669_ex,OK,0.88,"Vašu radi je, molim.","Ваш ред је, молим."
+w670,OK,0.83,nichov.,њихов
+w670_ex,OK,0.86,Nihovadet se idu u našu školu.,Њихова деца иду у нашу школу.
+w671,OK,1.0,Ovo.,ово
+w671_ex,OK,1.0,Ovo je moj brat.,Ово је мој брат.
+w672,OK,1.0,To.,то
+w673,OK,1.0,Ove.,ове
+w673_ex,OK,0.93,Ove knjiđe su za tebe.,Ове књиге су за тебе.
+w674,OK,1.0,Sve.,све
+w674_ex,OK,0.91,"sve jasno, hvala.","Све је јасно, хвала."
+w675,OK,0.8,Nesco.,нешто
+w675_ex,OK,0.98,Želim dati kažem nešto.,Желим да ти кажем нешто.
+w676,OK,0.73,Nishto.,ништа
+w676_ex,OK,0.88,Ne vidim nishto bez naučar.,Не видим ништа без наочара.
+w677,OK,0.8,suako.,свако
+w677_ex,OK,1.0,svako ima svoja pravila.,Свако има своја правила.
+w678,OK,1.0,Neko.,неко
+w678_ex,OK,0.97,Neko zvoni navrata.,Неко звони на врата.
+w679,OK,1.0,Neki.,неки
+w679_ex,OK,0.97,u neki gradovima ima tramvaje.,У неки градовима има трамваја.
+w680,OK,1.0,A.,а
+w680_ex,OK,0.93,"Ja sam na poslu, a žena i kot kuće.","Ја сам на послу, а жена је код куће."
+w681,OK,1.0,onda.,онда
+w681_ex,OK,0.9,Prvorucamo onda i demu ušetnu.,"Прво ручамо, онда идемо у шетњу."
+w682,OK,1.0,Već.,већ
+w682_ex,OK,0.91,Vetje deset sati.,Већ је десет сати!
+w683,OK,0.67,Tik.,тек
+w683_ex,OK,0.86,"Teks mu došli, a već moramo dajde mu.","Тек смо дошли, а већ морамо да идемо."
+w684,OK,1.0,Samo.,само
+w684_ex,OK,0.92,samo 5 minuta molim.,"Само пет минута, молим!"
+w685,OK,1.0,takođe.,такође
+w685_ex,OK,0.92,i atakodje volim filmove.,Ја такође волим филмове.
+w686,OK,1.0,Opet.,опет
+w686_ex,OK,1.0,Opet kasni.,Опет касни!
+w687,OK,0.86,Poanovog.,поново
+w687_ex,OK,0.98,Mojlim vas ponovite pitanje.,"Молим вас, поновите питање."
+w688,OK,1.0,Zajedno.,заједно
+w688_ex,OK,0.98,Idemo za jedno na pazar.,Идемо заједно на пазар.
+w689,OK,0.67,Berza.,брзо
+w689_ex,OK,0.98,Ona govor i vrlo bırzo.,Она говори врло брзо.
+w690,OK,1.0,Sporo.,споро
+w690_ex,OK,1.0,"Molim vas, govorite sporo.","Молим вас, говорите споро."
+w691,OK,1.0,Lako.,лако
+w691_ex,OK,0.82,Serbska asbuka se la kouti.,Српска азбука се лако учи.
+w692,OK,1.0,Teško.,тешко
+w692_ex,OK,0.96,Menje teško da ustanem rano.,Мени је тешко да устанем рано.
+w693,OK,0.73,Moršda.,можда
+w693_ex,OK,0.92,Možda dodimo sutra.,Можда дођемо сутра.
+w694,OK,1.0,Dosta.,доста
+w694_ex,OK,0.89,Dostavsem putovo ovegodine.,Доста сам путовао ове године.
+w695_ex,OK,0.81,Ovo je vrozanim njewak njiga.,Ово је врло занимљива књига.
+w696,OK,1.0,Kuda.,куда
+w696_ex,OK,0.9,Kuda idesz posloposla.,Куда идеш после посла?
+w697,OK,0.77,Oda kve.,одакле
+w697_ex,OK,0.83,Odaklistevi.,Одакле сте ви?
+w698,OK,1.0,Mama.,мама
+w698_ex,OK,0.95,Mama pripremad oručak.,Мама припрема доручак.
+w699,OK,1.0,Tata.,тата
+w699_ex,OK,0.9,Tata vozja auto.,Тата вози ауто.
+w700,OK,1.0,Momak.,момак
+w700_ex,OK,1.0,Njena sestra ima novog momka.,Њена сестра има новог момка.
+w701,OK,1.0,Prezime.,презиме
+w701_ex,OK,0.96,Molem vas ime i prezime.,"Молим вас, име и презиме."
+w702,OK,1.0,Sekunda.,секунда
+w702_ex,OK,0.98,Saczekajte sekundu dolazim.,"Сачекајте секунду, долазим!"
+w703,OK,0.91,Podnje.,подне
+w703_ex,OK,0.98,U podne je demo najveći obrok.,У подне једемо највећи оброк.
+w704,OK,1.0,Ponoć.,поноћ
+w704_ex,OK,0.91,u ponuću ulice prazne.,У поноћ су улице празне.
+w705,OK,0.84,trenu u tak.,тренутак
+w705_ex,OK,0.98,Saczekajte trenutak molim.,"Сачекајте тренутак, молим."
+w706,OK,0.89,Bodućnost.,будућност
+w706_ex,OK,0.98,šta želijš da radiš u budučnosti.,Шта желиш да радиш у будућности?
+w707,OK,1.0,Rakija.,ракија
+w707_ex,OK,0.92,Gosti sudona li doma ću rakiju.,Гости су донели домаћу ракију.
+w708_ex,OK,0.86,Zručak imamo pili spirinča.,За ручак имамо пиле с пиринчем.
+w709,OK,0.83,Kaimak.,кајмак
+w709_ex,OK,0.94,probojte chleb skajmakom i medom.,Пробујте хлеб с кајмаком и медом.
+w710,OK,1.0,Torta.,торта
+w710_ex,OK,0.84,Zarodin dan sam i spekali otortu.,За рођендан сам испекао торту.
+w711,OK,0.8,Čewap.,ћевап
+w711_ex,OK,0.86,usrbji svij voli će va peslukom.,У Србији сви воле ћевапе с луком.
+w712,OK,0.91,Pasuj.,пасуљ
+w712_ex,OK,0.94,Pasulj skupu sam je tradicionalno je lo.,Пасуљ с купусом је традиционално јело.
+w713,OK,0.89,Užin.,ужина
+w713_ex,OK,0.95,poslškole deca imaju u žinu.,После школе деца имају ужину.
+w714,OK,0.75,Mani.,мени
+w714_ex,OK,0.96,"Mojlim, možemo li vide ti meni.","Молим, можемо ли видети мени?"
+w715_ex,OK,0.94,Napazaru prodaju pečni kukurus.,На пазару продају печени кукуруз.
+w716,OK,1.0,Makarone.,макароне
+w716_ex,OK,0.95,Deca obožavaju makarones asirom.,Деца обожавају макароне са сиром.
+w717,OK,1.0,Toalet.,тоалет
+w717_ex,OK,0.93,"izvinite, gdje to alet.","Извините, где је тоалет?"
+w718,OK,0.86,Hool.,хол
+w718_ex,OK,0.96,u holu je veliko ogladalo.,У холу је велико огледало.
+w719,OK,1.0,Hodnik.,ходник
+w719_ex,OK,1.0,Ostavite cipele u hodniku molim.,"Оставите ципеле у ходнику, молим."
+w720,OK,0.77,Blavfon.,плафон
+w720_ex,OK,0.92,Novih plafon usobi svete lepo.,Нови плафон у соби светли лепо.
+w721,OK,1.0,Sofa.,софа
+w721_ex,OK,1.0,posle posla odmaram na sofi.,После посла одмарам на софи.
+w723,OK,1.0,Radio.,радио
+w723_ex,OK,0.92,U jutru slušam radi o u kufini.,Ујутру слушам радио у кухињи.
+w724_ex,OK,0.94,Zagrajte peći na 200 stepeni.,Загрејте пећ на 200 степени.
+w725,OK,0.83,Podrom.,подрум
+w725_ex,OK,0.98,U podrumu čuvamo starovino.,У подруму чувамо старо вино.
+w726,OK,0.74,Podkroble.,поткровље
+w726_ex,OK,0.85,Stare knijeg je su na podkroblju.,Старе књиге су на поткровљу.
+w727,OK,1.0,Komšiluk.,комшилук
+w727_ex,OK,0.89,Naškom šiluk je vrolo druža ljubi.,Наш комшилук је врло дружељубив.
+w728,OK,1.0,Selo.,село
+w728_ex,OK,0.82,Mojro ditelegive u selu.,Моји родитељи живе у селу.
+w729,OK,0.89,troleibus.,тролејбус
+w729_ex,OK,0.95,Trolebus idete do centra grada.,Тролејбус иде до центра града.
+w730,OK,1.0,Metro.,метро
+w730_ex,OK,0.9,U biogradu nemametro.,У Београду нема метроа.
+w731,OK,1.0,Automobil.,аутомобил
+w731_ex,OK,0.97,Novij automobil košta mnogonovca.,Нови аутомобил кошта много новца.
+w732,OK,0.75,Kova.,кола
+w732_ex,OK,0.85,Moja kola su garage.,Моја кола су у гаражи.
+w733,OK,1.0,Motor,мотор
+w733_ex,OK,0.95,Brat vozi motorbrezo.,Брат вози мотор брзо.
+w734,OK,0.94,Autobuska stanice.,аутобуска станица
+w734_ex,OK,0.93,Autobuska stanice je po red žaleznicke.,Аутобуска станица је поред железничке.
+w735_ex,OK,0.93,Pobledajte vozni red preputovania.,Погледајте возни ред пре путовања.
+w736,OK,0.67,Baza.,пазар
+w736_ex,OK,0.97,subotom i demona pazar za voće.,Суботом идемо на пазар за воће.
+w737,OK,1.0,kvart.,кварт
+w737_ex,OK,0.92,Ove kvartje poznat pokafanama.,Овај кварт је познат по кафанама.
+w738,OK,1.0,Uho!,ухо
+w738_ex,OK,0.92,muzika je preglas na zaoši.,Музика је прегласна за уши.
+w739,OK,0.75,Osta.,уста
+w739_ex,OK,0.93,"Otvor i usta, molin kaže zubar.","Отвори уста, молим — каже зубар."
+w740,OK,1.0,Rame.,раме
+w740_ex,OK,0.95,Moje rame boli posledreninga.,Моје раме боли после тренинга.
+w741,OK,1.0,Lice.,лице
+w741_ex,OK,0.97,I mala je srečno lice na fotografij.,Имала је срећно лице на фотографији.
+w742,OK,0.75,Delo.,тело
+w742_ex,OK,0.9,Pljivanie dobro za celo телo.,Пливање је добро за цело тело.
+w743,OK,0.75,Cost.,кост
+w743_ex,OK,0.89,Pausam i polomio kost unosi.,Пао сам и поломио кост у нози.
+w744,OK,0.67,Kratov.,крв
+w744_ex,OK,0.95,Donorska kruv spasova živote.,Донорска крв спашава животе.
+w745,OK,1.0,oblak.,облак
+w745_ex,OK,0.94,Na nebu su cernije oblaci.,На небу су црни облаци.
+w746,OK,1.0,Grom.,гром
+w746_ex,OK,0.95,čuli smo grom prekisje.,Чули смо гром пре кише.
+w747,OK,0.89,Bardo.,брдо
+w747_ex,OK,0.98,Sabrda se vidi cela dolina.,Са брда се види цела долина.
+w748,OK,0.89,Liste.,лист
+w748_ex,OK,0.96,U jesen listov i postaj žuti.,У јесен листови постају жути.
+w749,OK,0.75,doga.,дуга
+w749_ex,OK,0.91,Poslekiši pojawila se duga.,После кише појавила се дуга.
+w750,OK,1.0,Rosa.,роса
+w750_ex,OK,0.94,U jutru je rosa natravji.,Ујутру је роса на трави.
+w751,OK,0.86,svijenja.,свиња
+w751_ex,OK,0.94,Naselu držesvinje i kokje.,На селу држе свиње и коке.
+w752,OK,1.0,Koza.,коза
+w752_ex,OK,0.89,Koze je do travo na brdu.,Козе једу траву на брду.
+w753,OK,0.75,Liza.,лиса
+w753_ex,OK,0.91,Lisevrlo pamet na životinja.,Лиса је врло паметна животиња.
+w754,OK,0.6,Ftati.,хтети
+w754_ex,OK,0.92,Hoću da učim serbski.,Хоћу да учим српски.
+w755,OK,0.93,Treba ti.,требати
+w755_ex,OK,0.84,Treba da zvoljem dokter.,Треба да зовем доктора.
+w756,OK,1.0,Reči.,рећи
+w756_ex,OK,1.0,Reci mi istinu molim.,"Реци ми истину, молим."
+w757,OK,0.86,Razumeva te.,разумевати
+w757_ex,OK,0.98,"Razumem vas, ali govorite brazo.","Разумем вас, али говорите брзо."
+w758,OK,1.0,Ponoviti.,поновити
+w758_ex,OK,0.98,Možete li ponoviti broj telefon.,Можете ли поновити број телефона?
+w759,OK,1.0,Slušati.,слушати
+w759_ex,OK,1.0,Volim da slušam srpsku muziku.,Волим да слушам српску музику.
+w760,OK,0.67,Truti.,чути
+w760_ex,OK,0.98,Ču sam dobre vesti od prijatelja.,Чуо сам добре вести од пријатеља.
+w761,OK,0.89,Boditi se.,будити се
+w761_ex,OK,0.88,U jutru se budim u 7 sati.,Ујутру се будим у седам сати.
+w762,OK,0.92,Ustatni.,устати
+w762_ex,OK,1.0,Moram ustati rano sutra.,Морам устати рано сутра.
+w763,OK,1.0,Legnuti.,легнути
+w763_ex,OK,0.85,Osetjosom se slabo i legosom.,Осетио сам се слабо и легао сам.
+w764,OK,0.93,Košta ti.,коштати
+w764_ex,OK,0.98,Koliko košta ovaj jakna?,Колико кошта ова јакна?
+w765,OK,1.0,Pokloniti.,поклонити
+w765_ex,OK,0.93,poklonijo sam je knjigu za rodjenda.,Поклонио сам јој књигу за рођендан.
+w766,OK,0.7,svijetice.,свиђати се
+w766_ex,OK,0.93,Svidjemi se ovaj grad.,Свиђа ми се овај град.
+w767,OK,0.82,Rad ovatice.,радовати се
+w767_ex,OK,0.83,Radovim se našem susreto.,Радујем се нашем сусрету.
+w768,OK,1.0,Voditi.,водити
+w768_ex,OK,1.0,Ova ulica vodi do parka.,Ова улица води до парка.
+w769,OK,1.0,Hodati.,ходати
+w769_ex,OK,0.94,Svaki dan hodem najmenje sat vremena.,Сваки дан ходам најмање сат времена.
+w770,OK,0.67,Koopatice.,купати се
+w770_ex,OK,1.0,Leti se kupamo u reki.,Лети се купамо у реки.
+w771,OK,0.96,Tu širati se.,туширати се
+w771_ex,OK,0.93,tuširam se prespavania.,Туширам се пре спавања.
+w772,OK,1.0,Objasniti.,објаснити
+w772_ex,OK,0.9,Mojlim vas objeznjite ponovopravilo.,"Молим вас, објасните поново правило."
+w773,OK,1.0,Prevesti.,превести
+w773_ex,OK,1.0,Možete li prevesti ovaj tekst.,Можете ли превести овај текст?
+w774,OK,0.88,Oplatiti.,уплатити
+w774_ex,OK,0.92,Uplatio sam racun online.,Уплатио сам рачун онлајн.
+w775,OK,1.0,Brinuti se.,бринути се
+w775_ex,OK,0.92,Brinem se o svoj poroditi.,Бринем се о својој породици.
+w776,OK,0.63,Smijetice.,смејати се
+w776_ex,OK,0.85,Smelizmo se dosuza.,Смејали смо се до суза.
+w777,OK,0.93,Plakat i.,плакати
+w777_ex,OK,0.94,"Film i biotužan, svi su plakali.","Филм је био тужан, сви су плакали."
+w778,OK,0.89,Javi tise.,јавити се
+w778_ex,OK,0.82,Ja vi mi se kac dignaš.,Јави ми се кад стигнеш!
+w779,OK,1.0,Veliki.,велики
+w779_ex,OK,0.98,Beograd je velik i grad.,Београд је велики град.
+w780,OK,1.0,Slatak.,слатак
+w780_ex,OK,0.89,Oveća je suviše slatak.,Овај чај је сувише слатак.
+w781,OK,0.67,Roža.,ружан
+w781_ex,OK,0.98,Ona nije ruzna samo je umorna.,Она није ружна — само је уморна.
+w782,OK,0.89,boli.,бољи
+w782_ex,OK,0.81,Danas se osicjem bođ.,Данас се осећам боље.
+w783,OK,0.8,Manje.,мањи
+w783_ex,OK,0.89,Uzeo sam manju veđinu.,Узео сам мању величину.
+w784,OK,0.67,Jakši?,јачи
+w784_ex,OK,0.76,Ova i kafe i acći.,Овај кафе је јачи.
+w785,OK,0.92,Slabij.,слабији
+w785_ex,OK,0.89,Poslobolesti bile slabija.,После болести била је слабија.
+w786,OK,1.0,Dubok.,дубок
+w786_ex,OK,0.95,Rekanije du boka ovde.,Река није дубока овде.
+w787,OK,1.0,Uži.,ужи
+w787_ex,OK,0.93,Ova ulica je užodone.,Ова улица је ужа од оне.
+w788,OK,0.8,Loši.,лошији
+w788_ex,OK,0.83,Wрем je da nasloš je negojuči.,Време је данас лошије него јуче.
+w789,OK,1.0,Pare.,паре
+w789_ex,OK,0.92,Nemam pare za taxi.,Немам паре за такси.
+w790,OK,1.0,Kartica.,картица
+w790_ex,OK,0.88,"Plat ćem karticom, vala.","Плаћам картицом, хвала."
+w791,OK,1.0,promena.,промена
+w791_ex,OK,1.0,Zadržite promenu za sebe.,Задржите промену за себе.
+w792,OK,0.8,Ducam.,дућан
+w792_ex,OK,0.78,Ducen radi do 20 časov.,Дућан ради до двадесет часова.
+w793,OK,0.92,Kakosi.,како си
+w793_ex,OK,0.98,Zdrav o Marko. Kako si?,"Здраво, Марко! Како си?"
+w794,OK,0.95,Vala lepo.,хвала лепо
+w794_ex,OK,0.95,Vala lepona pomoći.,Хвала лепо на помоћи!
+w795,OK,0.7,Nemonaczemo.,нема на чему
+w795_ex,OK,0.74,Vala. Ne manočemo.,— Хвала! — Нема на чему.
+w796,OK,0.84,Nerazumen.,не разумем
+w796_ex,OK,1.0,"Ne razumem, možete li ponoviti.","Не разумем, можете ли поновити?"
+w797,OK,0.87,Govoriteli anglaski.,говорите ли енглески
+w797_ex,OK,0.93,"Izvinite, govorite lienblski.","Извините, говорите ли енглески?"
+w798,OK,0.96,Gdje je toalet.,где је тоалет
+w798_ex,OK,0.93,"Molim vas, gdje to alet.","Молим вас, где је тоалет?"
+w799,OK,1.0,Otvoreno.,отворено
+w799_ex,OK,0.79,Prodam nice je otvore na do 10.,Продавница је отворена до десет.
+w800,OK,1.0,Zatvoreno.,затворено
+w800_ex,OK,0.88,Apotika i nedeljom zatvorina.,Апотека је недељом затворена.
+w801,OK,1.0,Koliko imaš godina?,колико имаш година
+w801_ex,OK,0.82,Koliko imaš godina? Imam 20.,Колико имаш година? — Имам двадесет.

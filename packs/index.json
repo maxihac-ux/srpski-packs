@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-09T01:26:43+00:00",
+  "generatedAt": "2026-11-09T06:20:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -142,17 +142,17 @@
           "target": "sr",
           "voice": "m",
           "title": "Сербский — уровень A1 · озвучка, мужской голос",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "requiresCoreApi": 1,
           "level": "A1",
           "requires": [
             "sr-ru-a1"
           ],
-          "size": 8424381,
-          "sha256": "2931194f17acc64762b5af4a4417d760daea3bcdb7b1e31ba273f92bbe5b9f03",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-a1-audio-m-1.0.1.zip",
+          "size": 8425266,
+          "sha256": "fddf9f611be6d86703f4ef6806447d6be54e9ff19eedb0dc64a76ea1d3bebb8d",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.5/sr-ru-a1-audio-m-1.0.2.zip",
           "channel": "stable",
-          "notes": "sr-ru-a1-audio-m-1.0.1.zip",
+          "notes": "sr-ru-a1-audio-m-1.0.2.zip",
           "sig": "kiLhbVg8GEYoNKoVe3ukZNbigSdtN9lsiF2go+7AcoLKgicozzGBjM+t+V1vfMpt9r+fkZ37P++n+NR9n3bUAA=="
         },
         {
