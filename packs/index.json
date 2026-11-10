@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-09T06:20:00+00:00",
+  "generatedAt": "2026-11-10T05:06:51+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -33,18 +33,17 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A1",
-          "version": "2.0.3",
+          "version": "2.0.4",
           "requiresCoreApi": 1,
-          "size": 645970,
-          "sha256": "39f373b038df2c9cb67fa5b162a3c03c636284d8eab71a2b2624dc358912ad5f",
+          "size": 658101,
+          "sha256": "f47c49ab0d67e9ef2c8403729d12b579be8adfb4b81a0992e2f5f726d5be69f4",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-a1-2.0.3.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a1-2.0.4.zip",
           "words": 569,
           "notes": "sr-ru-a1-2.0.1.zip",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.3.zip"
-          ],
-          "sig": "TQ/B+s5TFfTpPsC9SE6ymmdy2hR2jdiGcnUoevG10bHYv4HipR4yzh3mdrQSuGvmeuPtgfpw+m72k1kW1hybBw=="
+          ]
         },
         {
           "id": "sr-ru-a2",
@@ -56,18 +55,17 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A2",
-          "version": "2.0.3",
+          "version": "2.0.4",
           "requiresCoreApi": 1,
-          "size": 1002028,
-          "sha256": "e92eee73c479de98149f35d0fa0e3852daf5c11117f704b380f170bacc317ac0",
+          "size": 983619,
+          "sha256": "3401e2849bcb5086793aa02398bc7536348dfcc24d55a254836dc325bf870dba",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-a2-2.0.3.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a2-2.0.4.zip",
           "words": 1355,
           "notes": "sr-ru-a2-2.0.1.zip",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.3.zip"
-          ],
-          "sig": "g40jmjoQmLYoXcc3J2Z28H5GXQll/o9nmXGvc3tJSlBKaxNlkCl5EjnqtAZsVaLbNPAHrU8Oo103rkp1x5+KBg=="
+          ]
         },
         {
           "id": "sr-ru-b1",
@@ -79,18 +77,17 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень B1",
-          "version": "2.1.3",
+          "version": "2.1.4",
           "requiresCoreApi": 1,
-          "size": 835982,
-          "sha256": "edf6790657239a1b0bac9da40e97a35e26cb65e7a52026a883c1a0d43e1d0dc1",
+          "size": 888508,
+          "sha256": "22219c45466f228016a91a5b32b5e73a0a3e48a351382e6cb30a8bf46ebbc968",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-b1-2.1.3.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b1-2.1.4.zip",
           "words": 1075,
           "notes": "№12 п.4.2: w2372 «Насherited» → «Наследственная болезнь редка.»",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.3.zip"
-          ],
-          "sig": "zHGPj4WFvpEdEpBBTizcv6OjG3+a/ljxX3RySv7DoOWffPu/lXSz9jU3sKGRbdX5aX834qSJhWJCF2hUYXACBA=="
+          ]
         },
         {
           "id": "sr-ru-b2",
@@ -99,21 +96,20 @@
           "target": "sr",
           "level": "B2",
           "title": "Сербский — уровень B2",
-          "version": "2.0.4",
+          "version": "2.0.5",
           "requiresCoreApi": 1,
           "requires": [
             "sr-ru-base"
           ],
-          "size": 1432474,
-          "sha256": "207c406ce4b5bf2666211bdab1646ce3122d9b6d7e74a3489fc5a432fc96c45a",
+          "size": 1542432,
+          "sha256": "7b6f6b963b1206222c65a67f01444137b7484821257e78d74e0ebd450fbe78a3",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-b2-2.0.4.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-2.0.5.zip",
           "words": 1993,
           "notes": "№12 п.4.2: w3397 «loose» → «свободный союз», w3944 «Профessor» → «Профессор», w4193 китайские знаки → «самые красивые отношения»",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-2.0.4.zip"
-          ],
-          "sig": "Lw2rJwFb0ItLZdjK//vM87Mg8JelGb9T+kAtfZ2cNFpW37f9TKMNLxUGj8m8kc+HNwsOyKRl6hNI7CqHfA0ZAA=="
+          ]
         },
         {
           "id": "sr-ru-a1-audio-f",
@@ -122,18 +118,17 @@
           "target": "sr",
           "voice": "f",
           "title": "Сербский — уровень A1 · озвучка, женский голос",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "requiresCoreApi": 1,
           "level": "A1",
           "requires": [
             "sr-ru-a1"
           ],
-          "size": 8737699,
-          "sha256": "d31a776a7a0bda872e9b4c5f4024aa3902fcd782a12a5998e77bd583b30ac81d",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-a1-audio-f-1.0.1.zip",
+          "size": 8850274,
+          "sha256": "1b09848258d1a8ba7a5c7f17e7782e70e43a16d3056fcb2903b8203f7e6bf115",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a1-audio-f-1.0.2.zip",
           "channel": "stable",
-          "notes": "sr-ru-a1-audio-f-1.0.1.zip",
-          "sig": "Ff0PkdnyvUz0dX40NTAttGCbmnWfs0bTas1Mp0jHPJz2F3DfPO0aWSQCOkvvQ6EBBF3FpvlIp9EkwdppXyqgDw=="
+          "notes": "sr-ru-a1-audio-f-1.0.1.zip"
         },
         {
           "id": "sr-ru-a1-audio-m",
@@ -142,18 +137,17 @@
           "target": "sr",
           "voice": "m",
           "title": "Сербский — уровень A1 · озвучка, мужской голос",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "requiresCoreApi": 1,
           "level": "A1",
           "requires": [
             "sr-ru-a1"
           ],
-          "size": 8425266,
-          "sha256": "fddf9f611be6d86703f4ef6806447d6be54e9ff19eedb0dc64a76ea1d3bebb8d",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.5/sr-ru-a1-audio-m-1.0.2.zip",
+          "size": 8534012,
+          "sha256": "8557bd961abdd7f06821d00742434055c526dce1cfe23162ead15bea16e7282a",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a1-audio-m-1.0.3.zip",
           "channel": "stable",
-          "notes": "sr-ru-a1-audio-m-1.0.2.zip",
-          "sig": "vbh5M+YoK+BQWGxxBwE2CKJmcHgUAbrq9nLD3g+LLagLbWdKK5UGI+vYw5MHZFt+tMi/Zpk1+MTMeJ3VNVKDAA=="
+          "notes": "sr-ru-a1-audio-m-1.0.2.zip"
         },
         {
           "id": "sr-ru-a2-audio-f",
@@ -162,18 +156,17 @@
           "target": "sr",
           "voice": "f",
           "title": "Сербский — уровень A2 · озвучка, женский голос",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "requiresCoreApi": 1,
           "level": "A2",
           "requires": [
             "sr-ru-a2"
           ],
-          "size": 16969818,
-          "sha256": "51e17abca454d44d6cbf02da31fd8435409b76a3d095530103d93dfd3714bcbe",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-a2-audio-f-1.0.2.zip",
+          "size": 16977455,
+          "sha256": "c194cbfec596a472befafaedf9ad9502f11b60d9c59060308663c64ef6c8bfea",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a2-audio-f-1.0.3.zip",
           "channel": "stable",
-          "notes": "sr-ru-a2-audio-f-1.0.2.zip",
-          "sig": "/QqgjlrkIsuPVz7cUbC0rx2ARzc9uM1JMNTLSMVfehzfapIX4lCEbX97Nn4SaZKuLVHsp9uXbDvilvNIb3/8BQ=="
+          "notes": "sr-ru-a2-audio-f-1.0.2.zip"
         },
         {
           "id": "sr-ru-a2-audio-m",
@@ -182,18 +175,17 @@
           "target": "sr",
           "voice": "m",
           "title": "Сербский — уровень A2 · озвучка, мужской голос",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "requiresCoreApi": 1,
           "level": "A2",
           "requires": [
             "sr-ru-a2"
           ],
-          "size": 16298084,
-          "sha256": "94a2bbb055b98e996c17151e1bd060835f901e7d6b40581eec2ec339a9d15cb1",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-a2-audio-m-1.0.2.zip",
+          "size": 16305627,
+          "sha256": "a11282ceeb67c4e225064c4e8343086ae811d74ddb8b6783d78ae3d237978cc4",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a2-audio-m-1.0.3.zip",
           "channel": "stable",
-          "notes": "sr-ru-a2-audio-m-1.0.2.zip",
-          "sig": "OfwHZPgY80ambRIHaav2T9xKkoliX5A4FC4NhkYK6DZmHT58hh7okZtdH2+dKjzBxNFGMfbmaoQfgSpaOv6KBA=="
+          "notes": "sr-ru-a2-audio-m-1.0.2.zip"
         },
         {
           "id": "sr-ru-b1-audio-f",
@@ -202,18 +194,17 @@
           "target": "sr",
           "voice": "f",
           "title": "Сербский — уровень B1 · озвучка, женский голос",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "requiresCoreApi": 1,
           "level": "B1",
           "requires": [
             "sr-ru-b1"
           ],
-          "size": 27438628,
-          "sha256": "f0c92406a94528df303eca4846a98508c962bdb6901fe4fdeaad19cca8e80c60",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-b1-audio-f-1.0.2.zip",
+          "size": 27399969,
+          "sha256": "3b4838a78e829095158f67ec97b1d5144b6e54d9b82be8313077905d4d45c40b",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b1-audio-f-1.0.3.zip",
           "channel": "stable",
-          "notes": "sr-ru-b1-audio-f-1.0.2.zip",
-          "sig": "meopo68Pm/Lk5OfzUOyMf8iI1gajYLcC++l//7b7t1N4VA1sd4C5ZnpCoTleYzFU7JPOiNPOMUek4a6w1sCVDw=="
+          "notes": "sr-ru-b1-audio-f-1.0.2.zip"
         },
         {
           "id": "sr-ru-b1-audio-m",
@@ -222,18 +213,17 @@
           "target": "sr",
           "voice": "m",
           "title": "Сербский — уровень B1 · озвучка, мужской голос",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "requiresCoreApi": 1,
           "level": "B1",
           "requires": [
             "sr-ru-b1"
           ],
-          "size": 26768050,
-          "sha256": "d30499255dd6ee500aec3f10501e153064a2ba8b26f6e753c38fd1f4434ebeb2",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-b1-audio-m-1.0.2.zip",
+          "size": 26730207,
+          "sha256": "f0b6378d1830f57a9f32659b6a24a8d590b640d98872073ef58f347edd4e240e",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b1-audio-m-1.0.3.zip",
           "channel": "stable",
-          "notes": "sr-ru-b1-audio-m-1.0.2.zip",
-          "sig": "DbNzVpJmBfXTC9pvjYTYM0iDyvIUNo0+EdF/7IOMnu1odzdMWHGogdtC2d4CakmBB1AjxSqGndJ1fxhF+RqSBw=="
+          "notes": "sr-ru-b1-audio-m-1.0.2.zip"
         },
         {
           "id": "sr-ru-b2-audio-f",
@@ -242,14 +232,14 @@
           "target": "sr",
           "voice": "f",
           "title": "Сербский — уровень B2 · озвучка, женский голос",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "requiresCoreApi": 1,
           "level": "B2",
           "requires": [
             "sr-ru-b2"
           ],
-          "size": 55273611,
-          "sha256": "e966f7ecf511151f671a497b63c6a2f8db7ff1707cbb43b91a220391aa9a1ad8",
+          "size": 55218144,
+          "sha256": "1637d1411b1598aa1f7ee8edb894331735be30d8444b2f2e6259f7e909969545",
           "parts": [
             {
               "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0-p1.zip",
@@ -262,10 +252,9 @@
               "sha256": "31e57e4364c04aeb62f89b00fbf02366b5c9e9aba4b1704221346dd5cdc6c361"
             }
           ],
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-audio-f-1.0.1.zip",
           "channel": "stable",
-          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
-          "sig": "yfJxdD+Ns1i1krLgVlsxG9We+f+z0FHdZ2/P1iT8ZN8LUZzWYrg9HM260DGGNVscUvoqixPF/Ed1eEJwoojGBA=="
+          "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
         },
         {
           "id": "sr-ru-b2-audio-m",
@@ -274,18 +263,17 @@
           "target": "sr",
           "voice": "m",
           "title": "Сербский — уровень B2 · озвучка, мужской голос",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "requiresCoreApi": 1,
           "level": "B2",
           "requires": [
             "sr-ru-b2"
           ],
-          "size": 53725193,
-          "sha256": "4b9f0250d5913de50c0e5482d33adb72e7ff2dfeddcdb9382059e76725a4e764",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-b2-audio-m-1.0.1.zip",
+          "size": 53673063,
+          "sha256": "617803e145d7529d1c49ea27c4b7f5f76f33c3fb2e9c20e028668c1b42cb425a",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-audio-m-1.0.2.zip",
           "channel": "stable",
-          "notes": "sr-ru-b2-audio-m-1.0.1.zip",
-          "sig": "o2seTYUiWP5H8H+S2zk69wF7q0vEjvi0axpogS9Imc+l9QC4A1do5JAQCXxe3MynUd5wG9mpCnYYc31qKZvfDA=="
+          "notes": "sr-ru-b2-audio-m-1.0.1.zip"
         },
         {
           "id": "sr-ru-qa-a2-1",
@@ -367,8 +355,8 @@
             "sr-ru-a1-audio-m",
             "sr-ru-a1-audio-f"
           ],
-          "size": 17707995,
-          "version": "2.0.1",
+          "size": 18042387,
+          "version": "2.0.4",
           "words": 569
         },
         {
@@ -380,8 +368,8 @@
             "sr-ru-a2-audio-m",
             "sr-ru-a2-audio-f"
           ],
-          "size": 34150878,
-          "version": "2.0.1",
+          "size": 34266701,
+          "version": "2.0.4",
           "words": 1355
         },
         {
@@ -393,8 +381,8 @@
             "sr-ru-b1-audio-m",
             "sr-ru-b1-audio-f"
           ],
-          "size": 55051356,
-          "version": "2.1.2",
+          "size": 55018684,
+          "version": "2.1.4",
           "words": 1075
         },
         {
@@ -406,8 +394,8 @@
             "sr-ru-b2-audio-m",
             "sr-ru-b2-audio-f"
           ],
-          "size": 110447424,
-          "version": "2.0.3",
+          "size": 110433639,
+          "version": "2.0.5",
           "words": 1993
         }
       ]
