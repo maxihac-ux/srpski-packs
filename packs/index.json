@@ -240,18 +240,6 @@
           ],
           "size": 55218144,
           "sha256": "1637d1411b1598aa1f7ee8edb894331735be30d8444b2f2e6259f7e909969545",
-          "parts": [
-            {
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0-p1.zip",
-              "size": 39845888,
-              "sha256": "f9c4102f9782b0b5d2d0272a158f631522797cc8e082db93da1cb7f24df616ce"
-            },
-            {
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-f-1.0.0-p2.zip",
-              "size": 15427723,
-              "sha256": "31e57e4364c04aeb62f89b00fbf02366b5c9e9aba4b1704221346dd5cdc6c361"
-            }
-          ],
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-audio-f-1.0.1.zip",
           "channel": "stable",
           "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)"
@@ -325,23 +313,6 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0.zip",
           "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL",
-          "parts": [
-            {
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0-p1.zip",
-              "size": 39845888,
-              "sha256": "b6615460ca500f14207d77ba371004e86cb5cc75401b5f71294300f72a5a2bbe"
-            },
-            {
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0-p2.zip",
-              "size": 39845888,
-              "sha256": "416dbf203166f86d20628f8f7cacd4ce120764544a622867d89b7295f6330cac"
-            },
-            {
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0-p3.zip",
-              "size": 15868357,
-              "sha256": "e3c0d689afc01564e0fd9ffe3bcd5f3e7c4357aac4f27919b85ff34483240a5c"
-            }
-          ],
           "sig": "x4b1rUXTSJ6AShiz3SItAjsYrfcSiO7fY8p4I9Dn6wyB8+6xrlJLPV/Vp3rxieTp5R2nghOBMxt3HIiXiySHBQ=="
         }
       ],
