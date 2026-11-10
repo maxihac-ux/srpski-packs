@@ -41,10 +41,10 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-a1-2.0.3.zip",
           "words": 569,
           "notes": "sr-ru-a1-2.0.1.zip",
-          "sig": "m4s7OTngTnbMD2dX1yJvPlZTMQKVCIz4xgB24vO8jGcdW6i/ank3Gqk7/lwwJQ/EmRO4IHylX8V8xHvt4QtJCA==",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.3.zip"
-          ]
+          ],
+          "sig": "TQ/B+s5TFfTpPsC9SE6ymmdy2hR2jdiGcnUoevG10bHYv4HipR4yzh3mdrQSuGvmeuPtgfpw+m72k1kW1hybBw=="
         },
         {
           "id": "sr-ru-a2",
@@ -64,10 +64,10 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-a2-2.0.3.zip",
           "words": 1355,
           "notes": "sr-ru-a2-2.0.1.zip",
-          "sig": "VhUiUEBA9ixUU3fHBh+ZtsfaeCxehh60xXSprmUvd3dW/8oyl+1+qgIYrXhUX8gjapvX85QdbS8ZexDTpXtyBQ==",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.3.zip"
-          ]
+          ],
+          "sig": "g40jmjoQmLYoXcc3J2Z28H5GXQll/o9nmXGvc3tJSlBKaxNlkCl5EjnqtAZsVaLbNPAHrU8Oo103rkp1x5+KBg=="
         },
         {
           "id": "sr-ru-b1",
@@ -87,10 +87,10 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-b1-2.1.3.zip",
           "words": 1075,
           "notes": "№12 п.4.2: w2372 «Насherited» → «Наследственная болезнь редка.»",
-          "sig": "d54MJfH4br9ZytMPyQ/mJ6R/WV0KQ19rrCA9D0IaSXqP7NKxn9GcpvtjZYAJHLDmfDOLFOB0KBwSZFlGNPODAQ==",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.3.zip"
-          ]
+          ],
+          "sig": "zHGPj4WFvpEdEpBBTizcv6OjG3+a/ljxX3RySv7DoOWffPu/lXSz9jU3sKGRbdX5aX834qSJhWJCF2hUYXACBA=="
         },
         {
           "id": "sr-ru-b2",
@@ -110,10 +110,10 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.3/sr-ru-b2-2.0.4.zip",
           "words": 1993,
           "notes": "№12 п.4.2: w3397 «loose» → «свободный союз», w3944 «Профessor» → «Профессор», w4193 китайские знаки → «самые красивые отношения»",
-          "sig": "OBUR+nP6rsFOwYFme+tfTzr33w4xWflyZzMU2FKdDd3Dj9gnSNvSmspc6ALfCUIOZnYhRwjRmvGF6S1ES6n4Bg==",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-2.0.4.zip"
-          ]
+          ],
+          "sig": "Lw2rJwFb0ItLZdjK//vM87Mg8JelGb9T+kAtfZ2cNFpW37f9TKMNLxUGj8m8kc+HNwsOyKRl6hNI7CqHfA0ZAA=="
         },
         {
           "id": "sr-ru-a1-audio-f",
@@ -133,7 +133,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-a1-audio-f-1.0.1.zip",
           "channel": "stable",
           "notes": "sr-ru-a1-audio-f-1.0.1.zip",
-          "sig": "nh1OjLHuw+cmfgP3kN09leXaX0UHfEr8h9EeK5OlrODeCx+xJYhIz6U4Kq+ZvdWMDT9b9q8mNCjOcmZ9MKf9DA=="
+          "sig": "Ff0PkdnyvUz0dX40NTAttGCbmnWfs0bTas1Mp0jHPJz2F3DfPO0aWSQCOkvvQ6EBBF3FpvlIp9EkwdppXyqgDw=="
         },
         {
           "id": "sr-ru-a1-audio-m",
@@ -153,7 +153,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.5/sr-ru-a1-audio-m-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-a1-audio-m-1.0.2.zip",
-          "sig": "kiLhbVg8GEYoNKoVe3ukZNbigSdtN9lsiF2go+7AcoLKgicozzGBjM+t+V1vfMpt9r+fkZ37P++n+NR9n3bUAA=="
+          "sig": "vbh5M+YoK+BQWGxxBwE2CKJmcHgUAbrq9nLD3g+LLagLbWdKK5UGI+vYw5MHZFt+tMi/Zpk1+MTMeJ3VNVKDAA=="
         },
         {
           "id": "sr-ru-a2-audio-f",
@@ -173,7 +173,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-a2-audio-f-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-a2-audio-f-1.0.2.zip",
-          "sig": "BysI++lu8TnqrpF1+EOJn2uayq4J4tDku9VdHtH5W4hW43p4Fs0EJv7VJlnxw6JhB24Gv8xhKP0Ehr1lZxBWCQ=="
+          "sig": "/QqgjlrkIsuPVz7cUbC0rx2ARzc9uM1JMNTLSMVfehzfapIX4lCEbX97Nn4SaZKuLVHsp9uXbDvilvNIb3/8BQ=="
         },
         {
           "id": "sr-ru-a2-audio-m",
@@ -193,7 +193,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-a2-audio-m-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-a2-audio-m-1.0.2.zip",
-          "sig": "SvqsHFIfwSmyBZsBEfyYX9coFxqomY1EfxjklLc5OBUrN8axp8eSxsKJxSfVhw0OrM4NMZUtaGMlwcNFrFPFAw=="
+          "sig": "OfwHZPgY80ambRIHaav2T9xKkoliX5A4FC4NhkYK6DZmHT58hh7okZtdH2+dKjzBxNFGMfbmaoQfgSpaOv6KBA=="
         },
         {
           "id": "sr-ru-b1-audio-f",
@@ -213,7 +213,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-b1-audio-f-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-b1-audio-f-1.0.2.zip",
-          "sig": "9DERaCI9U8oOK0sFIr6Ew+9BlOiJU9XEm3WiZgZklH4CL/8EQ0Rq4rga1yaUt9h2NU0ZAW5XR/4x7VM5T4GOAA=="
+          "sig": "meopo68Pm/Lk5OfzUOyMf8iI1gajYLcC++l//7b7t1N4VA1sd4C5ZnpCoTleYzFU7JPOiNPOMUek4a6w1sCVDw=="
         },
         {
           "id": "sr-ru-b1-audio-m",
@@ -233,7 +233,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-b1-audio-m-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-b1-audio-m-1.0.2.zip",
-          "sig": "eJIL8iqCziE0gFG8AMEs7VJcMbPBOL1yDfjDEKgFBAJCW8BwQF+kRfg7IpwJ+hr8uM1FVGuOU4jzhpSo9g0ODA=="
+          "sig": "DbNzVpJmBfXTC9pvjYTYM0iDyvIUNo0+EdF/7IOMnu1odzdMWHGogdtC2d4CakmBB1AjxSqGndJ1fxhF+RqSBw=="
         },
         {
           "id": "sr-ru-b2-audio-f",
@@ -285,7 +285,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-b2-audio-m-1.0.1.zip",
           "channel": "stable",
           "notes": "sr-ru-b2-audio-m-1.0.1.zip",
-          "sig": "nzPotC0oa1Zz9aFdyS06P8H/1JWX35YjW4Es5SXDxrYWlvCyUAn8hnj015phvU8X0c9+sq8/P6dq1s5xGL/eBw=="
+          "sig": "o2seTYUiWP5H8H+S2zk69wF7q0vEjvi0axpogS9Imc+l9QC4A1do5JAQCXxe3MynUd5wG9mpCnYYc31qKZvfDA=="
         },
         {
           "id": "sr-ru-qa-a2-1",
@@ -530,5 +530,5 @@
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
   ],
-  "sig": "EAMxC9Ih196U22fkkOXYiFYzkfc7EL81fWvLlUePkBW2Zj3sSRqaKMZwcXyFzUPET3aTPQ39Si/DwGPIQGqgAw=="
+  "sig": "szsGn79yiU9ZjjlUpEFmanHRUVlV79cgsmq/qV4yanPpCrF9GWI8AzDoWd1+dWjwSouSBXqfHMqWnlNvZkbfAA=="
 }
