@@ -7,5 +7,9 @@
   "updatedAt": "2026-11-10T05:30:36+00:00",
   "apkVersion": "2.60.9",
   "apkCode": 502,
-  "apkTag": "apk-v2.60.9"
+  "apkTag": "apk-v2.60.9",
+  "layers": {
+    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
+    "sha256": "bf4d2490bad12f415eed932f5267a763c7cbf4aa80a811515d57ec5379d86eab"
+  }
 }
