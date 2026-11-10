@@ -19,8 +19,8 @@
     "sha256": "13ead219de9c03d8e2e67aeef52a01ea5f77732e5bb67e6ba263306d5ff2e265",
     "size": 8557142,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-502.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@243e5124b8e265a6e69a66efcaf657a62799e00a/webbundle/web-bundle-502.zip",
     "minApkCode": 502,
-    "sig": "xnM9NLHb8m5HWJJI//qiZaA2jkw9IXaKRiJBXMULZ6slgiSZM+B8w0e3NvmzffQI+caKcizMboxmIt86nEWsDw=="
+    "sig": "AULdS7MaQEB0CYTus5P/D/zZ5WwYt4Nh7AxZNWiaJyysq50fU+UfjbjNAYs/auucK4yCdnRLC9qSJ/1S2OwaCA=="
   }
 }
