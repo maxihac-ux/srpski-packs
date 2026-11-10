@@ -282,18 +282,6 @@
           ],
           "size": 53725193,
           "sha256": "4b9f0250d5913de50c0e5482d33adb72e7ff2dfeddcdb9382059e76725a4e764",
-          "parts": [
-            {
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-m-1.0.0-p1.zip",
-              "size": 39845888,
-              "sha256": "630832d8ad10db1b5904b57dc0a1ca6e01b5353210ea06cd4d6d9b7e2cf2a30f"
-            },
-            {
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-audio-v1.0.0/sr-ru-b2-audio-m-1.0.0-p2.zip",
-              "size": 13916232,
-              "sha256": "1eda5b4916b899079cab3145cb736fc8545a73c4a755feda4fde85d0a17dc65b"
-            }
-          ],
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.4/sr-ru-b2-audio-m-1.0.1.zip",
           "channel": "stable",
           "notes": "sr-ru-b2-audio-m-1.0.1.zip",
