@@ -21,7 +21,7 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.7/sr-ru-base-2.1.1.zip",
           "words": null,
           "notes": "№31 F9: + реплики диалогов (dlg001/dlg002) и варианты пунктуации в audio-map",
-          "sig": "Xk1R1vGHoxslQHaJA0AoxfaRlUsAQCDVfHMWLESOx8bx0oXUAnQYuy/2VDN6jU9tYXYxs+kQrT9AxzFnNsPhDA=="
+          "sig": "hL53wZux9XXqkoi3N3yofbGhMAp/+RxucIoCzTBMV71qFTPXRobgHQKQQnkZKTuqqUg+jhrynXb8PTnWRoZABg=="
         },
         {
           "id": "sr-ru-a1",
@@ -501,5 +501,5 @@
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
   ],
-  "sig": "8ZuqxJWMuKfSTdH/qB1LNpXM7G57P8c1qyf7hwkCafJpJr25PODUSXDlVMdFTvqeiBECGn4owRRZvBBQN8BWDw=="
+  "sig": "rjaFEk5q1aiiNqfUYRa1PBTM+syqAtvvOtTjragAQSprq+5btPn1j/1X5QzDycIIRUyn40jtSShNCEhGETsfAw=="
 }
