@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-10T05:06:51+00:00",
+  "generatedAt": "2026-11-11T06:37:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -13,14 +13,14 @@
           "native": "ru",
           "target": "sr",
           "title": "Сербский — база: алфавит, транслитерация, категории, озвучка азбуки",
-          "version": "2.1.0",
+          "version": "2.1.1",
           "requiresCoreApi": 1,
-          "size": 237511,
-          "sha256": "b377e07d25da481dbfadb6152a7313dfc1a4ae766324455c8200ce6793299e5c",
+          "size": 350557,
+          "sha256": "32f7a8b6da19a8fed0ce246ab135c2d3c7164f7d027060f3a560bcd951e1a13f",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.0/sr-ru-base-2.1.0.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.7/sr-ru-base-2.1.1.zip",
           "words": null,
-          "notes": "Этап 3b (инструкция №7 §2): универсальная модель, zip STORE, verify deep",
+          "notes": "№31 F9: + реплики диалогов (dlg001/dlg002) и варианты пунктуации в audio-map",
           "sig": "Xk1R1vGHoxslQHaJA0AoxfaRlUsAQCDVfHMWLESOx8bx0oXUAnQYuy/2VDN6jU9tYXYxs+kQrT9AxzFnNsPhDA=="
         },
         {
