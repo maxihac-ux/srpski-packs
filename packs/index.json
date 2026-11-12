@@ -20,7 +20,8 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.8/sr-ru-base-2.1.2.zip",
           "words": null,
-          "notes": "№31 F9/№32: озвучка реплик диалогов (Хвала!/Молим!/Да, наравно! + dlg001/002); voices m+f"
+          "notes": "№31 F9/№32: озвучка реплик диалогов (Хвала!/Молим!/Да, наравно! + dlg001/002); voices m+f",
+          "sig": "Pq6dQj10iM+9olAbpMEBacVkEP/rnxXgSfIL7TgkQmSiO0SZ0eg3tkpPZNPAXnzPKN6EIsgUuUlGnb8vVpWUDw=="
         },
         {
           "id": "sr-ru-a1",
@@ -499,5 +500,6 @@
       "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
-  ]
+  ],
+  "sig": "fbOSVGWaQQEG45c6Oioe+1mHu2vpWAyk5P3o46acSeNPEO1ayJ5i6Bplbl2jtWwFc1ewd56sX4isBXmr8YtlCA=="
 }
