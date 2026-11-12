@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-11T06:37:00+00:00",
+  "generatedAt": "2026-11-12T03:40:00+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -13,15 +13,14 @@
           "native": "ru",
           "target": "sr",
           "title": "Сербский — база: алфавит, транслитерация, категории, озвучка азбуки",
-          "version": "2.1.1",
+          "version": "2.1.2",
           "requiresCoreApi": 1,
-          "size": 350557,
-          "sha256": "32f7a8b6da19a8fed0ce246ab135c2d3c7164f7d027060f3a560bcd951e1a13f",
+          "size": 380482,
+          "sha256": "d2ca7033a99c1c8da5f02d8d7cc84d82a90cc3897cf8e3d2305917e22e005992",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.7/sr-ru-base-2.1.1.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.8/sr-ru-base-2.1.2.zip",
           "words": null,
-          "notes": "№31 F9: + реплики диалогов (dlg001/dlg002) и варианты пунктуации в audio-map",
-          "sig": "hL53wZux9XXqkoi3N3yofbGhMAp/+RxucIoCzTBMV71qFTPXRobgHQKQQnkZKTuqqUg+jhrynXb8PTnWRoZABg=="
+          "notes": "№31 F9/№32: озвучка реплик диалогов (Хвала!/Молим!/Да, наравно! + dlg001/002); voices m+f"
         },
         {
           "id": "sr-ru-a1",
@@ -500,6 +499,5 @@
       "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
-  ],
-  "sig": "rjaFEk5q1aiiNqfUYRa1PBTM+syqAtvvOtTjragAQSprq+5btPn1j/1X5QzDycIIRUyn40jtSShNCEhGETsfAw=="
+  ]
 }
