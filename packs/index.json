@@ -132,7 +132,8 @@
      "sha256": "cbf0af9f0385f9b3f8b88c68383c2099613edf09544a9649461f0c430043413d",
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.9/sr-ru-a1-audio-f-1.0.3.zip",
      "channel": "stable",
-     "notes": "sr-ru-a1-audio-f-1.0.2.zip"
+     "notes": "sr-ru-a1-audio-f-1.0.2.zip",
+     "sig": "XkG7U9h9wlFn3NSzfjfE9MabGbYm5AEYf6XUA2v+4jRQxtndlGlRne2v+iRF07n2eHX8hyiNoDUKyM1LJLGpDg=="
     },
     {
      "id": "sr-ru-a1-audio-m",
@@ -151,7 +152,8 @@
      "sha256": "affc37898455dce9998e8a0ebff60f80041d90576b80f946b9dc84e637c55fc7",
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.9/sr-ru-a1-audio-m-1.0.4.zip",
      "channel": "stable",
-     "notes": "sr-ru-a1-audio-m-1.0.3.zip"
+     "notes": "sr-ru-a1-audio-m-1.0.3.zip",
+     "sig": "UooirMn/orYYTtDVUCbpu18npSEMhzZItZy2qweSm1phSAbjz2i++953w8Th31MZM0zpvq7KP+Ik1Wv50PY1CA=="
     },
     {
      "id": "sr-ru-a2-audio-f",
@@ -498,5 +500,6 @@
    "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
    "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
   }
- ]
+ ],
+ "sig": "WMKVz0Xn+S9PxeGvZIZxl55X6OJdhw0D4EekKzsYvbFZsrQ2w+fmiIoxeSI3aVNja1NTveZ0fusTKdhqekr9BA=="
 }
