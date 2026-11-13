@@ -8,6 +8,19 @@
   "apkVersion": "2.60.12",
   "apkCode": 505,
   "apkTag": "apk-v2.60.12-build195",
-  "hotBundle": "dict",
-  "layers": "dict"
+  "hotBundle": {
+    "enabled": true,
+    "version": "2.60.12",
+    "code": 505,
+    "sha256": "ab817b0371bfbc4340ded1ae27b46cef4ccabd959d39de4f717d370dd5fee39c",
+    "size": 8568908,
+    "files": 81,
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-505.zip",
+    "minApkCode": 502,
+    "sig": "7gVItmUVM+gRvL4X1nk53iQcqd/Jy80spEaJGGl4bSHJRoRtxZMknr/o6CdIK653f706H3usxDgTRUKgO4HEAQ=="
+  },
+  "layers": {
+    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
+    "sha256": "9658979b3b63aaf09ad08aee40261b2c6c214d9c63491892361d9f751e7be87d"
+  }
 }
