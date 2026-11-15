@@ -21,7 +21,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-base-2.1.3.zip",
      "words": null,
      "notes": "предыдущая: sr-ru-base-2.1.2.zip",
-     "sig": "RcUnZwwTkOaAmFw8t7Ozwi7QWxPbqa0DX81HfpbOYfJtABN30NZgi3oB+iCc/5oHeSHcNYTM9iPRyFYmsk2mDg=="
+     "sig": "RcUnZwwTkOaAmFw8t7Ozwi7QWxPbqa0DX81HfpbOYfJtABN30NZgi3oB+iCc/5oHeSHcNYTM9iPRyFYmsk2mDg==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-base-2.1.3"
+     ]
     },
     {
      "id": "sr-ru-a1",
@@ -133,7 +136,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-a1-audio-f-1.0.4.zip",
      "channel": "stable",
      "notes": "предыдущая: sr-ru-a1-audio-f-1.0.3.zip",
-     "sig": "X2C8aJSNOOZ/UfbwFu2PZbSVN/cq418Dd5DVZkVTdkVlRZc4sOuXVtaXSCRIq5xo7c1rMMZoydPTDIz+MHwsDw=="
+     "sig": "X2C8aJSNOOZ/UfbwFu2PZbSVN/cq418Dd5DVZkVTdkVlRZc4sOuXVtaXSCRIq5xo7c1rMMZoydPTDIz+MHwsDw==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.4"
+     ]
     },
     {
      "id": "sr-ru-a1-audio-m",
@@ -153,7 +159,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.9/sr-ru-a1-audio-m-1.0.4.zip",
      "channel": "stable",
      "notes": "sr-ru-a1-audio-m-1.0.3.zip",
-     "sig": "UooirMn/orYYTtDVUCbpu18npSEMhzZItZy2qweSm1phSAbjz2i++953w8Th31MZM0zpvq7KP+Ik1Wv50PY1CA=="
+     "sig": "UooirMn/orYYTtDVUCbpu18npSEMhzZItZy2qweSm1phSAbjz2i++953w8Th31MZM0zpvq7KP+Ik1Wv50PY1CA==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.4"
+     ]
     },
     {
      "id": "sr-ru-a2-audio-f",
@@ -173,7 +182,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-a2-audio-f-1.0.4.zip",
      "channel": "stable",
      "notes": "предыдущая: sr-ru-a2-audio-f-1.0.3.zip",
-     "sig": "Cd43vdF+AE/o02tr6gZliUupbtq5j49D2MHhL3edUvPBXQwF0w4LT2dVZjqqBjFe9eSW+q5ssplag1ZXDpjTCQ=="
+     "sig": "Cd43vdF+AE/o02tr6gZliUupbtq5j49D2MHhL3edUvPBXQwF0w4LT2dVZjqqBjFe9eSW+q5ssplag1ZXDpjTCQ==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.4"
+     ]
     },
     {
      "id": "sr-ru-a2-audio-m",
@@ -193,7 +205,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-a2-audio-m-1.0.4.zip",
      "channel": "stable",
      "notes": "предыдущая: sr-ru-a2-audio-m-1.0.3.zip",
-     "sig": "h4ua883yTtF2TDNPfQ6EDSmH3b3VGlnoiCsebVCU1BmK/hDGdZ3zrJyaQ/eCvX2SO9o3AeT556qBxSXoSNdCCg=="
+     "sig": "h4ua883yTtF2TDNPfQ6EDSmH3b3VGlnoiCsebVCU1BmK/hDGdZ3zrJyaQ/eCvX2SO9o3AeT556qBxSXoSNdCCg==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.4"
+     ]
     },
     {
      "id": "sr-ru-b1-audio-f",
@@ -213,7 +228,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-b1-audio-f-1.0.4.zip",
      "channel": "stable",
      "notes": "предыдущая: sr-ru-b1-audio-f-1.0.3.zip",
-     "sig": "VCgkGPZka7vCqDKy+fpyjaxO/KNt0vlpG0N9Ddep5ZT4nA6RJyXp4ixhcH6XoRNu9T6TrVV7yprroq+Wxsc8DQ=="
+     "sig": "VCgkGPZka7vCqDKy+fpyjaxO/KNt0vlpG0N9Ddep5ZT4nA6RJyXp4ixhcH6XoRNu9T6TrVV7yprroq+Wxsc8DQ==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.4"
+     ]
     },
     {
      "id": "sr-ru-b1-audio-m",
@@ -233,7 +251,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-b1-audio-m-1.0.4.zip",
      "channel": "stable",
      "notes": "предыдущая: sr-ru-b1-audio-m-1.0.3.zip",
-     "sig": "6IcEoeSevbG/eBqII2w6MJPkG/yPlTh7H7UW95/lcvAKKH6n4CtYB0yD1dPCgkWidcODICBFWFXEUDmINpRNBg=="
+     "sig": "6IcEoeSevbG/eBqII2w6MJPkG/yPlTh7H7UW95/lcvAKKH6n4CtYB0yD1dPCgkWidcODICBFWFXEUDmINpRNBg==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.4"
+     ]
     },
     {
      "id": "sr-ru-b2-audio-f",
@@ -253,7 +274,10 @@
      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-b2-audio-f-1.0.2.zip",
      "channel": "stable",
      "notes": "предыдущая: sr-ru-b2-audio-f-1.0.1.zip",
-     "sig": "lOKBh4gXxgLCxP9Y+8j+o7yrpduRKizc3e2HpnjrKyWnt8LOVkHM29yEooWu9tQUYM7jhYY3ALEMU6RDLMlyAw=="
+     "sig": "lOKBh4gXxgLCxP9Y+8j+o7yrpduRKizc3e2HpnjrKyWnt8LOVkHM29yEooWu9tQUYM7jhYY3ALEMU6RDLMlyAw==",
+     "mirrors": [
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.2"
+     ]
     },
     {
      "id": "sr-ru-b2-audio-m",
@@ -500,6 +524,5 @@
    "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
    "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
   }
- ],
- "sig": "k9XXINiYIGJmeDdA5XWCsrq3c1tNcuX0JoIt7rjE29bFsJldbXro3LBkj+UTLGc7AhGZPmLRZWhPJmQBac+UBg=="
+ ]
 }
