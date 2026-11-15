@@ -13,15 +13,14 @@
      "native": "ru",
      "target": "sr",
      "title": "Сербский — база: алфавит, транслитерация, категории, озвучка азбуки",
-     "version": "2.1.2",
+     "version": "2.1.3",
      "requiresCoreApi": 1,
-     "size": 380482,
-     "sha256": "d2ca7033a99c1c8da5f02d8d7cc84d82a90cc3897cf8e3d2305917e22e005992",
+     "size": 380560,
+     "sha256": "a4274836dce5e09fe80d8060019f297139978e1e1b2aa4d10395e36098717456",
      "channel": "stable",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.8/sr-ru-base-2.1.2.zip",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-base-2.1.3.zip",
      "words": null,
-     "notes": "№31 F9/№32: озвучка реплик диалогов (Хвала!/Молим!/Да, наравно! + dlg001/002); voices m+f",
-     "sig": "Pq6dQj10iM+9olAbpMEBacVkEP/rnxXgSfIL7TgkQmSiO0SZ0eg3tkpPZNPAXnzPKN6EIsgUuUlGnb8vVpWUDw=="
+     "notes": "предыдущая: sr-ru-base-2.1.2.zip"
     },
     {
      "id": "sr-ru-a1",
@@ -122,18 +121,17 @@
      "target": "sr",
      "voice": "f",
      "title": "Сербский — уровень A1 · озвучка, женский голос",
-     "version": "1.0.3",
+     "version": "1.0.4",
      "requiresCoreApi": 1,
      "level": "A1",
      "requires": [
       "sr-ru-a1"
      ],
-     "size": 8850892,
-     "sha256": "cbf0af9f0385f9b3f8b88c68383c2099613edf09544a9649461f0c430043413d",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.9/sr-ru-a1-audio-f-1.0.3.zip",
+     "size": 8798624,
+     "sha256": "30f0e3f283d860f76a520e01a718631aecf3e92ab843679cfbf5fc993a42de80",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-a1-audio-f-1.0.4.zip",
      "channel": "stable",
-     "notes": "sr-ru-a1-audio-f-1.0.2.zip",
-     "sig": "XkG7U9h9wlFn3NSzfjfE9MabGbYm5AEYf6XUA2v+4jRQxtndlGlRne2v+iRF07n2eHX8hyiNoDUKyM1LJLGpDg=="
+     "notes": "предыдущая: sr-ru-a1-audio-f-1.0.3.zip"
     },
     {
      "id": "sr-ru-a1-audio-m",
@@ -162,18 +160,17 @@
      "target": "sr",
      "voice": "f",
      "title": "Сербский — уровень A2 · озвучка, женский голос",
-     "version": "1.0.3",
+     "version": "1.0.4",
      "requiresCoreApi": 1,
      "level": "A2",
      "requires": [
       "sr-ru-a2"
      ],
-     "size": 16977455,
-     "sha256": "c194cbfec596a472befafaedf9ad9502f11b60d9c59060308663c64ef6c8bfea",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a2-audio-f-1.0.3.zip",
+     "size": 16945107,
+     "sha256": "dce14bcc263267026e2a7e7c461610105186a4e177ff0ca6f31492c35983751d",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-a2-audio-f-1.0.4.zip",
      "channel": "stable",
-     "notes": "sr-ru-a2-audio-f-1.0.2.zip",
-     "sig": "R6igYKkrJvOXeDiH84tO46MfwQP1qTf2MEfabshumM/al0GE2OqLKsfSug5ROJokOsAApGoKt/DuJIz7ds3rAA=="
+     "notes": "предыдущая: sr-ru-a2-audio-f-1.0.3.zip"
     },
     {
      "id": "sr-ru-a2-audio-m",
@@ -182,18 +179,17 @@
      "target": "sr",
      "voice": "m",
      "title": "Сербский — уровень A2 · озвучка, мужской голос",
-     "version": "1.0.3",
+     "version": "1.0.4",
      "requiresCoreApi": 1,
      "level": "A2",
      "requires": [
       "sr-ru-a2"
      ],
-     "size": 16305627,
-     "sha256": "a11282ceeb67c4e225064c4e8343086ae811d74ddb8b6783d78ae3d237978cc4",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-a2-audio-m-1.0.3.zip",
+     "size": 16280089,
+     "sha256": "1d3795194855ed77a2314ea35343df692c225ad06c385958c1284fe5293fd2d9",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-a2-audio-m-1.0.4.zip",
      "channel": "stable",
-     "notes": "sr-ru-a2-audio-m-1.0.2.zip",
-     "sig": "2zSun/qiOXbpo4qD2+zHewO9tt/g7xa9OPNmZ1B6xQHz9nhUBU4sFxY+5Vh3qSFllujQ59WefXKbWTxZaQaXBg=="
+     "notes": "предыдущая: sr-ru-a2-audio-m-1.0.3.zip"
     },
     {
      "id": "sr-ru-b1-audio-f",
@@ -202,18 +198,17 @@
      "target": "sr",
      "voice": "f",
      "title": "Сербский — уровень B1 · озвучка, женский голос",
-     "version": "1.0.3",
+     "version": "1.0.4",
      "requiresCoreApi": 1,
      "level": "B1",
      "requires": [
       "sr-ru-b1"
      ],
-     "size": 27399969,
-     "sha256": "3b4838a78e829095158f67ec97b1d5144b6e54d9b82be8313077905d4d45c40b",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b1-audio-f-1.0.3.zip",
+     "size": 27385683,
+     "sha256": "935d093c83da75dbfd3f956bdb31d0bace4775230be7fa429674709add2b76c6",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-b1-audio-f-1.0.4.zip",
      "channel": "stable",
-     "notes": "sr-ru-b1-audio-f-1.0.2.zip",
-     "sig": "OXV0FOUMC/5sjZjDV3Tn9Cos2kIsbX/LRECRoMwJJheXOWhh6dm/EbFZdJnzKQfjlKKyZmD2XH/LKpRtgGXnAQ=="
+     "notes": "предыдущая: sr-ru-b1-audio-f-1.0.3.zip"
     },
     {
      "id": "sr-ru-b1-audio-m",
@@ -222,18 +217,17 @@
      "target": "sr",
      "voice": "m",
      "title": "Сербский — уровень B1 · озвучка, мужской голос",
-     "version": "1.0.3",
+     "version": "1.0.4",
      "requiresCoreApi": 1,
      "level": "B1",
      "requires": [
       "sr-ru-b1"
      ],
-     "size": 26730207,
-     "sha256": "f0b6378d1830f57a9f32659b6a24a8d590b640d98872073ef58f347edd4e240e",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b1-audio-m-1.0.3.zip",
+     "size": 26714542,
+     "sha256": "3ec0260ecf72bb5e1f40c5ca5270542f98058cf10f1424300de1e84a1fa6f281",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-b1-audio-m-1.0.4.zip",
      "channel": "stable",
-     "notes": "sr-ru-b1-audio-m-1.0.2.zip",
-     "sig": "dqv6Fm6v1XDbqOGVytRpQSLnRARR6qCpBg9oLebDuJppcmBr8knaYuHzso/odNQFuTRk0MZHDHPZdNADEmmZCQ=="
+     "notes": "предыдущая: sr-ru-b1-audio-m-1.0.3.zip"
     },
     {
      "id": "sr-ru-b2-audio-f",
@@ -242,18 +236,17 @@
      "target": "sr",
      "voice": "f",
      "title": "Сербский — уровень B2 · озвучка, женский голос",
-     "version": "1.0.1",
+     "version": "1.0.2",
      "requiresCoreApi": 1,
      "level": "B2",
      "requires": [
       "sr-ru-b2"
      ],
-     "size": 55218144,
-     "sha256": "1637d1411b1598aa1f7ee8edb894331735be30d8444b2f2e6259f7e909969545",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-audio-f-1.0.1.zip",
+     "size": 55195451,
+     "sha256": "59e3c29e039b0cb2f7f70fc6343e352d2b5847f8f2b5d1a38f92b975f8c519b0",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.0/sr-ru-b2-audio-f-1.0.2.zip",
      "channel": "stable",
-     "notes": "Этап 3c.1 (инструкция №8): озвучка уровня; байт-identity с вшитой 2.53.1; гейты: verify deep + ASR-выборка (0 REJECT)",
-     "sig": "HybLLTnKCfh2U+tTE+zdZXyoNGzR1403rIUdHUZ91DEGo0hKOiJTr0mhi81uRfolkrB5H15mkPm3Sfiox3acBw=="
+     "notes": "предыдущая: sr-ru-b2-audio-f-1.0.1.zip"
     },
     {
      "id": "sr-ru-b2-audio-m",
@@ -500,6 +493,5 @@
    "notes": "Стартовый пакет: 569 слов A1, алфавит/транслитерация, категории, синонимы, аудио-оглавление (1151 ключ). Формат — docs/contracts/pack.schema.json (этап 3, инструкция №6 B4).",
    "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
   }
- ],
- "sig": "WMKVz0Xn+S9PxeGvZIZxl55X6OJdhw0D4EekKzsYvbFZsrQ2w+fmiIoxeSI3aVNja1NTveZ0fusTKdhqekr9BA=="
+ ]
 }
