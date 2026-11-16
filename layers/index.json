@@ -1,6 +1,6 @@
 {
   "indexVersion": 1,
-  "generatedAt": "2026-11-16T00:44:23Z",
+  "generatedAt": "2026-11-16T00:54:25Z",
   "stable": {
     "core": {
       "layer": "core",
@@ -16,8 +16,8 @@
       ],
       "sha256": "bbe63539390362a8511183166c60bc89c0d7f55704bf30da40f819d5446e9855",
       "size": 10956,
-      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/layers-505/core-505.zip",
-      "sig": "H2wVDzNQgZG3mp5prQ2vhGIzHSs2rtRdtwCuKXYSMo9qLk4lM8WTld2TQWbzgfCyBrR5KS5+Y11nH9VKULM1AQ=="
+      "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/core-505.zip",
+      "sig": "Wa9rNKhnNinq8aEy6K52gn/B1HnObxl+Np/ddPc65B7C9eWU5RMN9tUF7YnQVgkkWkOEpAUSbXmyvwXPzrF4Dw=="
     },
     "ui": {
       "layer": "ui",
@@ -357,8 +357,8 @@
       ],
       "sha256": "70fab39ffa12b4b162265523d79604334a4bcbfd5a7f3c28ebfd96aee17ef274",
       "size": 8995780,
-      "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/layers-505/ui-505.zip",
-      "sig": "cHDOw11CcAqyWwdNrSrkBG2mc9PgWRUs50OfhQSZj++5Fvz7WB2+2I0IRhgAqpRns8i+z19lYSsjQgizyVAgAw=="
+      "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/ui-505.zip",
+      "sig": "mD3MsWtqwHf5zI8RBhDPaempgWUsZFMGmcrfTmBlvN/aajTZdN/fc6+iL9tfycBExjhkVm2MGVg5manw2+fBBw=="
     }
   }
 }
