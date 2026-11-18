@@ -139,7 +139,7 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.5.zip"
           ],
-          "sig": "LgMdYXxNUJBieyC0fPNxCoEmclWsOdi+jFLvbB/Rfc+MpkIAuHHamHlnjFVcKEHqIKWf41HdnQrCjj4HiF+ODg=="
+          "sig": "i/5tmEDOEb+Uo6NE5hgSdMFD8hqKD/WHq45VuNupPjZCmOEL5BSvY1z8fOYFD4OeFXuJpuFZxM6G++jTG3myAQ=="
         },
         {
           "id": "sr-ru-a1-audio-m",
@@ -162,7 +162,7 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.5.zip"
           ],
-          "sig": "UooirMn/orYYTtDVUCbpu18npSEMhzZItZy2qweSm1phSAbjz2i++953w8Th31MZM0zpvq7KP+Ik1Wv50PY1CA=="
+          "sig": "aKjj0ckM8N8oySW1BMvoOesPij+Pmp36if82lid17eeG6zubQ1HTTh2KFDMUha0iNKD+HaN7xJOdQXIgHBD8Ag=="
         },
         {
           "id": "sr-ru-a2-audio-f",
@@ -185,7 +185,7 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.5.zip"
           ],
-          "sig": "hEpRU/bRkbb3gPpucfry2BgtM0Rr9bvBad07oypFvjDiI7nZqDqY20Esg+gnhc2Om1N636Eq91EurXDNn+moCw=="
+          "sig": "aQPhGmmDb4yQQ3g/OCMr9xghA9xmR4oLvgdcVh/zX9TPrlZLvmmzX2ci8kPjOl1RtHZP7UwydWR3l1lSKjubBg=="
         },
         {
           "id": "sr-ru-a2-audio-m",
@@ -208,7 +208,7 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.5.zip"
           ],
-          "sig": "2Kh0TNfOqQF1ia9agPha/hhqtGlEsrsWCY4fsSqlwCgFnZWxzGNVPWFH9CLuDZLUpDkOiYoHZZjEE/ILzjwPBw=="
+          "sig": "9T9Td6TFBU24st34ed5u1+QeM/AsD/Eaiqv6/lEnvvzHaXY0KjLUh6Kn3SlXt1bUnVxhYi17DBcATYd+oSfeBg=="
         },
         {
           "id": "sr-ru-b1-audio-f",
@@ -231,7 +231,7 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.5.zip"
           ],
-          "sig": "oiIMuWuUA4dO+DfrgVazKre2jNJCTRbMswgo/D/2BsCzHz/DIlEuX899sH4Qkzq8ytvrmgrSYdFLswEstvmoBQ=="
+          "sig": "sGT2NC/eRhPLKdlm/1coT07bxeWIJPmAYoUWaqDscH+lrTdDOGqj1HmBc3IFghBpQUNE+z1zolxJVymtBxb6CA=="
         },
         {
           "id": "sr-ru-b1-audio-m",
@@ -254,7 +254,7 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.5.zip"
           ],
-          "sig": "6UlIYHt/OVxPtnevqtEBqP/yvudFJJR9+MrXh7u/7fbWWXRocly0TmPd37f244JsSpgG+D5tN1F10v4dyD7YBQ=="
+          "sig": "jihtMtHDbQQVp4WDTAsc7guJyuzBcaxuz2wi1XScr/nFCMSHCHdRsFFQAUgpAIjeVTL61TYM4FzxNs8GvGAuCw=="
         },
         {
           "id": "sr-ru-b2-audio-f",
@@ -277,7 +277,7 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.3.zip"
           ],
-          "sig": "KKRsOjfYUrFYY2h7JA6wYV1T+WffxvHx1YkLjQcyDqGz0bR+ejNMrSqczrYcMurZkuPetKMgD//MupN+SJyCBw=="
+          "sig": "3jtqvNmi95pHyVeLzpkqZQ2yfT0hMMJMpM4vbNNZKQzngW/t7ypSwsLa2ARqnJuU0gweWwUGTSPgFFHxZ0G9AA=="
         },
         {
           "id": "sr-ru-b2-audio-m",
@@ -525,5 +525,5 @@
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
   ],
-  "sig": "lw0tr2c+VLqHVmZ+fgrOUHzyETOaF+pKduAz9SdOcIp/Pq+qMkQLLybyJMtIv/+G7lvWwTbZXplwzBbrWYDdCQ=="
+  "sig": "JbeCM3HxY7JYo4F6iySkLW07WuLGV0X+zcOxmgbDF5IbAx901klJULXerMd8WHFCsQ9QeI5nlBoDp598i9bbAA=="
 }
