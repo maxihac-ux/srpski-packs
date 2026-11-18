@@ -234,7 +234,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.5.zip"
           ],
-          "sig": "aKjj0ckM8N8oySW1BMvoOesPij+Pmp36if82lid17eeG6zubQ1HTTh2KFDMUha0iNKD+HaN7xJOdQXIgHBD8Ag==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.5.files.json",
           "filesManifestSha256": "3b950dd9e85edacb97281b125607d45635927f853dd92e2fa685da972978f869",
           "deltas": [
@@ -288,7 +287,8 @@
               "size": 78886,
               "sha256": "ff30405c105d464615e17911f6e0ac1cdab814f6a6a162ed1b6931a3bd69ea29"
             }
-          ]
+          ],
+          "sig": "aKjj0ckM8N8oySW1BMvoOesPij+Pmp36if82lid17eeG6zubQ1HTTh2KFDMUha0iNKD+HaN7xJOdQXIgHBD8Ag=="
         },
         {
           "id": "sr-ru-a2-audio-f",
@@ -311,7 +311,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.5.zip"
           ],
-          "sig": "aQPhGmmDb4yQQ3g/OCMr9xghA9xmR4oLvgdcVh/zX9TPrlZLvmmzX2ci8kPjOl1RtHZP7UwydWR3l1lSKjubBg==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.5.files.json",
           "filesManifestSha256": "104755dbbee53c566d6b63d84fbea32c263ee8d60bb2fd613c94d7e363678084",
           "deltas": [
@@ -365,7 +364,8 @@
               "size": 197612,
               "sha256": "7c25672b428618c6896bd0133d9b72bc31f76ce5b5e0a935c4803f81bc7cbe32"
             }
-          ]
+          ],
+          "sig": "aQPhGmmDb4yQQ3g/OCMr9xghA9xmR4oLvgdcVh/zX9TPrlZLvmmzX2ci8kPjOl1RtHZP7UwydWR3l1lSKjubBg=="
         },
         {
           "id": "sr-ru-a2-audio-m",
@@ -483,7 +483,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.5.zip"
           ],
-          "sig": "sGT2NC/eRhPLKdlm/1coT07bxeWIJPmAYoUWaqDscH+lrTdDOGqj1HmBc3IFghBpQUNE+z1zolxJVymtBxb6CA==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.5.files.json",
           "filesManifestSha256": "89f182b0778d3efaab38a044575b46e106e05eb012e783611b62f39c33a8059d",
           "deltas": [
@@ -537,7 +536,8 @@
               "size": 190503,
               "sha256": "61cafd0525ab9ee7a94f93a54b7efe9989e4d60f5c56a0e7748975bfad833701"
             }
-          ]
+          ],
+          "sig": "sGT2NC/eRhPLKdlm/1coT07bxeWIJPmAYoUWaqDscH+lrTdDOGqj1HmBc3IFghBpQUNE+z1zolxJVymtBxb6CA=="
         },
         {
           "id": "sr-ru-b1-audio-m",
@@ -560,7 +560,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.5.zip"
           ],
-          "sig": "jihtMtHDbQQVp4WDTAsc7guJyuzBcaxuz2wi1XScr/nFCMSHCHdRsFFQAUgpAIjeVTL61TYM4FzxNs8GvGAuCw==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.5.files.json",
           "filesManifestSha256": "672f69cb7df50e7bc42803c7dd30c71f793e88ed4c1b11fe1d11dd821b9ae210",
           "deltas": [
@@ -614,7 +613,8 @@
               "size": 61214,
               "sha256": "72943f848a342d0032ad8d22989109e6ff2155d8c34076bcda6fb987d9e7b9e0"
             }
-          ]
+          ],
+          "sig": "jihtMtHDbQQVp4WDTAsc7guJyuzBcaxuz2wi1XScr/nFCMSHCHdRsFFQAUgpAIjeVTL61TYM4FzxNs8GvGAuCw=="
         },
         {
           "id": "sr-ru-b2-audio-f",
@@ -709,7 +709,6 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-audio-m-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-b2-audio-m-1.0.1.zip",
-          "sig": "6f7QE6XX7w727+TCIX19+/iLE5BBiuexRRyX479li8vwrbtlKAbjlBa6ro3HdhOYkh1No8DKd8wFguYmUieeBg==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-m-1.0.2.files.json",
           "filesManifestSha256": "3f80224b817b30e1a2bd852418daaa3f78463d64e635d7b678036d81cdcb6049",
           "deltas": [
@@ -733,7 +732,8 @@
               "size": 111183,
               "sha256": "b4e42d303b57b0638388874b26fe3c94c8a81abeacad451bbbbeaa5388f5a661"
             }
-          ]
+          ],
+          "sig": "6f7QE6XX7w727+TCIX19+/iLE5BBiuexRRyX479li8vwrbtlKAbjlBa6ro3HdhOYkh1No8DKd8wFguYmUieeBg=="
         },
         {
           "id": "sr-ru-qa-a2-1",
@@ -961,5 +961,5 @@
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
   ],
-  "sig": "krAM+EPub5gTtV2aY3PMFZsBXPB85wflIF3SiJeBOCF8xFwHDUFwcIph28ZuPf55VaYTfKM0PjC/vRbYqua7Dw=="
+  "sig": "jaseyr71w8nxlwpMEfNyzdbRtZ3ODpp6szk8RtcV5HuP0j61+hsnFnfUtr7cAcd3yRBmlSHQXj+2cFOYPHGRCw=="
 }
