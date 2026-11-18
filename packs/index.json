@@ -147,9 +147,49 @@
               "№40 party A: voice “četvrtak” (w106) — owner-approved candidate №39 (sim 1.0)"
             ]
           },
-          "filesManifestUrl": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.6.files.json",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-f-1.0.6.files.json",
           "filesManifestSha256": "bdc9877a45b0e4cbc3f81020fee5c83e71b261581a17eb2ab0db8530430e07f8",
           "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-f-1.0.0-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.0-to-1.0.6.delta.zip"
+              ],
+              "size": 307303,
+              "sha256": "0abf2cc387f96b94c262894e56e75dd4ac1f3c646e07d644e6a45e146ad24261"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-f-1.0.1-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.1-to-1.0.6.delta.zip"
+              ],
+              "size": 296757,
+              "sha256": "a2626e6f216cc7a6049aadc703d0c94a1720502d74b62365896cd43d5e75420c"
+            },
+            {
+              "from": "1.0.2",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-f-1.0.2-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.2-to-1.0.6.delta.zip"
+              ],
+              "size": 159030,
+              "sha256": "bd712016595379454beb28413a71f09a4dca9336d2d0d0dd24b40849accdddfe"
+            },
+            {
+              "from": "1.0.3",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-f-1.0.3-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.3-to-1.0.6.delta.zip"
+              ],
+              "size": 152903,
+              "sha256": "e7bb91be5a8ccbe15be0aabe718749963ce4ca853f4b34bd4837397cb9b9f2f1"
+            },
             {
               "from": "1.0.4",
               "to": "1.0.6",
@@ -194,7 +234,61 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.5.zip"
           ],
-          "sig": "aKjj0ckM8N8oySW1BMvoOesPij+Pmp36if82lid17eeG6zubQ1HTTh2KFDMUha0iNKD+HaN7xJOdQXIgHBD8Ag=="
+          "sig": "aKjj0ckM8N8oySW1BMvoOesPij+Pmp36if82lid17eeG6zubQ1HTTh2KFDMUha0iNKD+HaN7xJOdQXIgHBD8Ag==",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.5.files.json",
+          "filesManifestSha256": "3b950dd9e85edacb97281b125607d45635927f853dd92e2fa685da972978f869",
+          "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.0-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.0-to-1.0.5.delta.zip"
+              ],
+              "size": 438658,
+              "sha256": "ba40a1410b0ca2fb7d36c443768e4355f7abac2ffaff36c648ba1eb89e21aadf"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.1-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.1-to-1.0.5.delta.zip"
+              ],
+              "size": 256587,
+              "sha256": "873b43b559650807376a5fc5106bebf108587533ec22fb879d47ec6452d3ca6b"
+            },
+            {
+              "from": "1.0.2",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.2-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.2-to-1.0.5.delta.zip"
+              ],
+              "size": 243884,
+              "sha256": "5c1f80cddbfe9ddf55ef3c0c6d8d0260eb28387da0118c9ecdb78b5d38e27372"
+            },
+            {
+              "from": "1.0.3",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.3-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.3-to-1.0.5.delta.zip"
+              ],
+              "size": 110481,
+              "sha256": "73cd94e246d935c17b2f3376b7633bec22f563821f36e214a31dd86fb0c2d06e"
+            },
+            {
+              "from": "1.0.4",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.4-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.4-to-1.0.5.delta.zip"
+              ],
+              "size": 78886,
+              "sha256": "ff30405c105d464615e17911f6e0ac1cdab814f6a6a162ed1b6931a3bd69ea29"
+            }
+          ]
         },
         {
           "id": "sr-ru-a2-audio-f",
@@ -217,7 +311,61 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.5.zip"
           ],
-          "sig": "aQPhGmmDb4yQQ3g/OCMr9xghA9xmR4oLvgdcVh/zX9TPrlZLvmmzX2ci8kPjOl1RtHZP7UwydWR3l1lSKjubBg=="
+          "sig": "aQPhGmmDb4yQQ3g/OCMr9xghA9xmR4oLvgdcVh/zX9TPrlZLvmmzX2ci8kPjOl1RtHZP7UwydWR3l1lSKjubBg==",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.5.files.json",
+          "filesManifestSha256": "104755dbbee53c566d6b63d84fbea32c263ee8d60bb2fd613c94d7e363678084",
+          "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.0-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.0-to-1.0.5.delta.zip"
+              ],
+              "size": 325878,
+              "sha256": "0327c4f468c2f82a5d91047d012c1106f5ffc43e1d238126f44be345aebfd4bb"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.1-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.1-to-1.0.5.delta.zip"
+              ],
+              "size": 318978,
+              "sha256": "888490a69281a6f6145228ff4598de9f235300f353d0753314d05d3119eeeed5"
+            },
+            {
+              "from": "1.0.2",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.2-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.2-to-1.0.5.delta.zip"
+              ],
+              "size": 275115,
+              "sha256": "3c339a7b0b3879b4b4d0e20d8075db0dfcfd1501cc069543f0b126fcb1e394e9"
+            },
+            {
+              "from": "1.0.3",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.3-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.3-to-1.0.5.delta.zip"
+              ],
+              "size": 236012,
+              "sha256": "cf0f57643c578c75ebe8a6747d2d13496ebd9dd1bddc4a946207dc3225d5b212"
+            },
+            {
+              "from": "1.0.4",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.4-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.4-to-1.0.5.delta.zip"
+              ],
+              "size": 197612,
+              "sha256": "7c25672b428618c6896bd0133d9b72bc31f76ce5b5e0a935c4803f81bc7cbe32"
+            }
+          ]
         },
         {
           "id": "sr-ru-a2-audio-m",
@@ -248,9 +396,49 @@
               "№40 party A: voice “ukljuciti” (w967) — gate v3 synthesis (sim 1.0)"
             ]
           },
-          "filesManifestUrl": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.6.files.json",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-m-1.0.6.files.json",
           "filesManifestSha256": "713c30a098338d42afc476e39e8b7559e3f828189d629f1163b4d2a32a99e298",
           "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-m-1.0.0-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.0-to-1.0.6.delta.zip"
+              ],
+              "size": 268436,
+              "sha256": "1a3183e66a53023838fae74ec333ea9f320a7ab5823110f1e2c6d722ee787718"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-m-1.0.1-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.1-to-1.0.6.delta.zip"
+              ],
+              "size": 261448,
+              "sha256": "8aaf8c1d7c513f86f131e8c9277cfb9184127bd4d2bbd6bef26f335de88268c9"
+            },
+            {
+              "from": "1.0.2",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-m-1.0.2-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.2-to-1.0.6.delta.zip"
+              ],
+              "size": 218488,
+              "sha256": "495a44918d2e7c50f7f4233712e4396fa377652bb4198a89a3ed6b7128601d10"
+            },
+            {
+              "from": "1.0.3",
+              "to": "1.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-m-1.0.3-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.3-to-1.0.6.delta.zip"
+              ],
+              "size": 179511,
+              "sha256": "64164125bd766fcb4ab18b7f9bb36f16cbe4aa790443902560f6a03f12ace903"
+            },
             {
               "from": "1.0.4",
               "to": "1.0.6",
@@ -295,7 +483,61 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.5.zip"
           ],
-          "sig": "sGT2NC/eRhPLKdlm/1coT07bxeWIJPmAYoUWaqDscH+lrTdDOGqj1HmBc3IFghBpQUNE+z1zolxJVymtBxb6CA=="
+          "sig": "sGT2NC/eRhPLKdlm/1coT07bxeWIJPmAYoUWaqDscH+lrTdDOGqj1HmBc3IFghBpQUNE+z1zolxJVymtBxb6CA==",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.5.files.json",
+          "filesManifestSha256": "89f182b0778d3efaab38a044575b46e106e05eb012e783611b62f39c33a8059d",
+          "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.0-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.0-to-1.0.5.delta.zip"
+              ],
+              "size": 305952,
+              "sha256": "71d70bcedc0ef6c87e56d6e92d518414496928767c03005ef2efff6b2090b7a7"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.1-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.1-to-1.0.5.delta.zip"
+              ],
+              "size": 301388,
+              "sha256": "417d201a03fee982d0c903426ca0e4f95bc82a052e38450c03e48309b42412ae"
+            },
+            {
+              "from": "1.0.2",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.2-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.2-to-1.0.5.delta.zip"
+              ],
+              "size": 273617,
+              "sha256": "fcac4c8189f468953aecfbca27f8aaedf834d07717f5a258ae8b67dbd0e71a47"
+            },
+            {
+              "from": "1.0.3",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.3-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.3-to-1.0.5.delta.zip"
+              ],
+              "size": 206528,
+              "sha256": "bcea6289f74bde52f513e8f5011e4aaee4aa8843a18e9fdb919fea11096a28dc"
+            },
+            {
+              "from": "1.0.4",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.4-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.4-to-1.0.5.delta.zip"
+              ],
+              "size": 190503,
+              "sha256": "61cafd0525ab9ee7a94f93a54b7efe9989e4d60f5c56a0e7748975bfad833701"
+            }
+          ]
         },
         {
           "id": "sr-ru-b1-audio-m",
@@ -318,7 +560,61 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.5.zip"
           ],
-          "sig": "jihtMtHDbQQVp4WDTAsc7guJyuzBcaxuz2wi1XScr/nFCMSHCHdRsFFQAUgpAIjeVTL61TYM4FzxNs8GvGAuCw=="
+          "sig": "jihtMtHDbQQVp4WDTAsc7guJyuzBcaxuz2wi1XScr/nFCMSHCHdRsFFQAUgpAIjeVTL61TYM4FzxNs8GvGAuCw==",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.5.files.json",
+          "filesManifestSha256": "672f69cb7df50e7bc42803c7dd30c71f793e88ed4c1b11fe1d11dd821b9ae210",
+          "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.0-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.0-to-1.0.5.delta.zip"
+              ],
+              "size": 177610,
+              "sha256": "716c800aa9d7fc313079c8164e8f72839c3abab2509248ac324c06278179a56a"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.1-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.1-to-1.0.5.delta.zip"
+              ],
+              "size": 173294,
+              "sha256": "c6575796c4b8a862db5dad7941b433272796b8d1330fa0cf033deaab59ddb418"
+            },
+            {
+              "from": "1.0.2",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.2-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.2-to-1.0.5.delta.zip"
+              ],
+              "size": 148346,
+              "sha256": "68df99b03cec02189709900acc30b64a52329b07310a3cf0411e00a9c94ba70f"
+            },
+            {
+              "from": "1.0.3",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.3-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.3-to-1.0.5.delta.zip"
+              ],
+              "size": 77413,
+              "sha256": "a5048c2e32fb78e45a96dc297db4126d8e5dab4bb143609c283f846e30eeac0e"
+            },
+            {
+              "from": "1.0.4",
+              "to": "1.0.5",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.4-to-1.0.5.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.4-to-1.0.5.delta.zip"
+              ],
+              "size": 61214,
+              "sha256": "72943f848a342d0032ad8d22989109e6ff2155d8c34076bcda6fb987d9e7b9e0"
+            }
+          ]
         },
         {
           "id": "sr-ru-b2-audio-f",
@@ -349,9 +645,29 @@
               "№40 party A: voices “gneždjenje” (w4257) and “izlečenje” (w4624) — gate v3 synthesis"
             ]
           },
-          "filesManifestUrl": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.4.files.json",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-f-1.0.4.files.json",
           "filesManifestSha256": "115c80753a27ca75db8a81a4eaa8e66bc1fd0d721e5a43b01bb06ba004bfbd46",
           "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.4",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-f-1.0.0-to-1.0.4.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.0-to-1.0.4.delta.zip"
+              ],
+              "size": 506413,
+              "sha256": "174cf0c8273a49a0585e17d52a5f99ecd2c02343d15821f82290265e271607cc"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.4",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-f-1.0.1-to-1.0.4.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.1-to-1.0.4.delta.zip"
+              ],
+              "size": 403955,
+              "sha256": "23ef3e531ecc3c55c8a778c3276230a7cc48571fd8f33820089a0137af742c93"
+            },
             {
               "from": "1.0.2",
               "to": "1.0.4",
@@ -393,7 +709,31 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-audio-m-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-b2-audio-m-1.0.1.zip",
-          "sig": "6f7QE6XX7w727+TCIX19+/iLE5BBiuexRRyX479li8vwrbtlKAbjlBa6ro3HdhOYkh1No8DKd8wFguYmUieeBg=="
+          "sig": "6f7QE6XX7w727+TCIX19+/iLE5BBiuexRRyX479li8vwrbtlKAbjlBa6ro3HdhOYkh1No8DKd8wFguYmUieeBg==",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-m-1.0.2.files.json",
+          "filesManifestSha256": "3f80224b817b30e1a2bd852418daaa3f78463d64e635d7b678036d81cdcb6049",
+          "deltas": [
+            {
+              "from": "1.0.0",
+              "to": "1.0.2",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-m-1.0.0-to-1.0.2.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-m-1.0.0-to-1.0.2.delta.zip"
+              ],
+              "size": 151619,
+              "sha256": "8a0bd23dcf59f2d8996a5657abe63500e6730c66e930b1228e8d60e709f7c7c4"
+            },
+            {
+              "from": "1.0.1",
+              "to": "1.0.2",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-m-1.0.1-to-1.0.2.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-m-1.0.1-to-1.0.2.delta.zip"
+              ],
+              "size": 111183,
+              "sha256": "b4e42d303b57b0638388874b26fe3c94c8a81abeacad451bbbbeaa5388f5a661"
+            }
+          ]
         },
         {
           "id": "sr-ru-qa-a2-1",
