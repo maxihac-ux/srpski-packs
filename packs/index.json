@@ -139,7 +139,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.6.zip"
           ],
-          "sig": "i/5tmEDOEb+Uo6NE5hgSdMFD8hqKD/WHq45VuNupPjZCmOEL5BSvY1z8fOYFD4OeFXuJpuFZxM6G++jTG3myAQ==",
           "changelog": {
             "ru": [
               "№40 партия A: озвучка «četvrtak» (w106) — утверждённый владельцем кандидат №39 (sim 1.0, гейт v3)"
@@ -171,7 +170,8 @@
               "size": 6205,
               "sha256": "1900fa02c9190403f6ddddf0a2c1115d475bd1bd47c793f09472beea57c3d083"
             }
-          ]
+          ],
+          "sig": "gKL//aS1cpSkkM6mtl3+DTeYOMILmCVmDNRS6CKsB+hfLHiQHsaEK6VVaTLZ2VB9HruegoQTp0xvY9KB6hQjDA=="
         },
         {
           "id": "sr-ru-a1-audio-m",
@@ -240,7 +240,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.6.zip"
           ],
-          "sig": "9T9Td6TFBU24st34ed5u1+QeM/AsD/Eaiqv6/lEnvvzHaXY0KjLUh6Kn3SlXt1bUnVxhYi17DBcATYd+oSfeBg==",
           "changelog": {
             "ru": [
               "№40 партия A: озвучка «укључити» (w967) — синтез гейтом v3 (sim 1.0)"
@@ -272,7 +271,8 @@
               "size": 5985,
               "sha256": "9b888e1234bae6a391cec6d1bbb14f60f9d5a8b73f88a987f8df14d035148471"
             }
-          ]
+          ],
+          "sig": "AX9sjrbWuqr7J15QAv5jRDa0mvCsmLtZ1rguVlRVd2CHMW3zeJSAYOkOPyBf0rPJU3q2SZVAv2YXmyzQwQtGDQ=="
         },
         {
           "id": "sr-ru-b1-audio-f",
@@ -341,7 +341,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.4.zip"
           ],
-          "sig": "3jtqvNmi95pHyVeLzpkqZQ2yfT0hMMJMpM4vbNNZKQzngW/t7ypSwsLa2ARqnJuU0gweWwUGTSPgFFHxZ0G9AA==",
           "changelog": {
             "ru": [
               "№40 партия A: озвучка «гнежђење» (w4257) и «излечење» (w4624) — синтез гейтом v3 (0.737 / 0.842)"
@@ -373,7 +372,8 @@
               "size": 11483,
               "sha256": "d0888a9d3a9950875b78578b19323d51bc4cd93f3a6a245d269144a5586afda6"
             }
-          ]
+          ],
+          "sig": "WiBRyRI/UMZ4NfOySvqNmCRERboBov72CoxhzSPfijWUg5rlVPI9Leqqq+rpFTYJ+1fo+Z7RHg3ZVSIJO1BJDA=="
         },
         {
           "id": "sr-ru-b2-audio-m",
@@ -621,5 +621,5 @@
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
   ],
-  "sig": "JbeCM3HxY7JYo4F6iySkLW07WuLGV0X+zcOxmgbDF5IbAx901klJULXerMd8WHFCsQ9QeI5nlBoDp598i9bbAA=="
+  "sig": "krAM+EPub5gTtV2aY3PMFZsBXPB85wflIF3SiJeBOCF8xFwHDUFwcIph28ZuPf55VaYTfKM0PjC/vRbYqua7Dw=="
 }
