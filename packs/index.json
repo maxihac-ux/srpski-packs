@@ -125,21 +125,53 @@
           "target": "sr",
           "voice": "f",
           "title": "Сербский — уровень A1 · озвучка, женский голос",
-          "version": "1.0.5",
+          "version": "1.0.6",
           "requiresCoreApi": 1,
           "level": "A1",
           "requires": [
             "sr-ru-a1"
           ],
-          "size": 8254963,
-          "sha256": "1355591d052b4d0489a83f10d01525fd1a9e183a61673d2e51dfb77be3a93871",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.1/sr-ru-a1-audio-f-1.0.5.zip",
+          "size": 8854015,
+          "sha256": "50138d10d0063b32b7b94199b26bb14f50de81f8fd7e3d61f4da315fdecd5625",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a1-audio-f-1.0.6.zip",
           "channel": "stable",
-          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5)",
+          "notes": "№40 Партия A (защитные замены, страж 0 нарушений)",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.5.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.6.zip"
           ],
-          "sig": "i/5tmEDOEb+Uo6NE5hgSdMFD8hqKD/WHq45VuNupPjZCmOEL5BSvY1z8fOYFD4OeFXuJpuFZxM6G++jTG3myAQ=="
+          "sig": "i/5tmEDOEb+Uo6NE5hgSdMFD8hqKD/WHq45VuNupPjZCmOEL5BSvY1z8fOYFD4OeFXuJpuFZxM6G++jTG3myAQ==",
+          "changelog": {
+            "ru": [
+              "№40 партия A: озвучка «četvrtak» (w106) — утверждённый владельцем кандидат №39 (sim 1.0, гейт v3)"
+            ],
+            "en": [
+              "№40 party A: voice “četvrtak” (w106) — owner-approved candidate №39 (sim 1.0)"
+            ]
+          },
+          "filesManifestUrl": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.6.files.json",
+          "filesManifestSha256": "bdc9877a45b0e4cbc3f81020fee5c83e71b261581a17eb2ab0db8530430e07f8",
+          "deltas": [
+            {
+              "from": "1.0.4",
+              "to": "1.0.6",
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a1-audio-f-1.0.4-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.4-to-1.0.6.delta.zip"
+              ],
+              "size": 96682,
+              "sha256": "3ba551de6228dd56c36a19775deff6010ae2bb8a7a2eb871dfbde7763c360037"
+            },
+            {
+              "from": "1.0.5",
+              "to": "1.0.6",
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a1-audio-f-1.0.5-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.5-to-1.0.6.delta.zip"
+              ],
+              "size": 6205,
+              "sha256": "1900fa02c9190403f6ddddf0a2c1115d475bd1bd47c793f09472beea57c3d083"
+            }
+          ]
         },
         {
           "id": "sr-ru-a1-audio-m",
@@ -194,21 +226,53 @@
           "target": "sr",
           "voice": "m",
           "title": "Сербский — уровень A2 · озвучка, мужской голос",
-          "version": "1.0.5",
+          "version": "1.0.6",
           "requiresCoreApi": 1,
           "level": "A2",
           "requires": [
             "sr-ru-a2"
           ],
-          "size": 15207856,
-          "sha256": "91236b24e4df911fdb89fa925beaf11de25dcdeefb42fe7a2b1f8e345d7f4d92",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.1/sr-ru-a2-audio-m-1.0.5.zip",
+          "size": 16300757,
+          "sha256": "a7cf3af4a01af04d3d8d9b223818bb2564350b5e530b93c00b56f69c1cfa4a73",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a2-audio-m-1.0.6.zip",
           "channel": "stable",
-          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5)",
+          "notes": "№40 Партия A (защитные замены, страж 0 нарушений)",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.5.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.6.zip"
           ],
-          "sig": "9T9Td6TFBU24st34ed5u1+QeM/AsD/Eaiqv6/lEnvvzHaXY0KjLUh6Kn3SlXt1bUnVxhYi17DBcATYd+oSfeBg=="
+          "sig": "9T9Td6TFBU24st34ed5u1+QeM/AsD/Eaiqv6/lEnvvzHaXY0KjLUh6Kn3SlXt1bUnVxhYi17DBcATYd+oSfeBg==",
+          "changelog": {
+            "ru": [
+              "№40 партия A: озвучка «укључити» (w967) — синтез гейтом v3 (sim 1.0)"
+            ],
+            "en": [
+              "№40 party A: voice “ukljuciti” (w967) — gate v3 synthesis (sim 1.0)"
+            ]
+          },
+          "filesManifestUrl": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.6.files.json",
+          "filesManifestSha256": "713c30a098338d42afc476e39e8b7559e3f828189d629f1163b4d2a32a99e298",
+          "deltas": [
+            {
+              "from": "1.0.4",
+              "to": "1.0.6",
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a2-audio-m-1.0.4-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.4-to-1.0.6.delta.zip"
+              ],
+              "size": 154293,
+              "sha256": "80d5c2f936e1ef2cecba97072d4c80418444c31e7d08d6d13770a3b2cfb793f3"
+            },
+            {
+              "from": "1.0.5",
+              "to": "1.0.6",
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a2-audio-m-1.0.5-to-1.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.5-to-1.0.6.delta.zip"
+              ],
+              "size": 5985,
+              "sha256": "9b888e1234bae6a391cec6d1bbb14f60f9d5a8b73f88a987f8df14d035148471"
+            }
+          ]
         },
         {
           "id": "sr-ru-b1-audio-f",
@@ -263,21 +327,53 @@
           "target": "sr",
           "voice": "f",
           "title": "Сербский — уровень B2 · озвучка, женский голос",
-          "version": "1.0.3",
+          "version": "1.0.4",
           "requiresCoreApi": 1,
           "level": "B2",
           "requires": [
             "sr-ru-b2"
           ],
-          "size": 52297765,
-          "sha256": "4aa510a5cdf23370bc0f512d7027228f12c67eebe3843a49bbff39a0c286ad58",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.1/sr-ru-b2-audio-f-1.0.3.zip",
+          "size": 54873910,
+          "sha256": "d7f077fc6ecc8c632c803de2d0c55cc30115af8578f7267785b1ef3968ec8c3a",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-b2-audio-f-1.0.4.zip",
           "channel": "stable",
-          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.3)",
+          "notes": "№40 Партия A (защитные замены, страж 0 нарушений)",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.3.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.4.zip"
           ],
-          "sig": "3jtqvNmi95pHyVeLzpkqZQ2yfT0hMMJMpM4vbNNZKQzngW/t7ypSwsLa2ARqnJuU0gweWwUGTSPgFFHxZ0G9AA=="
+          "sig": "3jtqvNmi95pHyVeLzpkqZQ2yfT0hMMJMpM4vbNNZKQzngW/t7ypSwsLa2ARqnJuU0gweWwUGTSPgFFHxZ0G9AA==",
+          "changelog": {
+            "ru": [
+              "№40 партия A: озвучка «гнежђење» (w4257) и «излечење» (w4624) — синтез гейтом v3 (0.737 / 0.842)"
+            ],
+            "en": [
+              "№40 party A: voices “gneždjenje” (w4257) and “izlečenje” (w4624) — gate v3 synthesis"
+            ]
+          },
+          "filesManifestUrl": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.4.files.json",
+          "filesManifestSha256": "115c80753a27ca75db8a81a4eaa8e66bc1fd0d721e5a43b01bb06ba004bfbd46",
+          "deltas": [
+            {
+              "from": "1.0.2",
+              "to": "1.0.4",
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-b2-audio-f-1.0.2-to-1.0.4.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.2-to-1.0.4.delta.zip"
+              ],
+              "size": 382973,
+              "sha256": "21851630f630bebec0a050b586aa21379ea903ff1a26c7f05b6bc19a91bc6bdb"
+            },
+            {
+              "from": "1.0.3",
+              "to": "1.0.4",
+              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-b2-audio-f-1.0.3-to-1.0.4.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-audio-f-1.0.3-to-1.0.4.delta.zip"
+              ],
+              "size": 11483,
+              "sha256": "d0888a9d3a9950875b78578b19323d51bc4cd93f3a6a245d269144a5586afda6"
+            }
+          ]
         },
         {
           "id": "sr-ru-b2-audio-m",
