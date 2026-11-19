@@ -24,7 +24,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-base-2.1.4.zip"
           ],
-          "sig": "mx+wpYVr8WoTYkNlgQrRPeFiulqbCu8y55G8+/xEy0j9JogPY5alqaBQi7bn6pBQxaRdf6x05AHISKl/kpDsBg==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-base-2.1.4.files.json",
           "filesManifestSha256": "74924ecf10df81dea474857aa005b383fbd553a4da027c64a83b517dbbc3871d",
           "deltas": [
@@ -38,7 +37,8 @@
               "size": 3736,
               "sha256": "7eb3349e86f5cbcd9a903c1467968362c61ab4dc42d854e2fe1a14db50f70ef0"
             }
-          ]
+          ],
+          "sig": "Cogc58RYBt2azb6GdDFgWtUuvEkivZam/z7eoI8+bKQ2JOEcWzfhXe29cnrRuxeZ926iBTMQM05+Zg0TCyFsBg=="
         },
         {
           "id": "sr-ru-a1",
@@ -61,7 +61,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.5.zip"
           ],
-          "sig": "oKsqy/VxJN1uYC2L95OodL7Gi80/xSYacI+yUVKUgJLyl49vaDAFbt6H4tGU2fE02GjpVujKVzmLr/YEBRKfBw==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.5.files.json",
           "filesManifestSha256": "308057b5d35d77569fa767efa6d93a0175591bdf202f079d74068dacf6c41869",
           "deltas": [
@@ -75,7 +74,8 @@
               "size": 153178,
               "sha256": "e1ed1edffdaf00b7b413310bf779f2a121e621009867a733e663735bf9d3b66d"
             }
-          ]
+          ],
+          "sig": "RJpZSUnZPMlsBZP7x9YXK4TB+qBCdn3zwpJa6hgzJQipuIaz6mfdWMxjTwl09oPOF32/EEK/pPGKWXP5lYb9Ag=="
         },
         {
           "id": "sr-ru-a2",
@@ -98,7 +98,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.5.zip"
           ],
-          "sig": "rJ4mg8GXItB0ettXWvZrKuYyZU/LrrBXmY/G2DDptileC+TurfjVR0o8d0QrC/LkI6hD5ERZC2KLMqh19g6tAQ==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.5.files.json",
           "filesManifestSha256": "f50b958cfa3b19ede88d8206ccf9e52506c5a62d389614c6b8ad4e1e56df54ae",
           "deltas": [
@@ -112,7 +111,8 @@
               "size": 79772,
               "sha256": "c6c19838f0a6f24f8ac4665e08b9f8a0b1fde3746dc5943e95c09f601ec9f72f"
             }
-          ]
+          ],
+          "sig": "fjIyrnLx4u8kC70uFFKjWCkDyNOMcPh5ReCX+ui4wxWGGsyxReD25R3flMIxLLjzCnmhbLg2z5YiWNE1siYtAg=="
         },
         {
           "id": "sr-ru-b1",
@@ -135,7 +135,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.5.zip"
           ],
-          "sig": "7z/HPScFq622EWc7tivMmEXgigRR6cqmV7Ll5obRc3E+Ukn4OeLVErIyw2UvvonPRvtMA4+Fen1PdH97F4qBBA==",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.5.files.json",
           "filesManifestSha256": "ccaa70f0a16debd3acbf16b684189ff7c0ea273e4ffecbc5d76518dbf74933e5",
           "deltas": [
@@ -149,7 +148,8 @@
               "size": 86881,
               "sha256": "ac2f4d8f8b134cdbb119d73c9d33c369dfbfb9945f2485b3d819d20c35f066d5"
             }
-          ]
+          ],
+          "sig": "N6sHHEjjgK5T+S7i/SdLuQiQDqICigP8SkN9O4yQ1d6LO29eCTWfB/pxSg2fr5mAvLxaZX1wSZda5DNQwDIbCA=="
         },
         {
           "id": "sr-ru-b2",
@@ -982,7 +982,6 @@
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-en-base-1.0.1.zip"
           ],
-          "sig": "1PYFqBXa+RavqExW3icBlPyc/HDqLJQJLnk1ijKBpcrnmg9DOeswJWdUldoiKuz7+S7jk5GYWgm4FxdGr+6hDw==",
           "notes": "№45 п.2: meta/categories.json — ключи = id тем (+en), фикс «Без темы»",
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-en-base-1.0.1.files.json",
           "filesManifestSha256": "eb90688d258d6c9e08f3d6c93c8a6d6d37ed66a8484043e07707ec3bf07eb8cf",
@@ -997,7 +996,8 @@
               "size": 4297,
               "sha256": "21dbc2188066d3c041a94250c6639a34b07d988760d34f54c8d71aa1cad1bf02"
             }
-          ]
+          ],
+          "sig": "z2T3agzd5sXQ72nxZYaiZZBWFWPfweNcGHb2kg+aqtD2opujXAlfBxo2osaSD0LIxcVYZ9807cMiQ/I5DswuDQ=="
         }
       ],
       "bundles": [
@@ -1032,5 +1032,5 @@
       "sig": "WB8oZiAzOTRwIGVwN2mkWzVxRzKuoq6/5EnzkjHPVfL5bpkYD4hxef10lXhh98rqTpoMDvFta+lmJGZbmGCmBw=="
     }
   ],
-  "sig": "qNyyOlqeANF8byCVEmPhMzpF8p6MDujNjeH5NlH3oH3Vw8OuiOAIsizDbX5+wpiJdi8GASeJvpqTyIA0+QJ8Bg=="
+  "sig": "08MHNh4rMXbnSMJTm8dfIzaWlnNHHT1VwbvieYhHTIUypms0ebnfRLHaEIz6iP9aLyfaXciY331ColJy/vYaBg=="
 }
