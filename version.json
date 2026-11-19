@@ -12,12 +12,11 @@
     "enabled": true,
     "version": "2.60.15",
     "code": 508,
-    "sha256": "2594364fd1ddfe52ef0e55c2c3b6eaeb4925c39d33126f200fa626659ab59eab",
-    "size": 8584774,
+    "sha256": "7bab2d36f84d42396a0b75198ad974bb712f0076680854c81f99f3f48a9ba2eb",
+    "size": 8584843,
     "files": 81,
     "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-508.zip",
-    "minApkCode": 502,
-    "sig": "6mrNjyN80A1Q3HG8rKKL8fI3I4/1E/uBWNnmPPNy7QPIu8ro1KhyxloHYdxbzQwixapEM/xV3yjFKeOSJe2iCg=="
+    "minApkCode": 502
   },
   "layers": {
     "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
