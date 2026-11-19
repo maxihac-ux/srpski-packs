@@ -7,7 +7,7 @@
       "version": "2.60.13",
       "code": 506,
       "apiVersion": 1,
-      "minShell": 506,
+      "minShell": 504,
       "files": [
         {
           "path": "core.js",
@@ -17,14 +17,14 @@
       "sha256": "70ce840b2c399ce169506e3f61948bc1ae676e0a42b9a70a8913da719e55e051",
       "size": 11755,
       "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/core-506.zip",
-      "sig": "sSmRyQ363gAaZcUrMfNWE0WhhO89uv+sQpfKbOOVPgZbmuK7sfsoJ3GgbX0q6Mdf4bOtpL6G07R2TNuFOcBsAA=="
+      "sig": "og6iZZWXhEevQqxklUJcq4v5fn8QCn1um5H8GD6Or6bOBANJmgrOHSVh1xl+35owo6Oj0P4evmo1ttwJSl3DAg=="
     },
     "ui": {
       "layer": "ui",
       "version": "2.60.13",
       "code": 506,
       "requiresCoreApi": 1,
-      "minShell": 506,
+      "minShell": 504,
       "files": [
         {
           "path": "404.html",
@@ -358,7 +358,7 @@
       "sha256": "99af72d95b8f40fc8472687ad96832b8a68d7e229308b302122cc58c2bfbaa25",
       "size": 9006052,
       "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/ui-506.zip",
-      "sig": "FOnj1HOkjlSpSeisqLxgBNGJtMXL8yUeXtD2dCZTZuvpdFaZsnOO5zfp94ltE2X7BQlX4F8ZwsVVnczkyghMAw=="
+      "sig": "6cMK6P4fQlKIrjRn3GX8Jr9qeFXGqSrFikgBd5uV09V5Z0jCOPxgT9G1bddbo+GL6G1G3wv1uX9EDpxUy3OXBA=="
     }
   }
 }
