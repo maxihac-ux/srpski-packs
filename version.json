@@ -1,26 +1,26 @@
 {
-  "version": "2.60.13",
-  "code": 506,
+  "version": "2.60.14",
+  "code": 507,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
-  "notes": "№34: экран результата в аудировании и диагностика воспроизведения — в блоке «Верно!» у слова больше нет кнопок озвучки (слово уже прозвучало в задании; при ошибке кнопки остаются), слово показывается двумя строками — написание и перевод, латинская транскрипция только если она отличается от написания («vreme», а не дубль кириллицы), тот же принцип в выборе/сопоставлении/вводе; озвучки больше не наслаиваются — перед каждым проигрышем текущий звук останавливается (один поток на всё приложение); Настройки → Диагностика → «Лог озвучки»: для каждого проигрыша — ключ, источник (пак с версией / вшитая запись / синтез), длина файла, скорость, громкость, чем закончилось и число одновременных потоков; синтез помечается значком «синтез» (робот); поиск ключей озвучки нечувствителен к неразрывным пробелам.",
-  "updatedAt": "2026-11-12T05:50:00+00:00",
+  "notes": "№44: hot-only 2.60.14 — правки ревью №41 клиента (дельта атомарна, проверка путей и sha256 манифеста, актуализация rec.files/size, кэш проверки каталога 60 с, «Позже» привязано к версии, критичное не глушится «Не показывать на старте») + №42 пп.3–4 (стартовый экран). APK не нужен: nativeHash не менялся с 502 (minApkCode 502, minShell 504).",
+  "updatedAt": "2026-11-19T04:41:37+00:00",
   "apkVersion": "2.60.13",
   "apkCode": 506,
   "apkTag": "apk-v2.60.13",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.13",
-    "code": 506,
-    "sha256": "3f06eb867ff0e9081017b047a2c6f16866600d1e1cdd9e314827ed9d25a45ad7",
-    "size": 8576395,
-    "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-506.zip",
+    "version": "2.60.14",
+    "code": 507,
+    "sha256": "8d2565121a4ce917aeaac392f37ffb0d09b07e811c90bf4701ded870699af9aa",
+    "size": 9043837,
+    "files": 87,
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-507.zip",
     "minApkCode": 502,
-    "sig": "iNumHEHlMO21K8gwXBWiShCArUKc8X3CJOvdFqEHOTJFnD9vfOX2i293EjnT4YqmjDMx2Y+lyqL19Lm7vXdaCQ=="
+    "sig": "2EnQrbDRHCaiUqUgT/+g2aVZMuHwd5eYi0/wNJChi3725DY4yYNt/QaG1F1jz0rmySi5KZI2N6MWDwH5fFDYBw=="
   },
   "layers": {
     "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "b339a0a7e5d57a88052950a595b639316c77617927cb76b28b3d137c547c3373"
+    "sha256": "518e48732434ebbfa8b705b0b50d3cf73260274cd27b4ee21e246cee29857ba5"
   }
 }
