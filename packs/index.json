@@ -226,11 +226,11 @@
           "requires": [
             "sr-ru-a1"
           ],
-          "size": 7945969,
-          "sha256": "1122e357cebc0951f3ff6c1dc1887988cf7583e41e70124630c16c370cace8fc",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.1/sr-ru-a1-audio-m-1.0.5.zip",
+          "size": 8533248,
+          "sha256": "fe2717b232c301cea41596ecbcbc7086226ff64d377a36ed255f344d33b99bd2",
+          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-m-1.0.5.zip",
           "channel": "stable",
-          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5)",
+          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5) · №45: zip пересобран STORE (прежний был DEFLATE — клиент отвергал)",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-m-1.0.5.zip"
           ],
@@ -303,11 +303,11 @@
           "requires": [
             "sr-ru-a2"
           ],
-          "size": 15890842,
-          "sha256": "96dd3448f66bee874d0407f4705f601b9ec9e67371cd07ec4f16bab612fdb7f9",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.1/sr-ru-a2-audio-f-1.0.5.zip",
+          "size": 16979610,
+          "sha256": "61e9d908f925f5090c994cd5ed69f8cb23c45649b85db781f236facb968c81ae",
+          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-f-1.0.5.zip",
           "channel": "stable",
-          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5)",
+          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5) · №45: zip пересобран STORE (прежний был DEFLATE — клиент отвергал)",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-f-1.0.5.zip"
           ],
@@ -475,11 +475,11 @@
           "requires": [
             "sr-ru-b1"
           ],
-          "size": 25916849,
-          "sha256": "248a7f9d32bb395d40bae87caca2c9dff510a7e30a7829d6e201aaea456f2b48",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.1/sr-ru-b1-audio-f-1.0.5.zip",
+          "size": 27245363,
+          "sha256": "dd2730a364b6c5c6fdac485808e7991b9055a823e0f8a17aaf5ea14b3c8feea4",
+          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-f-1.0.5.zip",
           "channel": "stable",
-          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5)",
+          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5) · №45: zip пересобран STORE (прежний был DEFLATE — клиент отвергал)",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-f-1.0.5.zip"
           ],
@@ -552,11 +552,11 @@
           "requires": [
             "sr-ru-b1"
           ],
-          "size": 25317332,
-          "sha256": "ce4e8400e9975d8a21e74bfa7ad348725fc85c397bdec5c304be453f5658d801",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.1/sr-ru-b1-audio-m-1.0.5.zip",
+          "size": 26679482,
+          "sha256": "17e15c119d44ea28e852b5b08dd614bc78cde26f1a30a1da2ed455bdad584753",
+          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-audio-m-1.0.5.zip",
           "channel": "stable",
-          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5)",
+          "notes": "№39: гейт v3 — перезапись брака (замены в пакете: 1.0.5) · №45: zip пересобран STORE (прежний был DEFLATE — клиент отвергал)",
           "mirrors": [
             "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-audio-m-1.0.5.zip"
           ],
