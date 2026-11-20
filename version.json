@@ -1,23 +1,22 @@
 {
-  "version": "2.60.18",
-  "code": 511,
+  "version": "2.60.19",
+  "code": 512,
   "apk": "srpski-od-nule.apk",
   "apkCore": "srpski-od-nule-core.apk",
-  "notes": "№49: алфавит — примеры спец-букв со озвучкой A1 (Ђ грожђе, Љ пријатељ, Њ књига, Џ џеп, Ц деца), подсказки Ђ/С/Ц, примечание про латиницу; ворота «примеры букв ∈ audio-map уровня ∪ base»; пак sr-ru-a1 2.0.7. Hot-only: натива 2.60.13/506.",
-  "updatedAt": "2026-11-20T04:37:53+00:00",
+  "notes": "№50: азбука — подсказки/примечание как были, слово-пример с озвучкой у каждой из 30 букв (ворота); пак sr-ru-a1 2.0.8. Hot-only: натива 2.60.13/506.",
+  "updatedAt": "2026-11-20T05:17:14+00:00",
   "apkVersion": "2.60.13",
   "apkCode": 506,
   "apkTag": "apk-v2.60.13",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.18",
-    "code": 511,
-    "sha256": "5d82555b5a16387f4b1ab6769b63e933d9699a6f8e0e788c57ac247068bd2294",
-    "size": 8588494,
+    "version": "2.60.19",
+    "code": 512,
+    "sha256": "441c0b91039cf6753ba2963e9351d8c99bc81526e5d51959b14976624f097e85",
+    "size": 8588421,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-511.zip",
-    "minApkCode": 502,
-    "sig": "sv7ISEpsrFQL45Ey9OWUrD/vQ6N9PnVVG4UZaFLthwRIaiAqBQnhDyhFiewRsY83PMsvw8hDYQJDSa7wNWV3BA=="
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-512.zip",
+    "minApkCode": 502
   },
   "layers": {
     "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
