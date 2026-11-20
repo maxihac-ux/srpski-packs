@@ -1,26 +1,21 @@
 {
-  "version": "2.60.19",
-  "code": 512,
-  "apk": "srpski-od-nule.apk",
+  "version": "2.60.20",
+  "code": 513,
+  "notes": "№51: починена регистрация Service Worker (демонтаж pkgs-dl.js унёс её с собой — hot/slots-обновления падали «(sw)» на каждой свежей установке APK). Регистрация возвращена на старт + самовосстановление в апдейтерах. Натива 2.60.20 (513), hot-бандл 513.",
+  "updatedAt": "2026-11-20T05:20:00+00:00",
+  "apkVersion": "2.60.20",
+  "apkCode": 513,
+  "apkTag": "apk-v2.60.20",
   "apkCore": "srpski-od-nule-core.apk",
-  "notes": "№50: азбука — подсказки/примечание как были, слово-пример с озвучкой у каждой из 30 букв (ворота); пак sr-ru-a1 2.0.8. Hot-only: натива 2.60.13/506.",
-  "updatedAt": "2026-11-20T05:17:14+00:00",
-  "apkVersion": "2.60.13",
-  "apkCode": 506,
-  "apkTag": "apk-v2.60.13",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.19",
-    "code": 512,
-    "sha256": "441c0b91039cf6753ba2963e9351d8c99bc81526e5d51959b14976624f097e85",
-    "size": 8588421,
+    "version": "2.60.20",
+    "code": 513,
+    "sha256": "dd3006534caffc6397d5e9d985cb09d02d6344025b06c9f2176acb7f4439e841",
+    "size": 8590481,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-512.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-513.zip",
     "minApkCode": 502,
-    "sig": "HjtZV/tTYxUcia1/qE2GR4f9436PdpXl9XqWCYj0SuFMNMpBsx0mY9WeTvhNu2IJ6E9AFLUd4O0UHmp3eDfzCA=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "518e48732434ebbfa8b705b0b50d3cf73260274cd27b4ee21e246cee29857ba5"
+    "sig": "yATKoxbqAksGqHMKRNy+GLI+Xmtl8Cq3nkWBQS2KBHxDxdxK5HzdIo3hrPEdU2ks52OYkIRJlgHfq/5GhvjxCQ=="
   }
 }
