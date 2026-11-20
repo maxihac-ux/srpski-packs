@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-20T03:46:10+00:00",
+  "generatedAt": "2026-11-20T04:26:45+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -50,19 +50,19 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A1",
-          "version": "2.0.6",
+          "version": "2.0.7",
           "requiresCoreApi": 1,
-          "size": 734395,
-          "sha256": "67bebd6141dee9905e686caf5a830e2d1267857605e8a14c91ad649b8a359203",
+          "size": 734352,
+          "sha256": "bef14e7b6b6486b88bc328fbc5ef36d6dd949c6dcbb608b1877d55916d0e1fd9",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a1-2.0.6.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a1-2.0.7.zip",
           "words": 569,
-          "notes": "№48: quiz.distractors для всех typeIn грамматики (квиз-режим; генерация при сборке пакета)",
+          "notes": "№49: алфавит — примеры спец-букв теперь слова A1 с озвучкой (Ђ грожђе, Љ пријатељ, Њ књига, Џ џеп, Ц деца; раньше пођи без аудио, остальные только в A2), подсказки Ђ/С/Ц, примечание про латиницу",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.6.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.7.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.6.files.json",
-          "filesManifestSha256": "fb9ee5ecb6bb48a0cd6c89135b9e45551628b104a7f7880eb2340d99235e6565",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.7.files.json",
+          "filesManifestSha256": "4c2cee0d71f8e6b69d6c0dac80e7cf8f79cee06b5306a03f313fc419e0db7642",
           "deltas": [
             {
               "from": "2.0.4",
@@ -83,6 +83,16 @@
               ],
               "size": 149722,
               "sha256": "183b6411262811ad434d840ab987e17bd4a7a3c97d89939771a06190b9460f24"
+            },
+            {
+              "from": "2.0.6",
+              "to": "2.0.7",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.6-to-2.0.7.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.6-to-2.0.7.delta.zip"
+              ],
+              "size": 149679,
+              "sha256": "cbda009f5c95b2db779532f9c71424cf0556175b9c0769c79f5d4736f67c2abb"
             }
           ],
           "sig": "RJpZSUnZPMlsBZP7x9YXK4TB+qBCdn3zwpJa6hgzJQipuIaz6mfdWMxjTwl09oPOF32/EEK/pPGKWXP5lYb9Ag=="
