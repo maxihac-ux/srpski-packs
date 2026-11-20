@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-19T22:39:27+00:00",
+  "generatedAt": "2026-11-20T03:46:10+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -50,19 +50,19 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A1",
-          "version": "2.0.5",
+          "version": "2.0.6",
           "requiresCoreApi": 1,
-          "size": 737851,
-          "sha256": "81a08c625877c7ade005ed811619908eb270d44636e5ce34c6529f9a9837f0ec",
+          "size": 734395,
+          "sha256": "67bebd6141dee9905e686caf5a830e2d1267857605e8a14c91ad649b8a359203",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a1-2.0.5.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a1-2.0.6.zip",
           "words": 569,
-          "notes": "№45 п.3/№46: исправленные грам-карточки + новые тренировки «Отрицание» (65) и «Лицо × время» (настоящее/прошедшее, 48), справочник «Отрицание» (reference.negation)",
+          "notes": "№48: quiz.distractors для всех typeIn грамматики (квиз-режим; генерация при сборке пакета)",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.5.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.6.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.5.files.json",
-          "filesManifestSha256": "308057b5d35d77569fa767efa6d93a0175591bdf202f079d74068dacf6c41869",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.6.files.json",
+          "filesManifestSha256": "fb9ee5ecb6bb48a0cd6c89135b9e45551628b104a7f7880eb2340d99235e6565",
           "deltas": [
             {
               "from": "2.0.4",
@@ -73,6 +73,16 @@
               ],
               "size": 153178,
               "sha256": "e1ed1edffdaf00b7b413310bf779f2a121e621009867a733e663735bf9d3b66d"
+            },
+            {
+              "from": "2.0.5",
+              "to": "2.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.5-to-2.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.5-to-2.0.6.delta.zip"
+              ],
+              "size": 149722,
+              "sha256": "183b6411262811ad434d840ab987e17bd4a7a3c97d89939771a06190b9460f24"
             }
           ],
           "sig": "RJpZSUnZPMlsBZP7x9YXK4TB+qBCdn3zwpJa6hgzJQipuIaz6mfdWMxjTwl09oPOF32/EEK/pPGKWXP5lYb9Ag=="
@@ -87,19 +97,19 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A2",
-          "version": "2.0.5",
+          "version": "2.0.6",
           "requiresCoreApi": 1,
-          "size": 1015078,
-          "sha256": "df1a2b8ff84c54c78244ba1565021c9e797801cc375b4f03038d9f3a2fb0ac75",
+          "size": 1045912,
+          "sha256": "0f19c9365d422eeceb8a204a2d126ecf1fc808832366ace275089dbad8a9a15f",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a2-2.0.5.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a2-2.0.6.zip",
           "words": 1355,
-          "notes": "№45 п.3/№46: исправленные грам-карточки + «Лицо × время: будущее» (24) и «Падежи по группам слов» (30)",
+          "notes": "№48: тема «Перфект: схема, отрицание, вопросы» (38 вопросов + справочник) и quiz.distractors для квиза",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.5.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.6.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.5.files.json",
-          "filesManifestSha256": "f50b958cfa3b19ede88d8206ccf9e52506c5a62d389614c6b8ad4e1e56df54ae",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.6.files.json",
+          "filesManifestSha256": "c0ab393ac3455645eae84af529c480a175bc233b6f83f228629e8c5a7be0a46d",
           "deltas": [
             {
               "from": "2.0.4",
@@ -110,6 +120,16 @@
               ],
               "size": 79772,
               "sha256": "c6c19838f0a6f24f8ac4665e08b9f8a0b1fde3746dc5943e95c09f601ec9f72f"
+            },
+            {
+              "from": "2.0.5",
+              "to": "2.0.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.5-to-2.0.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.5-to-2.0.6.delta.zip"
+              ],
+              "size": 110606,
+              "sha256": "81e5455a12b28c442f09bbb799b5de435ac76067029f84db8cda54f3e014feef"
             }
           ],
           "sig": "fjIyrnLx4u8kC70uFFKjWCkDyNOMcPh5ReCX+ui4wxWGGsyxReD25R3flMIxLLjzCnmhbLg2z5YiWNE1siYtAg=="
@@ -124,19 +144,19 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень B1",
-          "version": "2.1.5",
+          "version": "2.1.6",
           "requiresCoreApi": 1,
-          "size": 888543,
-          "sha256": "6803308410db1491579f59785311840c865136c1ccecf3809ee77689e7bb1964",
+          "size": 890451,
+          "sha256": "4029fe3bf0e7b27f32fa02f79b4a81f83c69f7058d740e5ec2ede61424ed0eec",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-b1-2.1.5.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-b1-2.1.6.zip",
           "words": 1075,
-          "notes": "№45 п.3: исправленные грам-карточки (gp10, ga01, ga09/10, gg05, gc01/18, gf03, gu16, gr25, gd27/30/36/40/42 и др.)",
+          "notes": "№48: quiz.distractors для всех typeIn грамматики (квиз-режим)",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.5.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.6.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.5.files.json",
-          "filesManifestSha256": "ccaa70f0a16debd3acbf16b684189ff7c0ea273e4ffecbc5d76518dbf74933e5",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.6.files.json",
+          "filesManifestSha256": "361af099d704214bf72d868055b46fe2aa6da3504374cad34ec3dd9f3c31e8c6",
           "deltas": [
             {
               "from": "2.1.4",
@@ -147,6 +167,16 @@
               ],
               "size": 86881,
               "sha256": "ac2f4d8f8b134cdbb119d73c9d33c369dfbfb9945f2485b3d819d20c35f066d5"
+            },
+            {
+              "from": "2.1.5",
+              "to": "2.1.6",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.5-to-2.1.6.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.5-to-2.1.6.delta.zip"
+              ],
+              "size": 88789,
+              "sha256": "6ca81caa4092f3ca6a1170503beaab6fbf87df874c77f0f2478261a2f00b509c"
             }
           ],
           "sig": "N6sHHEjjgK5T+S7i/SdLuQiQDqICigP8SkN9O4yQ1d6LO29eCTWfB/pxSg2fr5mAvLxaZX1wSZda5DNQwDIbCA=="
