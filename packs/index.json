@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-20T05:14:05+00:00",
+  "generatedAt": "2026-11-20T06:20:05+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -117,19 +117,19 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A2",
-          "version": "2.0.6",
+          "version": "2.0.7",
           "requiresCoreApi": 1,
-          "size": 1045912,
-          "sha256": "0f19c9365d422eeceb8a204a2d126ecf1fc808832366ace275089dbad8a9a15f",
+          "size": 1067243,
+          "sha256": "227f756d2622662e5b0697232096796e67690729a9ccfdceb84be7eb57742bc0",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a2-2.0.6.zip",
+          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a2-2.0.7.zip",
           "words": 1355,
-          "notes": "№48: тема «Перфект: схема, отрицание, вопросы» (38 вопросов + справочник) и quiz.distractors для квиза",
+          "notes": "№51: латиница форм ввода в квизе приведена к канону serbian.toLatin (нижний регистр) — косметика латинского режима",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.6.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.7.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.6.files.json",
-          "filesManifestSha256": "c0ab393ac3455645eae84af529c480a175bc233b6f83f228629e8c5a7be0a46d",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.7.files.json",
+          "filesManifestSha256": "7888605f773949690ed2bcbc40ad92e1fb49049b57796452d7d6018da3355916",
           "deltas": [
             {
               "from": "2.0.4",
@@ -150,6 +150,16 @@
               ],
               "size": 110606,
               "sha256": "81e5455a12b28c442f09bbb799b5de435ac76067029f84db8cda54f3e014feef"
+            },
+            {
+              "from": "2.0.6",
+              "to": "2.0.7",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.6-to-2.0.7.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.6-to-2.0.7.delta.zip"
+              ],
+              "size": 131937,
+              "sha256": "c139ea528354a33d55bda8e7b652e4147337ae3e3dd03afb9b2d6bf0e569ce05"
             }
           ],
           "sig": "SYhA3g3gM/wOvhhFUfhny8zu+I5K+zhpwHjPJ2a2Hjq+SefQr0SfZuwHdhQMHQt1ibbAKW9E24DtxY+f6jSQCw=="
