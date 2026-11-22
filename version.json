@@ -1,22 +1,20 @@
 {
-  "version": "2.60.20",
-  "code": 513,
-  "notes": "№51: починена регистрация Service Worker (демонтаж pkgs-dl.js унёс её с собой — hot/slots-обновления падали «(sw)» на каждой свежей установке APK). Регистрация возвращена на старт + самовосстановление в апдейтерах. Натива 2.60.20 (513), hot-бандл 513.",
-  "updatedAt": "2026-11-20T05:20:00+00:00",
+  "version": "2.60.21",
+  "code": 514,
+  "notes": "№52: «ворота обновления» — приложение сначала предлагает обновление до старта («Вышла новая версия… / Скачать и установить / Продолжить / Пропустить эту версию»); splash «Проверяю обновления…» не дольше 2,5 с при молчащей сети; реальный прогресс в МБ, «Отмена» без экрана сбоя; честный экран сбоя («Ничего не потеряно…»), антизацикливание 24 ч/≤2 попыток; критичный случай — без «Пропустить». SW регистрируется с режимом native/web (возврат потерянной регистрации pkgs-dl.js). Натива остаётся 2.60.20 (513).",
+  "updatedAt": "2026-11-22T23:06:44+00:00",
   "apkVersion": "2.60.20",
   "apkCode": 513,
   "apkTag": "apk-v2.60.20",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
-    "enabled": true,
-    "version": "2.60.20",
-    "code": 513,
-    "sha256": "dd3006534caffc6397d5e9d985cb09d02d6344025b06c9f2176acb7f4439e841",
-    "size": 8590481,
+    "version": "2.60.21",
+    "code": 514,
+    "sha256": "b047e3195d51339866106b4c77ca9eddf32ae8904d37c4ccfd282a3ae60ca777",
+    "size": 8595739,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-513.zip",
-    "minApkCode": 502,
-    "sig": "yATKoxbqAksGqHMKRNy+GLI+Xmtl8Cq3nkWBQS2KBHxDxdxK5HzdIo3hrPEdU2ks52OYkIRJlgHfq/5GhvjxCQ=="
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-514.zip",
+    "minApkCode": 502
   },
   "layers": {
     "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
