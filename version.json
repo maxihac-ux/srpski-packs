@@ -1,25 +1,21 @@
 {
-  "version": "2.60.27",
-  "code": 520,
-  "notes": "23.11 (№56): настройки всегда открываются с главного экрана — раньше при обновлении паков шестерёнка прыгала сразу в «Языковые пакеты» (казалось, что настройки пустые). На плитке «Языковые пакеты» теперь красный «тикет», если есть обновления. Настройки экзамена вернулись в «Обучение» (интервал, число заданий).",
-  "updatedAt": "2026-11-23T21:20:44+00:00",
-  "apkVersion": "2.60.27",
-  "apkCode": 520,
-  "apkTag": "apk-v2.60.27",
+  "version": "2.60.28",
+  "code": 521,
+  "notes": "24.11 (№57): быстрое обновление переживает обрывы сети — до 3 попыток с паузой, в журнале видна настоящая причина сбоя (было безликое «unknown»). В «Обновлении приложения» полный пакет (≈280 МБ) снова доступен рядом с быстрым — ссылкой под кнопкой быстрого обновления.",
+  "updatedAt": "2026-11-23T22:36:48+00:00",
+  "apkVersion": "2.60.28",
+  "apkCode": 521,
+  "apkTag": "apk-v2.60.28",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.27",
-    "code": 520,
-    "sha256": "006c3d20ef1dcf1effe20ec7e8452d9d3f870ec2a80bcd7d7a66b83b2f0fad3c",
-    "size": 8598727,
+    "version": "2.60.28",
+    "code": 521,
+    "sha256": "5e7ac41070735a9cc1f51451560e648d37be6911aa6e7ed803f96ac3be634302",
+    "size": 8599342,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-520.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-521.zip",
     "minApkCode": 502,
-    "sig": "23BgfKCp7wYzH1FVbTiKDdSQoEPBe7ZPxXLG04c2YbcreN3fXstEN/ubeHgWSF+VTDYbTaaV/qr+cyRcc7hNDQ=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "30c13cca89ad609081a6f9df72e634a87de9ce96fa62a00e059c4174197464ab"
+    "sig": "odL0dvBEAev/kk6W9nDhTGEhZb4vUf8uo9uplM+/LNpOfta9HTYENuJxVAH9X1z8Xmru8Vh7PzZZTIN0w7chAg=="
   }
 }
