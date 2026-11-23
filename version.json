@@ -1,24 +1,21 @@
 {
   "version": "2.60.26",
   "code": 519,
-  "notes": "23.11: в цепочку источников манифеста добавлен стенд (GitHub Pages) — jsdelivr залипал на старой версии даже с cache-bust. Hot-only: натива 2.60.20 (513).",
-  "updatedAt": "2026-11-23T03:16:08+00:00",
-  "apkVersion": "2.60.20",
-  "apkCode": 513,
-  "apkTag": "apk-v2.60.20",
+  "notes": "23.11: полный APK 2.60.26 — натив догнал hot-версию (дистракторы квиза по парадигмам, №55.1). Слои и каталог 2.2.5 — установятся сами.",
+  "updatedAt": "2026-11-23T06:10:32+00:00",
+  "apkVersion": "2.60.26",
+  "apkCode": 519,
+  "apkTag": "apk-v2.60.26",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
+    "enabled": true,
     "version": "2.60.26",
     "code": 519,
-    "sha256": "d8a3e82f6b4255da962be087f6471ae7d6d9dc6d39147fb9b27685fc53664014",
-    "size": 8598248,
+    "sha256": "09578b5a05c9c06cafac2c6d5ff652e9a8e4e28bde8c4c608292e455592de831",
+    "size": 8598052,
     "files": 81,
     "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-519.zip",
     "minApkCode": 502,
-    "sig": "oYkayTTtPnEKM9U20/aUoT1o/Mb55Hc9G86MjaHH97Uyr73RzVRrdkAF0WD0gTdZsQcsHFyyx0XoRqQ1h+6kCg=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "9a0fc3974744ee8573e4d863cf08ca08e9d1bb06fd1ec184ea9ca0a62cd1dc7c"
+    "sig": "MMN5+t0atsh4NofnqbKCuyVFP5X1UMTtdDZ0dLC3mtdPOPAzFBVcJDMmcylwA3dkHBSfQuv5hFvJUzaUxfQ5Bg=="
   }
 }
