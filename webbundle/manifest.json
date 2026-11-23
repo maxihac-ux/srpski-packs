@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "version": "2.60.21",
-  "code": 514,
-  "sha256": "dd3006534caffc6397d5e9d985cb09d02d6344025b06c9f2176acb7f4439e841",
-  "size": 8590481,
+  "version": "2.60.22",
+  "code": 515,
+  "sha256": "021e2af95fbdf647a6024b8be3be6a6b3f26a43b3aa1b6ac170e33b7d8e61e1b",
+  "size": 8598181,
   "files": 81,
   "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-513.zip",
   "minApkCode": 502,
@@ -17,5 +17,5 @@
     "507": "38bbe04241b101271b44a5f6bd270d58b26f75131fdc89a99b5f9c927d909535",
     "513": "38bbe04241b101271b44a5f6bd270d58b26f75131fdc89a99b5f9c927d909535"
   },
-  "generatedAt": "2026-11-22T23:06:44+00:00"
+  "generatedAt": "2026-11-23T00:16:07+00:00"
 }
