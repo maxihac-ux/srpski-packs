@@ -1,70 +1,78 @@
 {
   "indexVersion": 1,
-  "generatedAt": "2026-11-20T06:29:12+00:00",
+  "generatedAt": "2026-11-23T06:17:07+00:00",
   "stable": {
     "core": {
       "layer": "core",
-      "version": "2.60.20",
-      "code": 513,
+      "version": "2.60.26",
+      "code": 519,
       "apiVersion": 1,
-      "minShell": 513,
+      "minShell": 519,
       "files": [
         {
           "path": "core.js",
-          "sha256": "3ceb0e0e6cd735fb646210d6c81b378785b7ee2e1bfc94daeec1c087e7e164b4"
+          "sha256": "606ee588bcb6415ed197acbf1173628239317664916a63cbb290f9ff4bee9b20"
         }
       ],
-      "sha256": "10a77a7843ed9e578e3936668d09c645854d7d278d7d27a463affb3e40ea89cb",
-      "size": 12329,
-      "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/core-513.zip",
-      "sig": "IrEZCSJLRvO/biS7MsDHN9+VyTjFvKfin5nJ5gNl+fZVyG4PFmAZ5AGAA5Bj1RJ9orx53h3JlQ9mMNfXMcQlAw=="
+      "sha256": "3b076c5d1f0037cef359ad01d1d8773b1906d0290a85873072c39c43d1c41339",
+      "size": 12453,
+      "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/core-519.zip",
+      "sig": "ahHhek40UcNQASzEM2kQC1MHxLU3QCPzYQ+hF00tIykSPvO9dFAxrPbg0eO5Tp3GkJEyAGvPR72qSZM/RVVoAg=="
     },
     "ui": {
       "layer": "ui",
-      "version": "2.60.20",
-      "code": 513,
+      "version": "2.60.26",
+      "code": 519,
       "requiresCoreApi": 1,
-      "minShell": 513,
+      "minShell": 519,
       "files": [
         {
           "path": "404.html",
-          "sha256": "093b41281550967c4aa4780c14bc60e5e65ddd1e109412e2542edee635cedeae"
+          "sha256": "e82008ba518ac86cc0944803e54d99eca1e41d17807e18fd43624cc052a304d7"
         },
         {
           "path": "__next.__PAGE__.txt",
-          "sha256": "a38be6f2a3095bcfe2ba72ce5081eb18511d141cb3ed85365adc1b8817893832"
+          "sha256": "51e0b2dedc210a9a62406bef71d25205d793b61274d7cc69ca121ef9368b4834"
         },
         {
           "path": "__next._full.txt",
-          "sha256": "bc47dae5c1abe2d9b1847f958c73c29b44c4eadb595bf1fee4ea3efc328ccec6"
+          "sha256": "2647a6457cf31ac65a104eed914041904b1610b65781db8127a8f0fcfea059ab"
         },
         {
           "path": "__next._head.txt",
-          "sha256": "18348946c40ae7c0f0ccf36be96a18c6eefd9dc7c45035fbe1ea435ac426cc09"
+          "sha256": "7ca898a57b1cc5f2ebb78e6e8893e5e8b905133a798a17af9af10164397aea85"
         },
         {
           "path": "__next._index.txt",
-          "sha256": "2499f5065b4bf526d528ffa8fe29ab5c2b0a066c22f053e8b839010c62717165"
+          "sha256": "bc90061d1add52d3a533c57dcee8a979055d899843b6aae23123edb2421cea14"
         },
         {
           "path": "__next._tree.txt",
-          "sha256": "89e6ea06c159e5ea64cbebc9cff60db762b54da7ca59c23b9dc72a97b4c9e37f"
+          "sha256": "c5085d655b1e3cd0ccebdb211de19d73b84fee8d061873819ed6d40539562737"
         },
         {
-          "path": "_next/static/M400B2VAfwTB-NevUANLV/_buildManifest.js",
+          "path": "_next/static/bzd0AFXwaCc1JDFWR-V1J/_buildManifest.js",
           "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
         },
         {
-          "path": "_next/static/M400B2VAfwTB-NevUANLV/_clientMiddlewareManifest.json",
+          "path": "_next/static/bzd0AFXwaCc1JDFWR-V1J/_clientMiddlewareManifest.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
         },
         {
-          "path": "_next/static/M400B2VAfwTB-NevUANLV/_ssgManifest.js",
+          "path": "_next/static/bzd0AFXwaCc1JDFWR-V1J/_ssgManifest.js",
           "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
+        },
+        {
+          "path": "_next/static/chunks/0aa036cb41331954.js",
+          "sha256": "cc5d804d06a202e2408deb049460977d2f3968bdde9c2f54610c8e2405f690e9"
         },
         {
           "path": "_next/static/chunks/1d58b393f9936bea.js",
           "sha256": "cefa523e64efd6aa11322a6cdf18a62d8f7d0b692c818f4d031a2e820c4c957c"
+        },
+        {
+          "path": "_next/static/chunks/2d79a143e641c3ef.js",
+          "sha256": "d958a927510806826da0e12f7e2474c5f2cd5943299679afb857985be61e81d3"
         },
         {
           "path": "_next/static/chunks/4790e6193dad7587.js",
@@ -87,14 +95,6 @@
           "sha256": "32d1182713a2d5fab3bd534a19a1f65af90f456155e5b06123fba985e25f81cf"
         },
         {
-          "path": "_next/static/chunks/7a93039bc80bb322.css",
-          "sha256": "37b649626d348d804cc73e16556667c22d011353f403f5470d0500675ad418d1"
-        },
-        {
-          "path": "_next/static/chunks/a1ce1d6f06821d94.js",
-          "sha256": "292cf106a290442ffb2363752ff6b116ca8146d5eb6cb82c51e360ce536fdba4"
-        },
-        {
           "path": "_next/static/chunks/a6dad97d9634a72d.js",
           "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
         },
@@ -103,8 +103,8 @@
           "sha256": "b26c4f42daadc4b7985198660eb4eaf2f4aedb8d5f46e8111c0128cbc11298fc"
         },
         {
-          "path": "_next/static/chunks/a758b9f5f406a64c.js",
-          "sha256": "e4344ee3f29fe935a80f02aa8b26c6c7485438baafa6d01fcf6ff4f547f495f8"
+          "path": "_next/static/chunks/ac0b221e6a3bfb80.js",
+          "sha256": "df96b6c729054578fcf94f9bebd2d49edf2be74456cb49f1aa21560bbf20c5c0"
         },
         {
           "path": "_next/static/chunks/afbcabed994797c7.js",
@@ -119,8 +119,8 @@
           "sha256": "3e49d70b8293e8324e4048f24380df8acc6655fe3f9ed518a472bc68eec3f301"
         },
         {
-          "path": "_next/static/chunks/c0826fcda0942c51.js",
-          "sha256": "ea463f08cd747dc8495750454d891f7132029bc646093e65fbacd3fa4a1214c5"
+          "path": "_next/static/chunks/be13cc3fa92c6ba0.css",
+          "sha256": "2ca0031711013d826fc85523ab87218938f4b3b66a756a63ad0e65d88f92f5af"
         },
         {
           "path": "_next/static/chunks/cd35ad6feeb3e3e8.js",
@@ -188,35 +188,35 @@
         },
         {
           "path": "_not-found.html",
-          "sha256": "093b41281550967c4aa4780c14bc60e5e65ddd1e109412e2542edee635cedeae"
+          "sha256": "e82008ba518ac86cc0944803e54d99eca1e41d17807e18fd43624cc052a304d7"
         },
         {
           "path": "_not-found.txt",
-          "sha256": "452f73d20f1e58fd2e9418dda125c722f452e3cf87d37f996d306a4a726c0a25"
+          "sha256": "cf0db9a1c27fc5b4f7edfc7241cd622338b9ab269e71f2e48b5f23ff136ebb4b"
         },
         {
           "path": "_not-found/__next._full.txt",
-          "sha256": "452f73d20f1e58fd2e9418dda125c722f452e3cf87d37f996d306a4a726c0a25"
+          "sha256": "cf0db9a1c27fc5b4f7edfc7241cd622338b9ab269e71f2e48b5f23ff136ebb4b"
         },
         {
           "path": "_not-found/__next._head.txt",
-          "sha256": "0fddb863aebd7b7295da69a60d7bf57d5b8ea67d0c270d7bb756c79fa33e0942"
+          "sha256": "d007a2c530401b76bc7cd65ae5bff37890adaa92702eccd03b2dd002290d7d4d"
         },
         {
           "path": "_not-found/__next._index.txt",
-          "sha256": "dcfe2c590d25647974457c7e3569200572d19c27d0d1ecf5f44a9639bafd3300"
+          "sha256": "ea586030e7380183bdc79d45b0ae8dc2dcead33dfd89541200a1d67d7bdc1713"
         },
         {
           "path": "_not-found/__next._not-found.__PAGE__.txt",
-          "sha256": "8ed8f8190887ac6d393a1141f4109b42f90c9d755b292f29c8717d1ec302181e"
+          "sha256": "2d114d292f1b66e4e6328fb0a2e7b730f6c5b4ea192cb96e79dc840867c7ca46"
         },
         {
           "path": "_not-found/__next._not-found.txt",
-          "sha256": "9e4cefefd79dab4770678034cffb07177dadef86b3f7db8c15dee042a0445a02"
+          "sha256": "5cdba0e7a46f3547e5b990910307521f012abde0987132841bcf138f0aab4427"
         },
         {
           "path": "_not-found/__next._tree.txt",
-          "sha256": "7f87b6fffce855ac814fbf0731fdc19afb784393594ec53afcb0a69579b57ee3"
+          "sha256": "c8c4250fd82b086be1a08a6ed51516242283fdacd9251d318594caf884617059"
         },
         {
           "path": "apple-touch-icon.png",
@@ -324,11 +324,11 @@
         },
         {
           "path": "index.html",
-          "sha256": "74f9cc79eefa5f6cb6cc98a7baadd9d41c9eac5018d4f4458f047d50ce3713a4"
+          "sha256": "dd7b4beb8ecc637985c72c093abf5b78a4e2d03e4ee73ce0ddb51e7a34af87b4"
         },
         {
           "path": "index.txt",
-          "sha256": "bc47dae5c1abe2d9b1847f958c73c29b44c4eadb595bf1fee4ea3efc328ccec6"
+          "sha256": "2647a6457cf31ac65a104eed914041904b1610b65781db8127a8f0fcfea059ab"
         },
         {
           "path": "logo.svg",
@@ -355,10 +355,10 @@
           "sha256": "1bb3e3e4ec97cc8a17be7312bc0dd96f7ea1a7ccf9a59b4b27a8cd744e765cfd"
         }
       ],
-      "sha256": "919a67a2572fd1f9ae5afc566c3b4e388a0f0c65e6db7126919fcf1513074737",
-      "size": 9019989,
-      "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/ui-513.zip",
-      "sig": "V6vrlKSC1r4ueQYpmbdea+mP+ymjcLPZ2aVO80nlxclvQdWUPOMscfuGAvX1KGdqMYx6UQdMMb8pLDGPRVI9Cw=="
+      "sha256": "e7418b8148a2d7665a850b3bb0fb415920942e74a635a84b8868686d9115e578",
+      "size": 9027532,
+      "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/layers/ui-519.zip",
+      "sig": "w+uz5lc/bd4Z9bnzGCj+iu6JwYRFMA3wHkHn8hfSg+aSgCt8TFNRoEk+pLDgoLCo+vcYttkHQXVz4BSzCCZfAw=="
     }
   }
 }
