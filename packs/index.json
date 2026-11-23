@@ -1,6 +1,6 @@
 {
  "indexVersion": 2,
- "generatedAt": "2026-11-23T03:28:29+00:00",
+ "generatedAt": "2026-11-23T05:01:37+00:00",
  "pairs": [
   {
    "native": "ru",
@@ -80,19 +80,19 @@
       "sr-ru-base"
      ],
      "title": "Сербский — уровень A1",
-     "version": "2.0.8",
+     "version": "2.0.9",
      "requiresCoreApi": 1,
-     "size": 760423,
-     "sha256": "9cfe11de3efaff53821c06f1b210c8ee96bdb3da58650117029ddecd4340b94e",
+     "size": 749054,
+     "sha256": "edcc8cc5da00c397e1196832e6315195cbc158b4b561797fd9eb6a4dcfd1f58d",
      "channel": "stable",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a1-2.0.8.zip",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-a1-2.0.9.zip",
      "words": 569,
-     "notes": "№50: азбука — подсказки и примечание вернулись как были, зато теперь слово-пример с озвучкой у каждой из 30 букв (А аутобус, Б брат, В вода, Г град, Д дан, Е дете, З здраво, И име, К кућа, Л лако, М море, Н ноћ, О овде, П посао, Р рука, С сунце, Т телефон, У улица, Ф фирма, Х хлеб + Ђ грожђе, Ж жена, Ј ја, Љ пријатељ, Њ књига, Ћ ћао, Ц деца, Ч човек, Џ џеп, Ш школа)",
+     "notes": "№55.1 (одобрено владельцем 23.11): дистракторы квиза переписаны по парадигмам и шаблонам ошибок, «клеёные» формы убраны; каждый дистрактор — реальная форма из таблиц или типичная ошибка из шаблона (метка src в данных). Азбука/topics байт-в-байт.",
      "mirrors": [
-      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.8.zip"
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.9.zip"
      ],
-     "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.8.files.json",
-     "filesManifestSha256": "b7793d874e5130747eed2ba74353b206ee1073b390cec56cedb49ef21c0b5c7d",
+     "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-2.0.9.files.json",
+     "filesManifestSha256": "e209d19dd24e45ce39de03c5526019dcc2d07fedd27c0fe40b95e3f5e107b193",
      "deltas": [
       {
        "from": "2.0.4",
@@ -133,6 +133,16 @@
        ],
        "size": 175750,
        "sha256": "4be689995f6f50b7ede61e1bbe8a2a15d6fa37946aeff6df00da4c807ad0b53b"
+      },
+      {
+       "from": "2.0.8",
+       "to": "2.0.9",
+       "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-a1-2.0.8-to-2.0.9.delta.zip",
+       "mirrors": [
+        "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.8-to-2.0.9.delta.zip"
+       ],
+       "size": 164381,
+       "sha256": "f32cadc43c154b826b161e6ac13582b23a04b17f347e69c2a73c859112990db2"
       }
      ],
      "sig": "wZMM8jCzRJ8B5l9vVFAFVOEnuBoY7KDDKbVyyK4zc8nJog8nZjbQBHVoKXDFLHjk9ciHJqraT3QFeQ2OAhh2CA=="
@@ -147,19 +157,19 @@
       "sr-ru-base"
      ],
      "title": "Сербский — уровень A2",
-     "version": "2.0.7",
+     "version": "2.0.8",
      "requiresCoreApi": 1,
-     "size": 1067243,
-     "sha256": "227f756d2622662e5b0697232096796e67690729a9ccfdceb84be7eb57742bc0",
+     "size": 1055116,
+     "sha256": "ad9fe65ce2224a6a662854abcaff29047cc99d3ecc2e33314da8a6593f8bbdef",
      "channel": "stable",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-a2-2.0.7.zip",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-a2-2.0.8.zip",
      "words": 1355,
-     "notes": "№51: латиница форм ввода в квизе приведена к канону serbian.toLatin (нижний регистр) — косметика латинского режима",
+     "notes": "№55.1 (одобрено владельцем 23.11): дистракторы квиза переписаны по парадигмам и шаблонам ошибок, «клеёные» формы убраны; каждый дистрактор — реальная форма из таблиц или типичная ошибка из шаблона (метка src в данных). Азбука/topics байт-в-байт.",
      "mirrors": [
-      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.7.zip"
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.8.zip"
      ],
-     "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.7.files.json",
-     "filesManifestSha256": "7888605f773949690ed2bcbc40ad92e1fb49049b57796452d7d6018da3355916",
+     "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.8.files.json",
+     "filesManifestSha256": "ab1a2a2b4aaf9cd8744b6dfcfbb88566769e996196f136bff5830d351e739182",
      "deltas": [
       {
        "from": "2.0.4",
@@ -190,6 +200,16 @@
        ],
        "size": 131937,
        "sha256": "c139ea528354a33d55bda8e7b652e4147337ae3e3dd03afb9b2d6bf0e569ce05"
+      },
+      {
+       "from": "2.0.7",
+       "to": "2.0.8",
+       "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-a2-2.0.7-to-2.0.8.delta.zip",
+       "mirrors": [
+        "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.7-to-2.0.8.delta.zip"
+       ],
+       "size": 119810,
+       "sha256": "a97ac2a215dc92f53fce2be4052c340f10aad5d4bfa349e16c08da2aba838bb4"
       }
      ],
      "sig": "LmGDnLu5R2VKMM5HKDfvXFD2y/J9D4Snwdy44+waKatvYn8AvJEkr5+rL2t0fVfqtkHI3RlpsYdV5dEvCKomCQ=="
@@ -204,19 +224,19 @@
       "sr-ru-base"
      ],
      "title": "Сербский — уровень B1",
-     "version": "2.1.6",
+     "version": "2.1.7",
      "requiresCoreApi": 1,
-     "size": 890451,
-     "sha256": "4029fe3bf0e7b27f32fa02f79b4a81f83c69f7058d740e5ec2ede61424ed0eec",
+     "size": 892387,
+     "sha256": "ecb94387b03387bbf688b1339cc1120d31e70c879c7eced187f2967f8c40079e",
      "channel": "stable",
-     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.3/sr-ru-b1-2.1.6.zip",
+     "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-b1-2.1.7.zip",
      "words": 1075,
-     "notes": "№48: quiz.distractors для всех typeIn грамматики (квиз-режим)",
+     "notes": "№55.1 (одобрено владельцем 23.11): дистракторы квиза переписаны по парадигмам и шаблонам ошибок, «клеёные» формы убраны; каждый дистрактор — реальная форма из таблиц или типичная ошибка из шаблона (метка src в данных). Азбука/topics байт-в-байт.",
      "mirrors": [
-      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.6.zip"
+      "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.7.zip"
      ],
-     "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.6.files.json",
-     "filesManifestSha256": "361af099d704214bf72d868055b46fe2aa6da3504374cad34ec3dd9f3c31e8c6",
+     "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.7.files.json",
+     "filesManifestSha256": "3cd7e2e885e4f5621048126a59a79164e35d54c39ce2862ae4a822581fffc8fe",
      "deltas": [
       {
        "from": "2.1.4",
@@ -237,6 +257,16 @@
        ],
        "size": 88789,
        "sha256": "6ca81caa4092f3ca6a1170503beaab6fbf87df874c77f0f2478261a2f00b509c"
+      },
+      {
+       "from": "2.1.6",
+       "to": "2.1.7",
+       "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-b1-2.1.6-to-2.1.7.delta.zip",
+       "mirrors": [
+        "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.6-to-2.1.7.delta.zip"
+       ],
+       "size": 90725,
+       "sha256": "ed9604f95ec3d992ec14c176441d27c6483215a5787acc3dfc76e6c6a3917017"
       }
      ],
      "sig": "wWNi++SLkGDGhLmmZeeDWMwbJJyIsajUYtRPC/0BEigEA0v79U1WjEdmHysaWviyB7IW28hoRFUCUZ+QrG/ZDg=="
