@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "version": "2.60.23",
-  "code": 516,
-  "sha256": "516225514e06c3000ce50e999c31ed9f64f816c391e602f2e7cb5319204ccf6d",
-  "size": 8598181,
+  "version": "2.60.24",
+  "code": 517,
+  "sha256": "2edda10a9c330a2d22fb986fd24cfb678f361491be3e9bc3623ec3ff40094d64",
+  "size": 8598023,
   "files": 81,
-  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-516.zip",
+  "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-517.zip",
   "minApkCode": 502,
   "sig": "yATKoxbqAksGqHMKRNy+GLI+Xmtl8Cq3nkWBQS2KBHxDxdxK5HzdIo3hrPEdU2ks52OYkIRJlgHfq/5GhvjxCQ==",
   "nativeHash": "b2ebdbccb377f2604d3aec3899e5a593c6d940e322f89d3072f5032a16a5d472",
@@ -17,5 +17,5 @@
     "507": "38bbe04241b101271b44a5f6bd270d58b26f75131fdc89a99b5f9c927d909535",
     "513": "38bbe04241b101271b44a5f6bd270d58b26f75131fdc89a99b5f9c927d909535"
   },
-  "generatedAt": "2026-11-23T01:09:11+00:00"
+  "generatedAt": "2026-11-23T02:43:20+00:00"
 }
