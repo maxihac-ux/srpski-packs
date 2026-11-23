@@ -1,21 +1,20 @@
 {
-  "version": "2.60.25",
-  "code": 518,
-  "notes": "Жалоба владельца 23.11: «Проверить обновления» теперь видит быстрые (hot) обновления — патч веб-слоя ставится прямо из карточки без переустановки APK. Сброс прогресса и «Стереть всё» — в разделе «О приложении». Подсказка под целью недели убрана (№55.2). Hot-only: натива 2.60.20 (513).",
-  "updatedAt": "2026-11-23T03:11:25+00:00",
+  "version": "2.60.26",
+  "code": 519,
+  "notes": "23.11: в цепочку источников манифеста добавлен стенд (GitHub Pages) — jsdelivr залипал на старой версии даже с cache-bust. Hot-only: натива 2.60.20 (513).",
+  "updatedAt": "2026-11-23T03:16:08+00:00",
   "apkVersion": "2.60.20",
   "apkCode": 513,
   "apkTag": "apk-v2.60.20",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
-    "version": "2.60.25",
-    "code": 518,
-    "sha256": "aadf16827c0c3510b5a3b1b00888bf6b83227e26204e140ab2cda9773a04942c",
-    "size": 8598267,
+    "version": "2.60.26",
+    "code": 519,
+    "sha256": "d8a3e82f6b4255da962be087f6471ae7d6d9dc6d39147fb9b27685fc53664014",
+    "size": 8598248,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-518.zip",
-    "minApkCode": 502,
-    "sig": "7czLxfnAf0P/5T6QV+0ojS8FR8S1LT6FQ721maQUAsDXuBztX9yjisGATISMpAIAq4O8zR76WvOyVmjvp7MbCA=="
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-519.zip",
+    "minApkCode": 502
   },
   "layers": {
     "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
