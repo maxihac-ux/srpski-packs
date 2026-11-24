@@ -1,0 +1,25 @@
+{
+ "contentHash": "f7a299d32a38fb0e8703cf414418b89d380b785215c83ccf3781686e7f9807da",
+ "files": {
+  "content/dialogs.json": {
+   "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+   "size": 3
+  },
+  "content/qa.json": {
+   "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+   "size": 3
+  },
+  "content/words.json": {
+   "sha256": "0ab5920b4be21b35782e7dcc6760ac2afa31d9861f3221d9e72b6a5987cadcf5",
+   "size": 1319158
+  },
+  "meta/audio-map.json": {
+   "sha256": "84155bb450e429a7399b09eb4a7d395e1af9f40eae17591b6d186f3f26a99196",
+   "size": 222358
+  },
+  "pack.json": {
+   "sha256": "4e10ee622ecc113788033e48521d3a71e064a933b7f10192c33e5ba13fbd67a6",
+   "size": 398
+  }
+ }
+}

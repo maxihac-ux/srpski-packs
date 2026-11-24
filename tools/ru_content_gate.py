@@ -132,6 +132,25 @@ def main():
             rows.extend(rows_from_zip(zp))
     print(f'строк: {len(rows)}')
 
+    # №29.3: у каждого слова — хотя бы один пример (проверка возвращена при
+    # слиянии копий гейта №63: она жила только в CI-копии bazits_fch)
+    words_by_lv = {}
+    if a.dir:
+        for lv in ('a1', 'a2', 'b1', 'b2'):
+            p = os.path.join(a.dir, lv, 'words.json')
+            if os.path.exists(p):
+                with open(p, encoding='utf-8') as f:
+                    words_by_lv[lv] = json.load(f)
+    else:
+        for zp in zips:
+            m = ZIP_RE.match(os.path.basename(zp))
+            if not m:
+                continue
+            with zipfile.ZipFile(zp) as z:
+                if 'content/words.json' in z.namelist():
+                    words_by_lv[m.group(1)] = json.loads(z.read('content/words.json').decode('utf-8'))
+    ex_bad = check_examples(words_by_lv)
+
     morph = None
     if not a.no_morph:
         try:
@@ -161,12 +180,26 @@ def main():
                 ps = morph.parse(low)
                 if ps and all(type(p.methods_stack[0][0]).__name__ != 'DictionaryAnalyzer' for p in ps):
                     bad.append((lv, kind, rid, 'ru_unknown_token', low))
-    if bad:
-        print('НАРУШЕНИЯ:', len(bad))
-        for b in bad:
+    all_bad = bad + ex_bad
+    if all_bad:
+        print('НАРУШЕНИЯ:', len(all_bad))
+        for b in all_bad:
             print(' ', *b)
         sys.exit(1)
     print('RU-гейт: чисто ✓')
+
+
+def check_examples(words_by_lv):
+    """№29.3: у каждого слова — хотя бы один пример. words_by_lv: {level: [word]}."""
+    bad = []
+    total = 0
+    for lv in ('a1', 'a2', 'b1', 'b2'):
+        for w in words_by_lv.get(lv) or []:
+            total += 1
+            if not (w.get('examples') or []):
+                bad.append((lv, 'term', w.get('id') or '?', 'no_examples', w.get('term') or ''))
+    print(f'покрытие примерами: {total - len(bad)}/{total} слов')
+    return bad
 
 if __name__ == '__main__':
     main()
