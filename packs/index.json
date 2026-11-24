@@ -312,7 +312,10 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a1-audio-f-1.0.6.zip",
           "channel": "stable",
           "notes": "№40 Партия A (защитные замены, страж 0 нарушений)",
-          "mirrors": [],
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a1-audio-f-1.0.6.zip",
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-audio-f-1.0.6.zip"
+          ],
           "changelog": {
             "ru": [
               "№40 партия A: озвучка «četvrtak» (w106) — утверждённый владельцем кандидат №39 (sim 1.0, гейт v3)"
@@ -539,7 +542,10 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-a2-audio-m-1.0.6.zip",
           "channel": "stable",
           "notes": "№40 Партия A (защитные замены, страж 0 нарушений)",
-          "mirrors": [],
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-audio-m-1.0.6.zip",
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-audio-m-1.0.6.zip"
+          ],
           "changelog": {
             "ru": [
               "№40 партия A: озвучка «укључити» (w967) — синтез гейтом v3 (sim 1.0)"
@@ -766,7 +772,9 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.2/sr-ru-b2-audio-f-1.0.4.zip",
           "channel": "stable",
           "notes": "№40 Партия A (защитные замены, страж 0 нарушений)",
-          "mirrors": [],
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-f-1.0.4.zip"
+          ],
           "changelog": {
             "ru": [
               "№40 партия A: озвучка «гнежђење» (w4257) и «излечење» (w4624) — синтез гейтом v3 (0.737 / 0.842)"
@@ -819,6 +827,9 @@
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.1.6/sr-ru-b2-audio-m-1.0.2.zip",
           "channel": "stable",
           "notes": "sr-ru-b2-audio-m-1.0.1.zip",
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-m-1.0.2.zip"
+          ],
           "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-audio-m-1.0.2.files.json",
           "filesManifestSha256": "3f80224b817b30e1a2bd852418daaa3f78463d64e635d7b678036d81cdcb6049",
           "deltas": [
@@ -861,6 +872,10 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-qa-a2-1-1.0.0.zip",
           "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL",
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-qa-a2-1-1.0.0.zip",
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-qa-a2-1-1.0.0.zip"
+          ],
           "sig": "hNpMJI4ksq9Iz/pVI36zVFitGtw3nLWnOit42jGARoKJc90+5zbqXMW0t8EKvqfsWGJyh5oIhZtS5iRcMg6iBw=="
         },
         {
@@ -879,6 +894,10 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-qa-b1-1-1.0.0.zip",
           "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL",
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-qa-b1-1-1.0.0.zip",
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-qa-b1-1-1.0.0.zip"
+          ],
           "sig": "wwGe/5kC2rp/gojlvPvrNiM82QYRmjrcn6nTvYDJ7BrNXV4OIS15kx0Ptc4abLovHR865tPqKidn68CxHWYqBw=="
         },
         {
@@ -895,6 +914,9 @@
           "channel": "stable",
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-extra-v1.0.0/sr-ru-asr-models-1.0.0.zip",
           "notes": "Этап 3c.2 (инструкция №8): тематический пак extra; замена легаси PKGDL",
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-asr-models-1.0.0.zip"
+          ],
           "sig": "x4b1rUXTSJ6AShiz3SItAjsYrfcSiO7fY8p4I9Dn6wyB8+6xrlJLPV/Vp3rxieTp5R2nghOBMxt3HIiXiySHBQ=="
         }
       ],
@@ -974,6 +996,10 @@
           "size": 948,
           "sha256": "c73d5f37aae9ea184539b0e6b88ecba726751f36cadf1d67d6a65fc33befe671",
           "channel": "beta",
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/en-ru-base-1.0.0.zip",
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/en-ru-base-1.0.0.zip"
+          ],
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-en-ru-skeleton-v1.0.0/en-ru-base-1.0.0.zip",
           "sig": "op7oCfwkmjAMFbRwkSMNUC75JD1YXo53HiNE3AGK+Y8yc7F1mmYCiYzpo7+Bziaeg7IC77xmQPur1VsNMF32DA=="
         },
@@ -997,6 +1023,10 @@
           "size": 10234,
           "sha256": "f8cd493fba9d9a36c4415727878fe6602c057b2d16c7563f3d351ce065965544",
           "channel": "beta",
+          "mirrors": [
+            "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/en-ru-a1-1.0.0.zip",
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/en-ru-a1-1.0.0.zip"
+          ],
           "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-en-ru-skeleton-v1.0.0/en-ru-a1-1.0.0.zip",
           "sig": "97LGUtXLXu4T3GVS3gGZOqL4WVNXZGM5Vqzp/Rnj/8ZIBnGCUV9Q+o2lF1/r6zIEwGcBaD2pYV0w/SYWUZp1BQ=="
         }
