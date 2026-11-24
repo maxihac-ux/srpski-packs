@@ -1,25 +1,21 @@
 {
-  "version": "2.60.30",
-  "code": 523,
-  "notes": "24.11 (хотфикс №58): «снова не удалось обновиться» — найдена причина: слои «Ядро и интерфейс» публиковались не туда, CDN отдавал 404 — установка падала на каждом релизе с 513-го. Слои 522 вернули на место; загрузчик теперь при отказе CDN автоматически пробует зеркало.",
-  "updatedAt": "2026-11-23T23:56:15+00:00",
-  "apkVersion": "2.60.30",
-  "apkCode": 523,
-  "apkTag": "apk-v2.60.30",
+  "version": "2.60.31",
+  "code": 524,
+  "notes": "24.11 (№59): озвучка на стенде — найдена причина: уровни показывались «Актуально ✓» без скачанной озвучки (фоновая докачка умирала в сети без VPN), и докачать было нечего — в карточке пакета не было ни статуса, ни кнопки. Теперь: строка уровня честно пишет «Озвучка не скачана» и даёт кнопку «докачать озвучку»; плашки при синтезе в браузере объясняют про сетевые голоса Chrome/Edge (VPN) и голос Windows — без «телефона» и непонятных Android-настроек.",
+  "updatedAt": "2026-11-24T00:33:19+00:00",
+  "apkVersion": "2.60.31",
+  "apkCode": 524,
+  "apkTag": "apk-v2.60.31",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.30",
-    "code": 523,
-    "sha256": "91f9e9a90949c63e5b08fd46dbffb68ab1f4b7a3490eca26939b68b824b54d0e",
-    "size": 8599473,
+    "version": "2.60.31",
+    "code": 524,
+    "sha256": "0230c14c94e90a57e783581930f639f017e0d45ca91f0cdca02d59fbaa54ea23",
+    "size": 8600970,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-523.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-524.zip",
     "minApkCode": 502,
-    "sig": "Y86Ni/4p4N60212KvzkZ4qDBWrEZ4Zsv5dFfiV9ugF3JN11GFLnv4wX7WEd8EyXd2EPKIAooqtLuGewODCxcDg=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "d2bb8d2dbfab025e064b52378eb096f6fa6ef6018d721e03d450b3dbb59099b8"
+    "sig": "KfZSTrFgJ+D3nqpA9Dq52U05W1scZOZ7QtlzTz1p/Ss5BLUqIIMm2ackC3eO1KNIrt2ANjUxjgqDVih5d345Cw=="
   }
 }
