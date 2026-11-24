@@ -117,59 +117,29 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень A2",
-          "version": "2.0.8",
+          "version": "2.0.9",
           "requiresCoreApi": 1,
-          "size": 1055116,
-          "sha256": "ad9fe65ce2224a6a662854abcaff29047cc99d3ecc2e33314da8a6593f8bbdef",
+          "size": 1055118,
+          "sha256": "4425dc246eb7017ce24dedbe6cef60a996551034e08ad3034c1426b3f3b1d14a",
           "channel": "stable",
-          "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-a2-2.0.8.zip",
+          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.9.zip",
           "words": 1355,
-          "notes": "№55.1 (одобрено владельцем 23.11): дистракторы квиза переписаны по парадигмам и шаблонам ошибок, «клеёные» формы убраны; каждый дистрактор — реальная форма из таблиц или типичная ошибка из шаблона (метка src в данных). Азбука/topics байт-в-байт.",
+          "notes": "№55.1 (одобрено владельцем 23.11): дистракторы квиза переписаны по парадигмам и шаблонам ошибок, «клеёные» формы убраны; каждый дистрактор — реальная форма из таблиц или типичная ошибка из шаблона (метка src в данных). Азбука/topics байт-в-байт. №64 (24.11): две реальных опечатки RU-глоссов исправлены и выпущены — w1160 «щёка» → «щека», w1902 «Заказали пицу на вечер.» → «Заказали пиццу на вечер.»; whitelist сужен («щёк»/«щек»/«пиц» сняты — маскировали опечатки). Выпуск 2.0.9",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.8.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.9.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.8.files.json",
-          "filesManifestSha256": "ab1a2a2b4aaf9cd8744b6dfcfbb88566769e996196f136bff5830d351e739182",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.9.files.json",
+          "filesManifestSha256": "af3c78d0f455f05a33f6baec9a771bfcdd356570eeaf2c1267f7540b9eace5e7",
           "deltas": [
             {
-              "from": "2.0.4",
-              "to": "2.0.5",
-              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.4-to-2.0.5.delta.zip",
+              "from": "2.0.8",
+              "to": "2.0.9",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.8-to-2.0.9.delta.zip",
               "mirrors": [
-                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.4-to-2.0.5.delta.zip"
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.8-to-2.0.9.delta.zip"
               ],
-              "size": 79772,
-              "sha256": "c6c19838f0a6f24f8ac4665e08b9f8a0b1fde3746dc5943e95c09f601ec9f72f"
-            },
-            {
-              "from": "2.0.5",
-              "to": "2.0.6",
-              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.5-to-2.0.6.delta.zip",
-              "mirrors": [
-                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.5-to-2.0.6.delta.zip"
-              ],
-              "size": 110606,
-              "sha256": "81e5455a12b28c442f09bbb799b5de435ac76067029f84db8cda54f3e014feef"
-            },
-            {
-              "from": "2.0.6",
-              "to": "2.0.7",
-              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-a2-2.0.6-to-2.0.7.delta.zip",
-              "mirrors": [
-                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.6-to-2.0.7.delta.zip"
-              ],
-              "size": 131937,
-              "sha256": "c139ea528354a33d55bda8e7b652e4147337ae3e3dd03afb9b2d6bf0e569ce05"
-            },
-            {
-              "from": "2.0.7",
-              "to": "2.0.8",
-              "url": "https://github.com/maxihac-ux/srpski-packs/releases/download/pack-sr-ru-v2.2.5/sr-ru-a2-2.0.7-to-2.0.8.delta.zip",
-              "mirrors": [
-                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.7-to-2.0.8.delta.zip"
-              ],
-              "size": 119810,
-              "sha256": "a97ac2a215dc92f53fce2be4052c340f10aad5d4bfa349e16c08da2aba838bb4"
+              "size": 808796,
+              "sha256": "5a718c1f56a8f56a4ac47bccfce37b9d714348017347ba56c5601ca5844dee16"
             }
           ],
           "sig": "QX9HdHOSrkLcd3y/yX9K6LwiX9hxsjebeZPFCZISi60Zh4Pb85h4Sd0+Z/My1HVrBsSxn7x448cKVjs/Ks2PCQ=="

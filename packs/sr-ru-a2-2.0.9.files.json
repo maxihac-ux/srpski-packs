@@ -1,0 +1,33 @@
+{
+ "contentHash": "96914fe8143ad9664712137c6769837286da07d6b3329eda2c431d15202311ba",
+ "files": {
+  "content/ai-dialogs.json": {
+   "sha256": "48185ec41732c3aa95f8ec2aa9c0bfa64ab638bb4168fdc6d3482e32ef68bc8b",
+   "size": 1977
+  },
+  "content/dialogs.json": {
+   "sha256": "54275ef2f1dbb369583ec492f36d15e19b57ee8bbc99b9c1ae5fe577e20c02cf",
+   "size": 3303
+  },
+  "content/grammar.json": {
+   "sha256": "288d0dc86845f4c0b384d841990fc3e3d2745e07d36aa445cb1110248f9dcf9b",
+   "size": 118720
+  },
+  "content/qa.json": {
+   "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+   "size": 3
+  },
+  "content/words.json": {
+   "sha256": "bda8bdd3e02dcce0e490aff284ce503ef0597572bf198a26730120f987c1215a",
+   "size": 807712
+  },
+  "meta/audio-map.json": {
+   "sha256": "de0545edd1f8ec0cf073b63d00f24747f5dd1c3da1fcbf5e9f3264a83bbdd99d",
+   "size": 122190
+  },
+  "pack.json": {
+   "sha256": "87ef4936d1a47681dd5937f34d42cda108860e14e837bb9b0a2807a710c63f3e",
+   "size": 411
+  }
+ }
+}
