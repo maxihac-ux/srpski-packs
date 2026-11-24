@@ -1,25 +1,21 @@
 {
-  "version": "2.60.29",
-  "code": 522,
-  "notes": "24.11 (№58): навигация настроек — «Автопроизношение» переехало в «Обучение» (это учебное поведение); «Обновление приложения», слои и быстрое обновление — в «Сервис и обновления»; «Сбросить прогресс» и «Стереть всё» — тоже туда: сервисные функции вместе, «О приложении» стало короче.",
-  "updatedAt": "2026-11-23T23:11:18+00:00",
-  "apkVersion": "2.60.29",
-  "apkCode": 522,
-  "apkTag": "apk-v2.60.29",
+  "version": "2.60.30",
+  "code": 523,
+  "notes": "24.11 (хотфикс №58): «снова не удалось обновиться» — найдена причина: слои «Ядро и интерфейс» публиковались не туда, CDN отдавал 404 — установка падала на каждом релизе с 513-го. Слои 522 вернули на место; загрузчик теперь при отказе CDN автоматически пробует зеркало.",
+  "updatedAt": "2026-11-23T23:56:15+00:00",
+  "apkVersion": "2.60.30",
+  "apkCode": 523,
+  "apkTag": "apk-v2.60.30",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.29",
-    "code": 522,
-    "sha256": "953f18f3752a4a8eba3b30f1ec56bb8ed04a17e0d0a3181186c7718a7b7c55a8",
-    "size": 8599414,
+    "version": "2.60.30",
+    "code": 523,
+    "sha256": "91f9e9a90949c63e5b08fd46dbffb68ab1f4b7a3490eca26939b68b824b54d0e",
+    "size": 8599473,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-522.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-523.zip",
     "minApkCode": 502,
-    "sig": "OTMGJkglfBpwgbT9miiuQe+v9I0uVgX+4YH0oQCIQ4+AOAAIBVsEgHno9rx0MXKFg/90htEf49mt1J3BJMrcAg=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "823bbedbd1eb887e3024dc6fc3ebbe02b39c8e928353d8928ea34a3d72e7dc10"
+    "sig": "Y86Ni/4p4N60212KvzkZ4qDBWrEZ4Zsv5dFfiV9ugF3JN11GFLnv4wX7WEd8EyXd2EPKIAooqtLuGewODCxcDg=="
   }
 }
