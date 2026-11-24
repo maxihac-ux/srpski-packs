@@ -1,25 +1,21 @@
 {
-  "version": "2.60.31",
-  "code": 524,
-  "notes": "24.11 (№59): озвучка на стенде — найдена причина: уровни показывались «Актуально ✓» без скачанной озвучки (фоновая докачка умирала в сети без VPN), и докачать было нечего — в карточке пакета не было ни статуса, ни кнопки. Теперь: строка уровня честно пишет «Озвучка не скачана» и даёт кнопку «докачать озвучку»; плашки при синтезе в браузере объясняют про сетевые голоса Chrome/Edge (VPN) и голос Windows — без «телефона» и непонятных Android-настроек.",
-  "updatedAt": "2026-11-24T00:33:19+00:00",
-  "apkVersion": "2.60.31",
-  "apkCode": 524,
-  "apkTag": "apk-v2.60.31",
+  "version": "2.60.32",
+  "code": 525,
+  "notes": "24.11 вечер (№60): кнопки «Отправить отчёт» при недоступной сети больше не теряют отчёт: он сохраняется файлом (srpski-*-report-дата.txt в папке загрузок, в APK — в «Загрузки»), и сообщение называет имя файла — отчёт можно переслать вручную. Работает во всех шести местах отправки (пакеты, курс, настройки, безопасный режим, предохранитель старта, установка урока). Причина жалобы: реле Telegram заблокировано в РФ без VPN — сетевая отправка не проходит.",
+  "updatedAt": "2026-11-24T02:27:04+00:00",
+  "apkVersion": "2.60.32",
+  "apkCode": 525,
+  "apkTag": "apk-v2.60.32",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.31",
-    "code": 524,
-    "sha256": "0230c14c94e90a57e783581930f639f017e0d45ca91f0cdca02d59fbaa54ea23",
-    "size": 8600970,
+    "version": "2.60.32",
+    "code": 525,
+    "sha256": "fbd2187d012baa5d6feab5ac4a503404f0786e42e1dcab10e4e13863382a2700",
+    "size": 8601760,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-524.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-525.zip",
     "minApkCode": 502,
-    "sig": "KfZSTrFgJ+D3nqpA9Dq52U05W1scZOZ7QtlzTz1p/Ss5BLUqIIMm2ackC3eO1KNIrt2ANjUxjgqDVih5d345Cw=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "e9e8923a51828ce74e8874cbbcebb29c9e2dee571dacb92c5456f0ba1385466f"
+    "sig": "VdbIUhkTqzCAJ/zhNe/LRuch1Rkdnbz22pT/YDvsSaxBQa+++vsFqRe28R+dYGS26y4LAGdUrrxiXIwZ2jw7Aw=="
   }
 }
