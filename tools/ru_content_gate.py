@@ -4,12 +4,13 @@
 
 Проверки по всем строкам (term/ex/dlg/qaq/qao) всех 4 уровневых паков:
   1) пустой RU-перевод; 2) латиница в RU (кроме белого списка цитат/размеров);
-  3) цифры в RU; 4) мусорный суффикс «-hand»; 5) pymorphy3: токены, не прошедшие
+  3) цифры в RU; 4) мусорный суффикс «-hand»; 4а) буквы не кириллицы/латиницы (иероглифы и т.п.); 5) pymorphy3: токены, не прошедшие
   через словарь (FakeDictionary-угадывания) и не в tools/ru_whitelist.txt.
 
 Вход:  python3 tools/ru_content_gate.py [--zips packs/*.zip | --dir tmp/work/content]
        (по умолчанию берётся ТОЛЬКО самая свежая версия каждого из a1/a2/b1/b2;
        аудио-, delta- и старые zip пропускаются)
+       --baseline tools/ru_gate_baseline.txt — известные нарушения не валят гейт (только новые)
 Выход: 0 — чисто; 1 — есть нарушения (список печатается); 2 — не хватает pymorphy3
        (используйте --no-morph, если морфологическая проверка не нужна).
 Белый список: tools/ru_whitelist.txt (по одному токену в строке; токены «начинаются с»).
@@ -17,12 +18,24 @@
 списка. Голый префикс «lat_» ничего не разрешает (аудит 2026-11-24: раньше он делал
 проверку латиницы всегда «зелёной»).
 """
-import argparse, glob, io, json, os, re, sys, zipfile
+import argparse, glob, io, json, os, re, sys, unicodedata, zipfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORD = re.compile(r'[а-яёА-ЯЁ-]+')
 LAT = re.compile(r'[A-Za-z]')
 DIG = re.compile(r'[0-9]')
+
+def foreign_letters(text):
+    """Буквы не кириллицы и не латиницы (иероглифы, арабица, греческий…).
+    Аудит 25.11: в b2 2.0.5 остался перевод «Эгоизм часто разрушает最美的关系。» —
+    проверка латиницы его не видела."""
+    out = []
+    for ch in text:
+        if ch.isalpha():
+            nm = unicodedata.name(ch, '')
+            if not (nm.startswith('CYRILLIC') or nm.startswith('LATIN')):
+                out.append(ch)
+    return out
 
 def load_whitelist():
     p = os.path.join(ROOT, 'tools', 'ru_whitelist.txt')
@@ -109,12 +122,63 @@ def rows_from_dir(base):
         out.extend(build_rows(lv, load('words.json'), load('qa.json'), load('dialogs.json')))
     return out
 
+def check_rows(rows, wl, morph=None):
+    """Список нарушений (lv, kind, rid, code, detail) по строкам контента."""
+    bad = []
+    for lv, kind, rid, sr, ru in rows:
+        if not ru.strip():
+            bad.append((lv, kind, rid, 'empty_ru', ''))
+        if LAT.search(ru) and not lat_ok(ru, wl):
+            bad.append((lv, kind, rid, 'latin_in_ru', ru[:60]))
+        if foreign_letters(ru):
+            bad.append((lv, kind, rid, 'foreign_script_in_ru', ru[:60]))
+        if DIG.search(ru):
+            bad.append((lv, kind, rid, 'digits_in_ru', ru[:60]))
+        if re.search(r'-hand\b', ru):
+            bad.append((lv, kind, rid, 'hand_suffix', ru[:60]))
+        if morph:
+            for tok in WORD.findall(ru):
+                low = tok.lower().strip('-')
+                if not low or whitelist_ok(low, wl):
+                    continue
+                if '-' in low and all(whitelist_ok(x, wl) for x in low.split('-')):
+                    continue
+                ps = morph.parse(low)
+                if ps and all(type(p.methods_stack[0][0]).__name__ != 'DictionaryAnalyzer' for p in ps):
+                    bad.append((lv, kind, rid, 'ru_unknown_token', low))
+    return bad
+
+def violation_key(v):
+    """Ключ нарушения для baseline: «уровень вид id код [токен]» (без текста строки)."""
+    lv, kind, rid, code, detail = v
+    return ' '.join([lv, kind, rid, code] + ([detail] if code == 'ru_unknown_token' else []))
+
+def load_baseline(path):
+    keys = set()
+    with open(path, encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):
+                keys.add(' '.join(line.split()))
+    return keys
+
+def split_by_baseline(bad, baseline):
+    """(новые, известные, устаревшие_ключи): гейт падает только на новых."""
+    seen = {violation_key(v) for v in bad}
+    new = [v for v in bad if violation_key(v) not in baseline]
+    known = [v for v in bad if violation_key(v) in baseline]
+    stale = sorted(baseline - seen)
+    return new, known, stale
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--zips', default='packs/sr-ru-*.zip',
                     help='маски через запятую; из найденного берётся самая свежая версия каждого уровня')
     ap.add_argument('--dir', help='вместо зипов: каталог с a1/a2/b1/b2/*.json (уже распакованные)')
     ap.add_argument('--no-morph', action='store_true', help='только структурные проверки')
+    ap.add_argument('--baseline', help='файл известных нарушений («уровень вид id код [токен]»): '
+                    'гейт падает только на НОВЫХ; устаревшие записи (исправлено — удалите) '
+                    'печатаются предупреждением')
     a = ap.parse_args()
     wl = load_whitelist()
     rows = []
@@ -160,27 +224,17 @@ def main():
             print('! pymorphy3 не установлен: pip install pymorphy3 (или запустите с --no-morph)')
             sys.exit(2)
 
-    bad = []
-    for lv, kind, rid, sr, ru in rows:
-        if not ru.strip():
-            bad.append((lv, kind, rid, 'empty_ru', ''))
-        if LAT.search(ru) and not lat_ok(ru, wl):
-            bad.append((lv, kind, rid, 'latin_in_ru', ru[:60]))
-        if DIG.search(ru):
-            bad.append((lv, kind, rid, 'digits_in_ru', ru[:60]))
-        if re.search(r'-hand\b', ru):
-            bad.append((lv, kind, rid, 'hand_suffix', ru[:60]))
-        if morph:
-            for tok in WORD.findall(ru):
-                low = tok.lower().strip('-')
-                if not low or whitelist_ok(low, wl):
-                    continue
-                if '-' in low and all(whitelist_ok(x, wl) for x in low.split('-')):
-                    continue
-                ps = morph.parse(low)
-                if ps and all(type(p.methods_stack[0][0]).__name__ != 'DictionaryAnalyzer' for p in ps):
-                    bad.append((lv, kind, rid, 'ru_unknown_token', low))
+    bad = check_rows(rows, wl, morph)
     all_bad = bad + ex_bad
+    if a.baseline:
+        base = load_baseline(a.baseline)
+        all_bad, known, stale = split_by_baseline(all_bad, base)
+        if known:
+            print(f'известные нарушения (baseline): {len(known)}')
+            for v in known:
+                print('  ~', *v)
+        for k in stale:
+            print(f'! устаревшая запись baseline (в паках уже исправлено — удалите): {k}')
     if all_bad:
         print('НАРУШЕНИЯ:', len(all_bad))
         for b in all_bad:
