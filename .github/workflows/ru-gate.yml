@@ -1,0 +1,27 @@
+# RU-гейт контента паков (tools/ru_content_gate.py).
+# Падает только на НОВЫХ нарушениях: известные — в tools/ru_gate_baseline.txt.
+# Морфологическая проверка (pymorphy3) здесь не запускается: она даёт ложные
+# ru_unknown_token на легитимных словах («ся», «оффер», «шуруповёрт»...);
+# включайте её локально и пополняйте tools/ru_whitelist.txt.
+name: RU-гейт контента
+
+on:
+  push:
+    branches: [main]
+    paths: ['packs/**', 'tools/**', '.github/workflows/ru-gate.yml']
+  pull_request:
+    paths: ['packs/**', 'tools/**', '.github/workflows/ru-gate.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  ru-gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Юнит-тесты гейта
+        run: python3 -I -m unittest discover -s tools -p 'test_*.py'
+      - name: RU-гейт (структурные проверки, baseline)
+        run: python3 -I tools/ru_content_gate.py --no-morph --baseline tools/ru_gate_baseline.txt
