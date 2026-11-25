@@ -1,25 +1,21 @@
 {
-  "version": "2.60.33",
-  "code": 526,
+  "version": "2.60.34",
+  "code": 527,
   "notes": "24.11 вечер (№60): кнопки «Отправить отчёт» при недоступной сети больше не теряют отчёт: он сохраняется файлом (srpski-*-report-дата.txt в папке загрузок, в APK — в «Загрузки»), и сообщение называет имя файла — отчёт можно переслать вручную. Работает во всех шести местах отправки (пакеты, курс, настройки, безопасный режим, предохранитель старта, установка урока). Причина жалобы: реле Telegram заблокировано в РФ без VPN — сетевая отправка не проходит.",
   "updatedAt": "2026-11-24T02:27:04+00:00",
-  "apkVersion": "2.60.33",
-  "apkCode": 526,
-  "apkTag": "apk-v2.60.33",
+  "apkVersion": "2.60.34",
+  "apkCode": 527,
+  "apkTag": "apk-v2.60.34",
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.33",
-    "code": 526,
-    "sha256": "8e8cf7acfb532488fdc0bd11a7134d91481f4a9941e31c4a635406538090ba54",
-    "size": 8601705,
+    "version": "2.60.34",
+    "code": 527,
+    "sha256": "3421f1961ee8fef8146a690de877051d6c2a36fc861652dba3cb76a92cda0246",
+    "size": 8601885,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-526.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-527.zip",
     "minApkCode": 459,
-    "sig": "iUXCnuUQ3oUMDMPZre3HwSiQEhzCEpFMi//FK1G4s9b+8nV6LAryARWNUqo4lpLovMNiOvalCiqLO7GcRn0LAg=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "63e339b9e7d7bf4eb887378f0ae465ddda1a371cff417df101ef04fe217c4f52"
+    "sig": "BN/k+HtWQS5bvIht5NisIwg2UQ8kYHw9BKf0/gk/di4+0/4G7zi9F0sITdai3hLLcYKq60hTB4dsxhLNCOzVCQ=="
   }
 }
