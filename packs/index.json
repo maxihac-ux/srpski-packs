@@ -1,6 +1,6 @@
 {
   "indexVersion": 2,
-  "generatedAt": "2026-11-23T05:01:37+00:00",
+  "generatedAt": "2026-11-25T03:31:28+00:00",
   "pairs": [
     {
       "native": "ru",
@@ -154,19 +154,19 @@
             "sr-ru-base"
           ],
           "title": "Сербский — уровень B1",
-          "version": "2.1.8",
+          "version": "2.1.9",
           "requiresCoreApi": 1,
-          "size": 892402,
-          "sha256": "32c8906fbc433be91e4e87c5603e7ea8cb16585c2aa7250a2f23de66486c4581",
+          "size": 892395,
+          "sha256": "ce9d6473425fe768fb55064ccb639b7f918c230ff67f0bcb5933f8a45207007a",
           "channel": "stable",
-          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.8.zip",
+          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.9.zip",
           "words": 1075,
-          "notes": "№55.1 (одобрено владельцем 23.11): дистракторы квиза переписаны по парадигмам и шаблонам ошибок, «клеёные» формы убраны; каждый дистрактор — реальная форма из таблиц или типичная ошибка из шаблона (метка src в данных). Азбука/topics байт-в-байт. №63 (24.11): w2372 «Насherited» → «Наследственная болезнь редка.» (гейт latin_in_ru), выпуск 2.1.8",
+          "notes": "№55.1 (одобрено владельцем 23.11): дистракторы квиза переписаны по парадигмам и шаблонам ошибок, «клеёные» формы убраны; каждый дистрактор — реальная форма из таблиц или типичная ошибка из шаблона (метка src в данных). Азбука/topics байт-в-байт. №63 (24.11): w2372 «Насherited» → «Наследственная болезнь редка.» (гейт latin_in_ru), выпуск 2.1.8 №68 (25.11, доводка аудита): w2777 «устье;河口» → «устье» (гейт foreign_script_in_ru, влив PR #4); пересборка из опубликованного 2.1.8 заменой РОВНО ОДНОГО файла content/words.json, verifyPack ok:true. Выпуск 2.1.9",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.8.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.9.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.8.files.json",
-          "filesManifestSha256": "f7aad027956efc355ab91fe618df8a2359f17a4e6abf37403bbdea52ff0f4d4c",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.9.files.json",
+          "filesManifestSha256": "c07c3ab7359aa2b95897824f8d78d14206aafe10c592fe2e02385509edc08308",
           "deltas": [
             {
               "from": "2.1.7",
@@ -177,6 +177,16 @@
               ],
               "size": 690097,
               "sha256": "e8cd5b5fe80be703ce33695760e3e75545875a0d11c61302b6e8b0479f1f1728"
+            },
+            {
+              "from": "2.1.8",
+              "to": "2.1.9",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b1-2.1.8-to-2.1.9.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.8-to-2.1.9.delta.zip"
+              ],
+              "size": 690090,
+              "sha256": "8da4f1b68c8312a58971a5a19ccfb2a4676997f987a90a2873a417dd366606db"
             }
           ],
           "sig": "H49VweT+n/1e36Jm7PBLQbdD4lue5/UQuVEsHzJgpOEKdirUDkk5JpudpbTSgID4gePhKbPPJ2V7kpdxCqZTBA=="
@@ -188,22 +198,22 @@
           "target": "sr",
           "level": "B2",
           "title": "Сербский — уровень B2",
-          "version": "2.0.6",
+          "version": "2.0.7",
           "requiresCoreApi": 1,
           "requires": [
             "sr-ru-base"
           ],
-          "size": 1542484,
-          "sha256": "89b961786510964714cd995427086b4a283c3c96a9ae29e5ca304b3f36ffe976",
+          "size": 1542496,
+          "sha256": "513a35a42f60dc6b1de9eb90b6a61958c39d07291a2bc6abbd069bdc65a63da2",
           "channel": "stable",
-          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-2.0.6.zip",
+          "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-2.0.7.zip",
           "words": 1993,
-          "notes": "№63 (24.11): исправлены и выпущены все три записи baseline №12 п.4.2 — w3397 «loose» → «свободный союз» (fc156b4c), w3944 «Профessor» → «Профессор» (fc156b4c), w4193 «最美的关系» → «самые красивые отношения» (№63; CJK гейт латиницы не ловил). Выпуск 2.0.6, RU-гейт зелёный",
+          "notes": "№63 (24.11): исправлены и выпущены все три записи baseline №12 п.4.2 — w3397 «loose» → «свободный союз» (fc156b4c), w3944 «Профessor» → «Профессор» (fc156b4c), w4193 «最美的关系» → «самые красивые отношения» (№63; CJK гейт латиницы не ловил). Выпуск 2.0.6, RU-гейт зелёный №68 (25.11, доводка аудита): w3675#0 и w4094#0 — убраны иероглифы (гейт foreign_script_in_ru, влив PR #4); пересборка из опубликованного 2.0.6 заменой РОВНО ОДНОГО файла content/words.json, verifyPack ok:true. Выпуск 2.0.7",
           "mirrors": [
-            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-2.0.6.zip"
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-2.0.7.zip"
           ],
-          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-2.0.6.files.json",
-          "filesManifestSha256": "95eaee0d6125ad7f4e7fcb7f6abd46e133d2bc5ec1f7555a7fd26815af318e1f",
+          "filesManifestUrl": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-2.0.7.files.json",
+          "filesManifestSha256": "33299dd1df6b8099cd846408113ba318bb59e9d6ea7221a617de9ee921bf67d7",
           "deltas": [
             {
               "from": "2.0.5",
@@ -214,6 +224,16 @@
               ],
               "size": 1320229,
               "sha256": "bb75ca638e0c0fcb45de765a89907aaed10bb9af74d6684a06aa967c5eb41f16"
+            },
+            {
+              "from": "2.0.6",
+              "to": "2.0.7",
+              "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/packs/sr-ru-b2-2.0.6-to-2.0.7.delta.zip",
+              "mirrors": [
+                "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-2.0.6-to-2.0.7.delta.zip"
+              ],
+              "size": 1320241,
+              "sha256": "d59c2538d8fa11b079281c69d90d69ba543d3942871074e7ba0a06cec4b591e0"
             }
           ],
           "sig": "kB8VCq6O7R2wHE20iLtbUljRoeE6dzL81+N8f4bh0NaDiGSU3blMgnARSl9yb9wL7WrBmAxL9Vi0mVfHFVMsBQ=="
