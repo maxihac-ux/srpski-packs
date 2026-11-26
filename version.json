@@ -1,25 +1,37 @@
 {
-  "version": "2.60.36",
-  "code": 529,
+  "version": "2.60.37",
+  "code": 530,
   "notes": "24.11 вечер (№60): кнопки «Отправить отчёт» при недоступной сети больше не теряют отчёт: он сохраняется файлом (srpski-*-report-дата.txt в папке загрузок, в APK — в «Загрузки»), и сообщение называет имя файла — отчёт можно переслать вручную. Работает во всех шести местах отправки (пакеты, курс, настройки, безопасный режим, предохранитель старта, установка урока). Причина жалобы: реле Telegram заблокировано в РФ без VPN — сетевая отправка не проходит.",
   "updatedAt": "2026-11-24T02:27:04+00:00",
-  "apkVersion": "2.60.36",
-  "apkCode": 529,
-  "apkTag": "apk-v2.60.36",
+  "apkVersion": "2.60.37",
+  "apkCode": 530,
+  "apkTag": "apk-v2.60.37",
+  "apk": {
+    "version": "2.60.37",
+    "code": 530,
+    "tag": "apk-v2.60.37",
+    "full": {
+      "name": "srpski-od-nule.apk",
+      "sha256": "44214e9b8c15e0d871fe752e53d324c6033a0d5c9b9b4cbeaced4225d4eef44f",
+      "size": 281187405
+    },
+    "core": {
+      "name": "srpski-od-nule-core.apk",
+      "sha256": "a62564e6a8495442b19b0877e7ee92ae5468237f05d1d4b2f9133357bde2ebe2",
+      "size": 3850982
+    },
+    "sig": "ISphc9TPvVsLBhChP6I3cZKvrdJstgWTXT8rfqhWwt3QIcHoE4EFmRTbEM3qY3cZdDbjYYrfRwcoQn1S5VdDCQ=="
+  },
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.36",
-    "code": 529,
-    "sha256": "6756b7693bee46e6e4fbbddae905f3ec32cb89f4dba23f4a8a6a689c17965e7d",
-    "size": 8601640,
+    "version": "2.60.37",
+    "code": 530,
+    "sha256": "a027b33e4c2c01fefdb0882f0b5a6b9c35fa38e8fce05dd5302419b653cf53a7",
+    "size": 8602034,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-529.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-530.zip",
     "minApkCode": 459,
-    "sig": "NSWi/NeUs0x1lxh8K/B1+loWWRplGDq8mdbA+rmgGvmoLgumtCCOLVDHA+6OGT1En+beeA8QhOlnxQYtP6WdAg=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "7ca79dce20e00b2e82d59da5bbfc7f5f4a7b3e30f1e540a3eb18ddb033b0c519"
+    "sig": "MeMC+PA4cpS6ZQm+GdG/Gt4C7BOmGNn81a416EjE/eMDjH8dmgAj+LRLQUiNDsBhM04h42Zdha0kNEkiP6ewCQ=="
   }
 }
