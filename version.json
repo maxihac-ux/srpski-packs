@@ -33,5 +33,9 @@
     "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-530.zip",
     "minApkCode": 459,
     "sig": "MeMC+PA4cpS6ZQm+GdG/Gt4C7BOmGNn81a416EjE/eMDjH8dmgAj+LRLQUiNDsBhM04h42Zdha0kNEkiP6ewCQ=="
+  },
+  "layers": {
+    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
+    "sha256": "e11b1e64d632c934cb3b4deb9afa5940d8debe2f99d662fa04f92ab567642589"
   }
 }
