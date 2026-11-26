@@ -1,41 +1,37 @@
 {
-  "version": "2.60.37",
-  "code": 530,
+  "version": "2.60.38",
+  "code": 531,
   "notes": "24.11 вечер (№60): кнопки «Отправить отчёт» при недоступной сети больше не теряют отчёт: он сохраняется файлом (srpski-*-report-дата.txt в папке загрузок, в APK — в «Загрузки»), и сообщение называет имя файла — отчёт можно переслать вручную. Работает во всех шести местах отправки (пакеты, курс, настройки, безопасный режим, предохранитель старта, установка урока). Причина жалобы: реле Telegram заблокировано в РФ без VPN — сетевая отправка не проходит.",
   "updatedAt": "2026-11-24T02:27:04+00:00",
-  "apkVersion": "2.60.37",
-  "apkCode": 530,
-  "apkTag": "apk-v2.60.37",
+  "apkVersion": "2.60.38",
+  "apkCode": 531,
+  "apkTag": "apk-v2.60.38",
   "apk": {
-    "version": "2.60.37",
-    "code": 530,
-    "tag": "apk-v2.60.37",
+    "version": "2.60.38",
+    "code": 531,
+    "tag": "apk-v2.60.38",
     "full": {
       "name": "srpski-od-nule.apk",
-      "sha256": "44214e9b8c15e0d871fe752e53d324c6033a0d5c9b9b4cbeaced4225d4eef44f",
+      "sha256": "4c4ea32717fddc6c8a6a5f32ba0a8f5bd53527c99d31ab8185d7d6c604cb39bc",
       "size": 281187405
     },
     "core": {
       "name": "srpski-od-nule-core.apk",
-      "sha256": "a62564e6a8495442b19b0877e7ee92ae5468237f05d1d4b2f9133357bde2ebe2",
+      "sha256": "7991e3bd861ffc6c0eb91c0b5ed4462e8aefbd08cdb3c4254300a98b136831b2",
       "size": 3850982
     },
-    "sig": "ISphc9TPvVsLBhChP6I3cZKvrdJstgWTXT8rfqhWwt3QIcHoE4EFmRTbEM3qY3cZdDbjYYrfRwcoQn1S5VdDCQ=="
+    "sig": "AMYnGH9Ea1gYB+nbq7j8HDoc5pMh3EPwAeBQ0bcHYhkcH5UrRpeMbeqViCk6RvwY8W6YPPa8NgAMPn2OBxSqCQ=="
   },
   "apkCore": "srpski-od-nule-core.apk",
   "hotBundle": {
     "enabled": true,
-    "version": "2.60.37",
-    "code": 530,
-    "sha256": "a027b33e4c2c01fefdb0882f0b5a6b9c35fa38e8fce05dd5302419b653cf53a7",
-    "size": 8602034,
+    "version": "2.60.38",
+    "code": 531,
+    "sha256": "c1e3ae95a81c0dddccf1b4f627c1912e44974b37f5d6dff030d262579cc60d04",
+    "size": 8602028,
     "files": 81,
-    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-530.zip",
+    "url": "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/webbundle/web-bundle-531.zip",
     "minApkCode": 459,
-    "sig": "MeMC+PA4cpS6ZQm+GdG/Gt4C7BOmGNn81a416EjE/eMDjH8dmgAj+LRLQUiNDsBhM04h42Zdha0kNEkiP6ewCQ=="
-  },
-  "layers": {
-    "url": "https://raw.githubusercontent.com/maxihac-ux/srpski-packs/main/layers/index.json",
-    "sha256": "e11b1e64d632c934cb3b4deb9afa5940d8debe2f99d662fa04f92ab567642589"
+    "sig": "ce2WWk7UWQP51dkpKMvGfYRKyDE4E8FVACa9ZXowELbJGjauTV1VtlmfCTQhjxEfMD4Zr04ksgaJRY7lqidZAQ=="
   }
 }
